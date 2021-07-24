@@ -1,17 +1,4 @@
 ---
-' 𑄝𑄬𑄇𑄴 𑄟𑄚𑄪𑄌𑄴 𑄚𑄨𑄢𑄨𑄞𑄨𑄣𑄨 𑄥𑄧𑄁 𑄃𑄨𑄌𑄴𑄎𑄮𑄖𑄴 𑄃𑄳𑄃 𑄃𑄇𑄴𑄇𑄥𑄁 𑄚𑄨𑄚𑄬𑄭 𑄎𑄧𑄚𑄴𑄟𑄚𑄴𑅁 𑄖𑄢𑄢𑄴 𑄃𑄬𑄘 𑄃𑄳𑄃 𑄝𑄪𑄖𑄴𑄙𑄨 𑄃𑄊𑄬; 𑄥𑄬𑄚𑄧𑄖𑄳𑄠𑄴 𑄝𑄬𑄇𑄴𑄅𑄚𑄧𑄢𑄴 𑄃𑄬𑄇𑄴𑄎𑄧𑄚𑄴 𑄃𑄢𑄬𑄇𑄴 𑄎𑄧𑄚𑄧𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄉𑄧𑄟𑄴 𑄘𑄮𑄣𑄴 𑄌𑄨𑄘𑄳𑄠𑄬 𑄚𑄨𑄚𑄬𑄭 𑄌𑄧𑄣𑄚 𑄅𑄪𑄌𑄨𑄖𑄴𑅁':
-  lang: ccp
-  lang_639_3: ccp
-  lang_bcp_udhr: ccp
-  lang_full: ccp-Cakm-BD
-  lang_opt: ccp-Cakm-BD
-  name_autonym: 𑄌𑄋𑄴𑄟𑄳𑄦 (𑄌𑄇𑄴𑄟, 𑄝𑄁𑄣𑄘𑄬𑄌𑄴)
-  name_lang: Chakma (Chakma, Bangladesh)
-  name_udhr: Chakma
-  script: Cakm
-  source: https://unicode.org/udhr/
-  territory: BD
-  udhr_key: ccp
 '''Enauac na naaxat shiỹaxauapi na mayipi huesochiguii qataq ''eeta''a''t da l''amaqchic qataq da ''enec qataq ỹataqta ỹaỹate''n naua lataxaco qataq nua no''o''n nvilỹaxaco, qaq ỹoqo''oyi iuen da i ''oonolec ỹataqta itauan ichoxoden ca lỹa':
   lang: tob
   lang_639_3: tob
@@ -1093,7 +1080,7 @@ Banhu bose bakabyalagwa na wiyabi na bakabizaga na makujo na sekge jabo jilengan
   source: https://unicode.org/udhr/
   territory: TZ
   udhr_key: suk
-Banhu bose bubyalagwa biyagalulile, n’ikujo haki zilenganelile.:
+Banhu bose bubyalagwa biyagalulile, n’ikujo haki zilenganelile. Banhu bose bina masala na wiganiki, hu kuyomba ihayilwe bitogwe giti bana ba mbyazi bumo.:
   lang: nym
   lang_639_3: nym
   lang_bcp_udhr: nym
@@ -1101,16 +1088,6 @@ Banhu bose bubyalagwa biyagalulile, n’ikujo haki zilenganelile.:
   lang_opt: nym-Latn-TZ
   name_lang: Nyamwezi (Latin, Tanzania)
   name_udhr: Nyamwezi
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: TZ
-  udhr_key: nym
-Banhu bose bubyalagwa biyagalulile, n’ikujo haki zilenganelile. Banhu bose bina masala na wiganiki, hu kuyomba ihayilwe bitogwe giti bana ba mbyazi bumo.:
-  lang: nym
-  lang_639_3: nym
-  lang_full: nym-Latn-TZ
-  lang_opt: nym-Latn-TZ
-  name_lang: Nyamwezi (Latin, Tanzania)
   script: Latn
   source: https://unicode.org/udhr/
   territory: TZ
@@ -1514,7 +1491,7 @@ Bütün insanlar ləyaqət və hüquqlarına görə azad və bərabər doğulurl
   source: https://unicode.org/udhr/
   territory: AZ
   udhr_key: azj_latn
-Bütün insanlar serbestlik, menlik ve uquqlarda musaviy olıp dünyağa keleler. Olar aqıl ve vicdan saibidirler ve biri-birilerinen qardaşçasına munasebette bulunmalıdırlar:
+Bütün insanlar serbestlik, menlik ve uquqlarda musaviy olıp dünyağa keleler. Olar aqıl ve vicdan saibidirler ve biri-birilerinen qardaşçasına munasebette bulunmalıdırlar.:
   lang: crh
   lang_639_3: crh
   lang_bcp_udhr: crh
@@ -1522,16 +1499,6 @@ Bütün insanlar serbestlik, menlik ve uquqlarda musaviy olıp dünyağa keleler
   lang_opt: crh-Latn-UA
   name_lang: Crimean Turkish (Latin, Ukraine)
   name_udhr: Crimean Tatar
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: UA
-  udhr_key: crh
-Bütün insanlar serbestlik, menlik ve uquqlarda musaviy olıp dünyağa keleler. Olar aqıl ve vicdan saibidirler ve biri-birilerinen qardaşçasına munasebette bulunmalıdırlar.:
-  lang: crh
-  lang_639_3: crh
-  lang_full: crh-Latn-UA
-  lang_opt: crh-Latn-UA
-  name_lang: Crimean Turkish (Latin, Ukraine)
   script: Latn
   source: https://unicode.org/udhr/
   territory: UA
@@ -1572,27 +1539,18 @@ Chijunil li poyanam juntaq'eet wankil xloq'al naq nake'yo'la, ut kama' ak reheb'
   territory: US
   udhr_key: kek
 Chix zox key zifyour, an hu tsunxyanr thungs chianrlif nu phinrten. Tsoxnur nes lishinf thungs leyx o, laiv kuanxshif to tseyr ti cinxsenr shiangxtaif.:
-  lang: und
-  lang_639_3: und
-  lang_bcp_udhr: und
-  lang_full: und-Latn-US
-  lang_opt: und-Latn-US
-  name_lang: Unknown language (Latin, United States)
-  name_udhr: (Klau)
+  lang: giw
+  lang_639_3: giw
+  lang_bcp_udhr: giw
+  lang_full: giw-Latn-CN
+  lang_opt: giw-Latn-CN
+  name_lang: Gelao (Latin, China)
+  name_omniglot: Gelao (Kláo)
+  name_udhr: Gelao (Klau)
   script: Latn
   source: https://unicode.org/udhr/
-  territory: US
-  udhr_key: '022'
-Chix zox key zifyour, an hu tsunxyanr thungs chianrlif nu phinrten. Tsoxnur nes lishinf thungs leyxo, laiv kuanxshif to tseyr ti cinxsenr shiangxtaif:
-  lang: giu
-  lang_639_3: giu
-  lang_full: giu-Zyyy-CN
-  lang_opt: giu-Zyyy
-  name_lang: Mulao (Common)
-  name_omniglot: Gelao (Kláo)
-  script: Zyyy
-  source: https://omniglot.com/udhr/
   territory: CN
+  udhr_key: '022'
 Chiyu mahufuchay tu tamlaw, maemin pingdeng ichunyan a kngli. Iraay chaira lishing a naay a naay a harateng, pimaulahsha u harateng nu kaka shafa.:
   lang: ami
   lang_639_3: ami
@@ -1711,8 +1669,8 @@ Duk ‘yan’adan ana haihuwarsu ne a matsayin ‘yantattun ‘ya’ya, kuma mut
   lang: ha
   lang_639_3: hau
   lang_bcp_udhr: ha
-  lang_full: ha-Latn-NG
-  lang_opt: ha-Latn-NG
+  lang_full: ha-Latn-NG-x-2018
+  lang_opt: ha-Latn-NG-x-2018
   name_autonym: Hausa (Najeriya)
   name_lang: Hausa (Nigeria)
   name_udhr: Hausa
@@ -2204,28 +2162,18 @@ Imdanen, akken ma llan ttlalen d ilelliyen msawan di lḥweṛma d yizerfan- ghu
   source: https://unicode.org/udhr/
   territory: MA
   udhr_key: tzm
-Imdanen, akken ma llan ttlalen d ilelliyen msawan di lḥweṛma d yizerfan-ghur sen tamsakwit d lâquel u yessefk ad-tili tegmatt gar asen.:
-  lang: tzm
-  lang_639_3: tzm
-  lang_full: tzm-Latn-MA
-  lang_opt: tzm-Latn-MA
-  name_autonym: Tamaziɣt n laṭlaṣ (Meṛṛuk)
-  name_lang: Central Atlas Tamazight (Morocco)
-  source: https://unicode.org/udhr/
-  territory: MA
-  udhr_key: tzm
 Innama aadeeji fof poti, ndimɗidi e jibinannde to bannge hakkeeji. Eɓe ngoodi miijo e hakkilantaagal ete eɓe poti huufo ndirde e nder ɓ iynguyummaagu.:
-  lang: fuv
-  lang_639_3: fuv
-  lang_bcp_udhr: fuv
-  lang_full: fuv-Latn-NG
-  lang_opt: fuv-Latn-NG
-  name_lang: Nigerian Fulfulde (Latin, Nigeria)
+  lang: fuc
+  lang_639_3: fuc
+  lang_bcp_udhr: fux
+  lang_full: fuc-Latn-GN
+  lang_opt: fuc-Latn
+  name_lang: Pulaar (Latin, Guinea)
   name_omniglot: Fula
-  name_udhr: Fulfulde, Nigerian
+  name_udhr: Pulaar
   script: Latn
   source: https://unicode.org/udhr/
-  territory: NG
+  territory: GN
   udhr_key: fuv
 Insannar hepsi duuêrlar serbest hem birtakım kendi kıymetindä hem haklarında. Onnara verilmiş akıl hem üz da läazım biri-birinä davransınnar kardaşlık ruhuna uygun.:
   lang: gag
@@ -2301,25 +2249,15 @@ Jatíbi joninra huetsa jonibaon yoiai nincáresti iqui, jahueraquibi jaconmai ia
   source: https://unicode.org/udhr/
   territory: US
   udhr_key: shp
-"Kai rahvas roittahes vällinny da taza-arvozinnu omas arvos da oigevuksis.\nJogahizele heis on annettu mieli da omatundo da heil vältämättäh\npidäy olla keskenäh, kui vellil.":
+Kai rahvas roittahes vällinny da taza-arvozinnu omas arvos da oigevuksis. Jogahizele heis on annettu mieli da omatundo da heil vältämättäh pidäy olla keskenäh, kui vellil.:
   lang: krl
   lang_639_3: krl
   lang_bcp_udhr: krl
   lang_full: krl-Latn-RU
   lang_opt: krl-Latn-RU
   name_lang: Karelian (Latin, Russia)
-  name_udhr: Karelian
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: RU
-  udhr_key: krl
-Kai rahvas roittahes vällinny da taza-arvozinnu omas arvos da oigevuksis. Jogahizele heis on annettu mieli da omatundo da heil vältämättäh pidäy olla keskenäh, kui vellil.:
-  lang: krl
-  lang_639_3: krl
-  lang_full: krl-Latn-RU
-  lang_opt: krl-Latn-RU
-  name_lang: Karelian (Latin, Russia)
   name_omniglot: Karelian (Karjalan kieli)
+  name_udhr: Karelian
   script: Latn
   source: https://unicode.org/udhr/
   territory: RU
@@ -2516,25 +2454,14 @@ Kpukpuru owo emana nte amanison, enyun enyene ukem ukem uku ye unen. Eyoho mmo y
 Kua anau rangatira ia te tangata katoatoa ma te aiteite i te au tikaanga e te tu ngateitei tiratiratu. Kua ki ia ratou e te mero kimi ravenga e te akavangakau e kia akono tetai i tetai, i roto i te vaerua piri anga taeake.:
   lang: rar
   lang_639_3: rar
-  lang_full: rar-Latn-US
-  lang_opt: rar-Latn-US
-  name_lang: Rarotongan (Latin, United States)
+  lang_full: rar-Latn-CK
+  lang_opt: rar-Latn
+  name_lang: Rarotongan (Latin, Cook Islands)
   name_omniglot: Rarotongan (Māori Kūki 'Āirani/reo ipukarea)
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: US
-  udhr_key: rar
-"Kua anau rangatira ia te tangata katoatoa ma te aiteite i te au tikaanga e te tu ngateitei tiratiratu.\_ Kua ki ia ratou e te mero kimi ravenga e te akavangakau e kia akono tetai i tetai, i roto i te vaerua piri anga taeake.":
-  lang: rar
-  lang_639_3: rar
-  lang_bcp_udhr: rar
-  lang_full: rar-Latn-US
-  lang_opt: rar-Latn-US
-  name_lang: Rarotongan (Latin, United States)
   name_udhr: Rarotongan
   script: Latn
   source: https://unicode.org/udhr/
-  territory: US
+  territory: CK
   udhr_key: rar
 Kuentsal nap wah-chínal tee ti chabal jayechek-i antip wah-chínal, bá tamá maxak a pulik maxak in exlal, jununul aní ni chap aní jaxtam ko-yal kip le-naxín aní ki k-ana ti ba.:
   lang: hus
@@ -2639,17 +2566,6 @@ L'ome naissa liure e egal en dignitat e en drèit. Los omes son dotats de razon 
   script: Latn
   source: https://omniglot.com/udhr/
   territory: FR
-La juu dsa lu siä Dsa kö ñi ba dsa, nía kö ni' ba na lu' dsa e dsa tï é li jnia' roö'.:
-  lang: chj
-  lang_639_3: chj
-  lang_full: chj-Latn-US
-  lang_opt: chj-Latn-US
-  name_lang: Ojitlán Chinantec (Latin, United States)
-  name_omniglot: Chinanteco, Ajitlán
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: US
-  udhr_key: chj
 La juu dsa lu siä –Dsa kö ñi ba dsa, nía kö ni' ba na lu' dsa e dsa tï é li jnia' roö'.:
   lang: chj
   lang_639_3: chj
@@ -3006,18 +2922,6 @@ Minden emberi lény szabadon születik és egyenlő méltósága és joga van. A
   name_autonym: magyar (Magyarország)
   name_lang: Hungarian (Hungary)
   name_omniglot: Hungarian (Magyar)
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: HU
-  udhr_key: hun
-Minden. emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.:
-  lang: hu
-  lang_639_3: hun
-  lang_bcp_udhr: hu
-  lang_full: hu-Latn-HU
-  lang_opt: hu-Latn-HU
-  name_autonym: magyar (Magyarország)
-  name_lang: Hungarian (Hungary)
   name_udhr: Hungarian
   script: Latn
   source: https://unicode.org/udhr/
@@ -3419,25 +3323,15 @@ O athu woso avwala abhuluka ni kusokela mu kijingu ni mu itekelu. Ene ala ni ulu
   source: https://unicode.org/udhr/
   territory: AO
   udhr_key: kmb
-O tagata soifua uma ua saoloto lo latou fananau mai, ma e tutusa o latou tulaga aloaia faapea a latou aia tatau. Ua faaeeina atu i a latou le mafaufau lelei ma le loto fuatiaifo ma e tatau ona faatino le agaga faauso i le va o le tasi i le isi,:
+O tagata soifua uma ua saoloto lo latou fananau mai, ma e tutusa o latou tulaga aloaia faapea a latou aia tatau. Ua faaeeina atu i a latou le mafaufau lelei ma le loto fuatiaifo ma e tatau ona faatino le agaga faauso i le va o le tasi i le isi.:
   lang: sm
   lang_639_3: smo
   lang_bcp_udhr: sm
   lang_full: sm-Latn-WS
   lang_opt: sm-Latn-WS
   name_lang: Samoan (Samoa)
-  name_udhr: Samoan
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: WS
-  udhr_key: smo
-O tagata soifua uma ua saoloto lo latou fananau mai, ma e tutusa o latou tulaga aloaia faapea a latou aia tatau. Ua faaeeina atu i a latou le mafaufau lelei ma le loto fuatiaifo ma e tatau ona faatino le agaga faauso i le va o le tasi i le isi.:
-  lang: sm
-  lang_639_3: smo
-  lang_full: sm-Latn-WS
-  lang_opt: sm-Latn-WS
-  name_lang: Samoan (Samoa)
   name_omniglot: Samoan (Gagana Samoa)
+  name_udhr: Samoan
   script: Latn
   source: https://unicode.org/udhr/
   territory: WS
@@ -4040,27 +3934,17 @@ Si'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye kon
   source: https://unicode.org/udhr/
   territory: US
   udhr_key: sey
-"Sia'bai̱ aideo'yë goa'ye beoye gu̱i'ne sia'yë'quë maca\nbai'ye gu̱i'ne quëco baye co̱ni, ja̱je̱ goachase'sëte goa'ju̱i'ñe beoye ñese saiye\nbai'ji co̱caijë yequë bai̱reje.":
-  lang: snn
-  lang_639_3: snn
-  lang_bcp_udhr: snn
-  lang_full: snn-Latn-US
-  lang_opt: snn-Latn-US
-  name_lang: Siona (Latin, United States)
-  name_udhr: Siona
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: US
-  udhr_key: snn
 Sia'bai̱ aideo'yë goa'ye beoye gu̱i'ne sia'yë'quë maca bai'ye gu̱i'ne quëco baye co̱ni, ja̱je̱ goachase'sëte goa'ju̱i'ñe beoye ñese saiye bai'ji co̱caijë yequë bai̱reje.:
   lang: snn
   lang_639_3: snn
-  lang_full: snn-Latn-US
-  lang_opt: snn-Latn-US
-  name_lang: Siona (Latin, United States)
+  lang_bcp_udhr: snn
+  lang_full: snn-Latn-CO
+  lang_opt: snn-Latn
+  name_lang: Siona (Latin)
+  name_udhr: Siona
   script: Latn
   source: https://unicode.org/udhr/
-  territory: US
+  territory: CO
   udhr_key: snn
 Sininna rupa tau ri jajiangngi rilinoe nappunnai manengngi riasengnge alebbireng . Nappunai riasengnge akkaleng, nappunai riasengnge ati marennni na sibole bolena pada sipakatau pada massalasureng.:
   lang: bug
@@ -4152,8 +4036,8 @@ Su dai ‘yan-adam, ana haifuwarsu ne duka ‘yantattu, kuma kowannensu na da mu
   lang: ha
   lang_639_3: hau
   lang_bcp_udhr: ha-NG
-  lang_full: ha-Latn-NG
-  lang_opt: ha-Latn-NG
+  lang_full: ha-Latn-NG-x-1998
+  lang_opt: ha-Latn-NG-x-1998
   name_autonym: Hausa (Najeriya)
   name_lang: Hausa (Nigeria)
   name_udhr: Hausa (Nigeria)
@@ -4342,7 +4226,7 @@ Teehuu sʋnɔ n ther ɛɛ nɩɩ bʋnɔ wa n do deeaʔ sɩ wʋ n makha samɩnɩ n
   source: https://unicode.org/udhr/
   territory: US
   udhr_key: lob
-Teraka afaka sy mitovy zo sy fahamendrehana ny olombelona rehetra. Samy manan-tsaina sy fieritreretana ka tokony hifampitondra am- pirahalahiana.:
+Teraka afaka sy mitovy zo sy fahamendrehana ny olombelona rehetra. Samy manan-tsaina sy fieritreretana ka tokony hifampitondra am-pirahalahiana.:
   lang: mg
   lang_639_3: mlg
   lang_bcp_udhr: mg
@@ -4351,17 +4235,6 @@ Teraka afaka sy mitovy zo sy fahamendrehana ny olombelona rehetra. Samy manan-ts
   name_autonym: Malagasy (Madagasikara)
   name_lang: Malagasy (Madagascar)
   name_udhr: Malagasy, Plateau
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: MG
-  udhr_key: plt
-Teraka afaka sy mitovy zo sy fahamendrehana ny olombelona rehetra. Samy manan-tsaina sy fieritreretana ka tokony hifampitondra ampirahalahiana.:
-  lang: mg
-  lang_639_3: mlg
-  lang_full: mg-Latn-MG
-  lang_opt: mg-Latn-MG
-  name_autonym: Malagasy (Madagasikara)
-  name_lang: Malagasy (Madagascar)
   script: Latn
   source: https://unicode.org/udhr/
   territory: MG
@@ -4608,7 +4481,7 @@ Tomamo waomo ekame wee anamay inani tomemo kewengi beye tomamo neemompa noynga i
   source: https://unicode.org/udhr/
   territory: EC
   udhr_key: auc
-Tos lès-omes vinèt å monde lîbes èt égåls po çou qu'èst d' leû dignité èt d' leûs dreûts. Leû re°zon èt leû consyince elzî fe°t on d'vwér di s'kidûre inte di zèle come dès frès:
+Tos lès-omes vinèt å monde lîbes èt égåls po çou qu'èst d' leû dignité èt d' leûs dreûts. Leû re°zon èt leû consyince elzî fe°t on d'vwér di s'kidûre inte di zèle come dès frès.:
   lang: pcd
   lang_639_3: pcd
   lang_bcp_udhr: pcd
@@ -4616,16 +4489,6 @@ Tos lès-omes vinèt å monde lîbes èt égåls po çou qu'èst d' leû dignit�
   lang_opt: pcd-Latn-FR
   name_lang: Picard (Latin, France)
   name_udhr: Picard
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: FR
-  udhr_key: pcd
-Tos lès-omes vinèt å monde lîbes èt égåls po çou qu'èst d' leû dignité èt d' leûs dreûts. Leû re°zon èt leû consyince elzî fe°t on d'vwér di s'kidûre inte di zèle come dès frès.:
-  lang: pcd
-  lang_639_3: pcd
-  lang_full: pcd-Latn-FR
-  lang_opt: pcd-Latn-FR
-  name_lang: Picard (Latin, France)
   script: Latn
   source: https://unicode.org/udhr/
   territory: FR
@@ -4647,8 +4510,8 @@ Tot igls carstgangs neschan libers ed eguals an dignitad ed an dretgs. Els èn d
   lang: rm
   lang_639_3: roh
   lang_bcp_udhr: rm-surmiran
-  lang_full: rm-Latn-CH
-  lang_opt: rm-Latn-CH
+  lang_full: rm-Latn-CH-surmiran
+  lang_opt: rm-Latn-CH-surmiran
   name_autonym: rumantsch (Svizra)
   name_lang: Romansh (Switzerland)
   name_omniglot: Romansch (Surmiran)
@@ -4657,25 +4520,15 @@ Tot igls carstgangs neschan libers ed eguals an dignitad ed an dretgs. Els èn d
   source: https://unicode.org/udhr/
   territory: CH
   udhr_key: roh_surmiran
-Tot j essèri umèn i nàs lébri e cumpagn in dignità e dirét. Lou i è dutid ad rasoun e ad cuscinza e i à da operè, ognun ti cunfrunt at ch'j ilt, sa sentimint ad fratelènza.:
+Tot j essèri umèn i nàs lébri e cumpagn in dignità e dirét. Lou i è dutid ad rasoun e ad cuscinza e i à da operè, ognun ti cunfrunt at ch’j ilt, sa sentimint ad fratelènza.:
   lang: rgn
   lang_639_3: rgn
   lang_bcp_udhr: rgn
   lang_full: rgn-Latn-IT
   lang_opt: rgn-Latn-IT
   name_lang: Romagnol (Latin, Italy)
-  name_udhr: Romagnolo
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: IT
-  udhr_key: eml
-Tot j essèri umèn i nàs lébri e cumpagn in dignità e dirét. Lou i è dutid ad rasoun e ad cuscinza e i à da operè, ognun ti cunfrunt at ch’j ilt, sa sentimint ad fratelènza.:
-  lang: rgn
-  lang_639_3: rgn
-  lang_full: rgn-Latn-IT
-  lang_opt: rgn-Latn-IT
-  name_lang: Romagnol (Latin, Italy)
   name_omniglot: Emilian-Romagnol/Sammarinese (Emiliano-Romagnolo)
+  name_udhr: Romagnolo
   script: Latn
   source: https://unicode.org/udhr/
   territory: IT
@@ -4757,8 +4610,8 @@ Tote le esseres human nasce libere e equal in dignitate e in derectos. Illes es 
 Totei lei personas naisson liuras e egalas en dignitat e en drech. Son dotadas de rason e de consciéncia e li cau (/fau) agir entre elei amb un esperit de frairesa.:
   lang: oc
   lang_639_3: oci
-  lang_full: oc-Latn-FR-provenc
-  lang_opt: oc-Latn-FR-provenc
+  lang_full: oc-Latn-FR-provenc-x-1
+  lang_opt: oc-Latn-FR-provenc-x-1
   name_lang: Occitan (Latin, France)
   name_omniglot: Occitan - Provençal dialect (Provençau)
   script: Latn
@@ -5095,24 +4948,14 @@ Tukuy kay pachaman paqarimujkuna libres nasekuntu tukuypunitaj kikin obligacione
   source: https://unicode.org/udhr/
   territory: US
   udhr_key: qxa
-"Tukuy runakunami maypipash kishpirishka, sumaykaypi(dignidad) paktapakta\nwacharin. Chay wawakunaka sumak yuyaykuna, tiksiyuyay (fundamental),\nhuntami kan; chaymantami runapuraka shukllashina tukushpa, yanaparishpa\nkawsana kan.":
+Tukuy runakunami maypipash kishpirishka, sumaykaypi (dignidad) paktapakta wacharin. Chay wawakunaka sumak yuyaykuna, tiksiyuyay (fundamental), huntami kan; chaymantami runapuraka shukllashina tukushpa, yanaparishpa kawsana kan.:
   lang: qug
   lang_639_3: qug
   lang_bcp_udhr: qug
   lang_full: qug-Latn-EC
-  lang_opt: qug-Latn-EC
+  lang_opt: qug-Latn
   name_lang: Chimborazo Highland Quichua (Latin, Ecuador)
   name_udhr: Quichua, Chimborazo Highland
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: EC
-  udhr_key: qug
-Tukuy runakunami maypipash kishpirishka, sumaykaypi(dignidad) paktapakta wacharin. Chay wawakunaka sumak yuyaykuna, tiksiyuyay (fundamental), huntami kan; chaymantami runapuraka shukllashina tukushpa, yanaparishpa kawsana kan.:
-  lang: qug
-  lang_639_3: qug
-  lang_full: qug-Latn-EC
-  lang_opt: qug-Latn-EC
-  name_lang: Chimborazo Highland Quichua (Latin, Ecuador)
   script: Latn
   source: https://unicode.org/udhr/
   territory: EC
@@ -5186,16 +5029,6 @@ Tuots umans naschan libers ed eguals in dignità e drets. Els sun dotats cun int
 Tur ser humano ta nace liber y igual den dignidad y den derecho. Nan ta dota cu rason y cu consenshi y nan mester comporta nan den spirito di fraternidad pa cu otro.:
   lang: pap
   lang_639_3: pap
-  lang_full: pap-Latn-AW
-  lang_opt: pap-Latn-AW
-  name_lang: Papiamento (Latin, Aruba)
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: AW
-  udhr_key: pap
-'Tur ser humano ta nace liber y igual den dignidad y den derecho. Nan ta dota cu rason y cu consenshi y nan mester comporta nan den spirito di fraternidad pa cu otro. ':
-  lang: pap
-  lang_639_3: pap
   lang_bcp_udhr: pap
   lang_full: pap-Latn-AW
   lang_opt: pap-Latn-AW
@@ -5209,8 +5042,8 @@ Tut igls humans neschan libers ad eguals an dignitad ad an dretgs. Els en dotos 
   lang: rm
   lang_639_3: roh
   lang_bcp_udhr: rm-sutsilv
-  lang_full: rm-Latn-CH
-  lang_opt: rm-Latn-CH
+  lang_full: rm-Latn-CH-sutsilv
+  lang_opt: rm-Latn-CH-sutsilv
   name_autonym: rumantsch (Svizra)
   name_lang: Romansh (Switzerland)
   name_udhr: Romansch (Sutsilvan)
@@ -5222,8 +5055,8 @@ Tut ils humans neschan libers ed eguals en dignitad ed en dretgs. Els ein dotai 
   lang: rm
   lang_639_3: roh
   lang_bcp_udhr: rm-sursilv
-  lang_full: rm-Latn-CH
-  lang_opt: rm-Latn-CH
+  lang_full: rm-Latn-CH-sursilv
+  lang_opt: rm-Latn-CH-sursilv
   name_autonym: rumantsch (Svizra)
   name_lang: Romansh (Switzerland)
   name_omniglot: Romansch (Sursilvan)
@@ -5236,8 +5069,8 @@ Tut ils umans naschan libers ed eguals en dignitad ed en dretgs. Els èn dotads 
   lang: rm
   lang_639_3: roh
   lang_bcp_udhr: rm-rumgr
-  lang_full: rm-Latn-CH
-  lang_opt: rm-Latn-CH
+  lang_full: rm-Latn-CH-rumgr
+  lang_opt: rm-Latn-CH-rumgr
   name_autonym: rumantsch (Svizra)
   name_lang: Romansh (Switzerland)
   name_omniglot: Romansch (Grischun)
@@ -5708,7 +5541,7 @@ Vsi ljudje se rodijo svobodni in imajo enako dostojanstvo in enake pravice. Obda
   source: https://unicode.org/udhr/
   territory: SI
   udhr_key: slv
-Všetci ľudia sa rodia slobodní a sebe rovní , čo sa týka ich dostojnosti a práv. Sú obdarení rozumom a majú navzájom jednať v bratskom duchu.:
+Všetci ľudia sa rodia slobodní a sebe rovní, čo sa týka ich dostojnosti a práv. Sú obdarení rozumom a majú navzájom jednať v bratskom duchu.:
   lang: sk
   lang_639_3: slk
   lang_bcp_udhr: sk
@@ -5716,19 +5549,8 @@ Všetci ľudia sa rodia slobodní a sebe rovní , čo sa týka ich dostojnosti a
   lang_opt: sk-Latn-SK
   name_autonym: slovenčina (Slovensko)
   name_lang: Slovak (Slovakia)
-  name_udhr: Slovak
-  script: Latn
-  source: https://unicode.org/udhr/
-  territory: SK
-  udhr_key: slk
-Všetci ľudia sa rodia slobodní a sebe rovní, čo sa týka ich dostôjnosti a práv. Sú obdarení rozumom a majú navzájom jednať v bratskom duchu.:
-  lang: sk
-  lang_639_3: slk
-  lang_full: sk-Latn-SK
-  lang_opt: sk-Latn-SK
-  name_autonym: slovenčina (Slovensko)
-  name_lang: Slovak (Slovakia)
   name_omniglot: Slovak (Slovenský)
+  name_udhr: Slovak
   script: Latn
   source: https://unicode.org/udhr/
   territory: SK
@@ -6303,7 +6125,7 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang_639_3: fuv
   lang_bcp_udhr: fuv
   lang_full: fuv-Latn-NG
-  lang_opt: fuv-Latn-NG
+  lang_opt: fuv-Latn
   name_lang: Nigerian Fulfulde (Latin, Nigeria)
   name_omniglot: Fulfulde
   name_udhr: Fulfulde, Nigerian (2)
@@ -6487,7 +6309,7 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   territory: RU
   translit: Bygy kižiler xostug baza mөzyzy bolgaš ergeleri deņ kьldьr tөryttyner. Olarga ugaan-sarььl bolgaš arьn-nyyr berdingen bolur bolgaš olar bot-bottarьnga akь-duņmalьškь xamaarьlganь kөrgyzer užurlug.
   udhr_key: tyv
-Бүтүн инсанлар  ләјагәт вә һүгугларына ҝөрә азад вә бәрабәр доғулурлар. Онларын шүурлары вә виҹданлары вар вә бир-бирләринә мүнасибәтдә гардашлыг руһунда давранмалыдырлар.:
+Бүтүн инсанлар ләјагәт вә һүгугларына ҝөрә азад вә бәрабәр доғулурлар. Онларын шүурлары вә виҹданлары вар вә бир-бирләринә мүнасибәтдә гардашлыг руһунда давранмалыдырлар.:
   lang: azj
   lang_639_3: azj
   lang_bcp_udhr: az-Cyrl
@@ -6496,18 +6318,6 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   name_autonym: азәрбајҹан (Кирил, Азәрбајҹан)
   name_lang: North Azerbaijani (Cyrillic, Azerbaijan)
   name_udhr: Azerbaijani, North (Cyrillic)
-  script: Cyrl
-  source: https://unicode.org/udhr/
-  territory: AZ
-  udhr_key: azj_cyrl
-Бүтүн инсанлар ләјагәт вә һүгугларына ҝөрә азад бәрабәр доғулурлар. Онларын шүурлары вә виҹданлары вар вә бир-бирләринә мүнасибәтдә гардашлыг руһунда давранмалыдырлар.:
-  lang: azj
-  lang_639_3: azj
-  lang_full: azj-Cyrl-AZ
-  lang_opt: azj-Cyrl-AZ
-  name_autonym: азәрбајҹан (Кирил, Азәрбајҹан)
-  name_lang: North Azerbaijani (Cyrillic, Azerbaijan)
-  name_omniglot: Azerbaijani (North) in the Cyrillic alphabet
   script: Cyrl
   source: https://unicode.org/udhr/
   territory: AZ
@@ -6649,16 +6459,6 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang_opt: ykg-Cyrl-RU
   name_lang: Northern Yukaghir (Cyrillic, Russia)
   name_udhr: Yukaghir, Northern
-  script: Cyrl
-  source: https://unicode.org/udhr/
-  territory: RU
-  udhr_key: ykg
-Көдэҥ тэн, ньидитэ бандьэ параwааньэрэҥ тудэ чуҥдэн ньилдьилэк эннулҥинь-мэдьуолнуни. Көдэҥ энмун чундэ мэ льэй, таатльэр лукундьии ньинэмдьийилпэ дитэ эннуйуол-мораwньэҥи.:
-  lang: ykg
-  lang_639_3: ykg
-  lang_full: ykg-Cyrl-RU
-  lang_opt: ykg-Cyrl-RU
-  name_lang: Northern Yukaghir (Cyrillic, Russia)
   script: Cyrl
   source: https://unicode.org/udhr/
   territory: RU
@@ -6916,17 +6716,6 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   script: Cyrl
   source: https://omniglot.com/udhr/
   territory: MD
-Ҳәмме адамлар өз қәдир-қымбаты және ҳуқықларында еркин ҳәм тең болып туўылады. Оларға ақыл ҳәм ҳүждан берилген болып, бир-бирине туўысқанлық руўхындағы қатнаста болыўы тийис:
-  lang: kaa
-  lang_639_3: kaa
-  lang_full: kaa-Cyrl-UZ
-  lang_opt: kaa-Cyrl-UZ
-  name_lang: Kara-Kalpak (Cyrillic, Uzbekistan)
-  name_omniglot: Karakalpak (Қарақалпақ тили)
-  script: Cyrl
-  source: https://omniglot.com/udhr/
-  territory: UZ
-  translit: Ha'mme adamlar o'z qa'dir-qumbaty ja'ne huqyqlarynda erkin ha'm ten' bolyp tuwylady. Olarg'a aqyl ha'm hu'jdan berilgen bolyp, bir-birine tuwysqanlyq ruwxyndag'y qatnasta bolywy tiyis.
 Ҳәмме адамлар өз қәдир-қымбаты және ҳуқықларында еркин ҳәм тең болып туўылады. Оларға ақыл ҳәм ҳүждан берилген болып, бир-бирине туўысқанлық руўхындағы қатнаста болыўы тийис.:
   lang: kaa
   lang_639_3: kaa
@@ -6934,10 +6723,12 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang_full: kaa-Cyrl-UZ
   lang_opt: kaa-Cyrl-UZ
   name_lang: Kara-Kalpak (Cyrillic, Uzbekistan)
+  name_omniglot: Karakalpak (Қарақалпақ тили)
   name_udhr: Karakalpak
   script: Cyrl
   source: https://unicode.org/udhr/
   territory: UZ
+  translit: Ha'mme adamlar o'z qa'dir-qumbaty ja'ne huqyqlarynda erkin ha'm ten' bolyp tuwylady. Olarg'a aqyl ha'm hu'jdan berilgen bolyp, bir-birine tuwysqanlyq ruwxyndag'y qatnasta bolywy tiyis.
   udhr_key: kaa
 Һемме адем занидинла еркин, иззет-һөрмет ве һоқуқта бапбаравер болуп туғулған. Улар еқилге ве вийдан'ға иге һемде бир-бириге қэриндашлиқ мунасивитиге хас роһ билен билен муамил қилиши кэрек.:
   lang: ug
@@ -7530,8 +7321,8 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
 बेनान म्हीकादे प्रतिष्ठा थेन याङतामला आधाररी केमाहेन्सेन स्वतन्त्र थेन च्योच्यो ताला। थेनीकादे बुद्धि थेन विवेक किन्दासी खाबा ताला ओम गीसेमगीला गुङरी डीक्पा ह्रिक्पा लातोसेदा मुला।:
   lang: taj
   lang_639_3: taj
-  lang_full: taj-Deva-NP
-  lang_opt: taj-Deva-NP
+  lang_full: taj-Deva-NP-x-2
+  lang_opt: taj-Deva-NP-x-2
   name_lang: Eastern Tamang (Devanagari, Nepal)
   name_omniglot: Eastern Tamang (तामाङ‎), Devanagari script
   script: Deva
@@ -7542,8 +7333,8 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang_639_3: taj
   lang_bcp_udhr: taj
   lang_full: taj-Deva-NP
-  lang_opt: taj-Deva-NP
-  name_lang: Eastern Tamang (Devanagari, Nepal)
+  lang_opt: taj-Deva
+  name_lang: Eastern Tamang (Devanagari)
   name_udhr: Tamang, Eastern
   script: Deva
   source: https://unicode.org/udhr/
@@ -7643,17 +7434,6 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   source: https://omniglot.com/udhr/
   territory: IN
   translit: Sabo loɡan man ke ɡaurav aū adhikār man ke māmlā ma janam le mile svatantratā aū barobari mile he. Oman la buddhi aū antarātmā ke den mile he aū oman la ek dūsar la parem bhāīcārā ke bhāv le bevahār karnā cāhī.
-सभ मानव जन्मतः स्वतन्त्र अछि तथा गरिमा आ' अधिकारमे समान अछि। सभकेँ अपन–अपन बुद्धि आ' विवेक छैक आओर सभकेँ एक दोसराक प्रति सौहार्दपूर्ण व्यवहार करबाक चाही।:
-  lang: mai
-  lang_639_3: mai
-  lang_full: mai-Deva-IN
-  lang_opt: mai-Deva-IN
-  name_lang: Maithili (India)
-  script: Deva
-  source: https://unicode.org/udhr/
-  territory: IN
-  translit: Sabha mānava janmataḥ svatantra achi tathā garimā ā, adhikārame samāna achi. Sabhakeṃ apana, apana buddhi ā, viveka chōka āora sabhakeṃ eka dosarāka pratī sōhārdapūrṇa vyavahāra karabāka cāhī.
-  udhr_key: mai
 सभ मानव जन्मतः स्वतन्त्र अछि तथा गरिमा आʼ अधिकारमे समान अछि। सभकेँ अपन–अपन बुद्धि आʼ विवेक छैक आओर सभकेँ एक दोसराक प्रति सौहार्दपूर्ण व्यवहार करबाक चाही।:
   lang: mai
   lang_639_3: mai
@@ -7665,6 +7445,7 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   script: Deva
   source: https://unicode.org/udhr/
   territory: IN
+  translit: Sabha mānava janmataḥ svatantra achi tathā garimā ā, adhikārame samāna achi. Sabhakeṃ apana, apana buddhi ā, viveka chōka āora sabhakeṃ eka dosarāka pratī sōhārdapūrṇa vyavahāra karabāka cāhī.
   udhr_key: mai
 सभी मनुष्यों को गौरव और अधिकारों के मामले में जन्मजात स्वतंत्रता और समानता प्राप्त हो। उन्हें बुद्भि और आत्मा की देन प्राप्त है ओर परस्पर उन्हें भाईचारे के भाव से बर्ताब करनो चइए।:
   lang: bjj
@@ -8058,26 +7839,15 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   territory: LK
   translit: Siyalu manuṣyayō nidahasva upata labā æta​. Garutvayen hā ayitivāsikam samāna veti. Yukti ayukti piḷiban̆da hæ​​n̆gīmen hā hṛda sākṣiyen yut ovun, ovuno​vunṭa sæḷakiya yuttē sahōdaratvaya piḷiban̆da hæn̆gīmeni.
   udhr_key: sin
-"มนุษย์ทั้งปวงเกิดมามีอิสระและเสมอภาคกันในศักดิ์ศรีและสิทธิ ต่างในตนมีเหตุผลและมโนธรรม และควรปฏิบัติต่อกันด้วยจิตวิญญาณแห่งภราดรภาพ\n":
+มนุษย์ทั้งปวงเกิดมามีอิสระและเสมอภาคกันในศักดิ์ศรีและสิทธิ ต่างในตนมีเหตุผลและมโนธรรม และควรปฏิบัติต่อกันด้วยจิตวิญญาณแห่งภราดรภาพ:
   lang: th
   lang_639_3: tha
   lang_bcp_udhr: th
-  lang_full: th-Thai-TH
-  lang_opt: th-Thai-TH
-  name_autonym: ไทย (ไทย)
-  name_lang: Thai (Thailand)
-  name_udhr: Thai (2)
-  script: Thai
-  source: https://unicode.org/udhr/
-  territory: TH
-  udhr_key: tha2
-'มนุษย์ทั้งปวงเกิดมามีอิสระและเสมอภาคกันในศักดิ์ศรีและสิทธิ ต่างในตนมีเหตุผลและมโนธรรม และควรปฏิบัติต่อกันด้วยจิตวิญญาณแห่งภราดรภาพ ':
-  lang: th
-  lang_639_3: tha
   lang_full: th-Thai-TH-x-2
   lang_opt: th-Thai-TH-x-2
   name_autonym: ไทย (ไทย)
   name_lang: Thai (Thailand)
+  name_udhr: Thai (2)
   script: Thai
   source: https://unicode.org/udhr/
   territory: TH
@@ -8286,8 +8056,8 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang: chr
   lang_639_3: chr
   lang_bcp_udhr: chr
-  lang_full: chr-Cher-US
-  lang_opt: chr-Cher-US
+  lang_full: chr-Cher-US-x-uppercase
+  lang_opt: chr-Cher-US-x-uppercase
   name_autonym: ᏣᎳᎩ (ᏣᎳᎩ, ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᏍᎦᏚᎩ)
   name_lang: Cherokee (Cherokee, United States)
   name_udhr: Cherokee (uppercase)
@@ -8295,19 +8065,6 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   source: https://unicode.org/udhr/
   territory: US
   udhr_key: chr_uppercase
-ᏂᎦᏓ ᎠᏂᏴᏫ ᏂᎨᎫᏓᎸᎾ ᎠᎴ ᎤᏂᏠᏱ ᎤᎾᏕᎿ ᏚᏳᎦᏛ ᎨᏒᎢ. ᎨᏥᏁᎳ ᎤᎾᏓᏅᏖᏗ ᎠᎴ ᎤᏃᏟᏍᏗ ᎠᎴ ᏌᏊ ᎨᏒ ᏧᏂᎸᏫᏍᏓᏁᏗ ᎠᎾᏟᏅᏢ ᎠᏓᏅᏙ ᎬᏗ.:
-  lang: chr
-  lang_639_3: chr
-  lang_full: chr-Cher-US-x-uppercase
-  lang_opt: chr-Cher-US-x-uppercase
-  name_autonym: ᏣᎳᎩ (ᏣᎳᎩ, ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᏍᎦᏚᎩ)
-  name_lang: Cherokee (Cherokee, United States)
-  name_omniglot: Cherokee (ᏣᎳᎩ/tsalagi)
-  script: Cher
-  source: https://omniglot.com/udhr/
-  territory: US
-  translit: Nigada aniyvwi nigegudalvna ale unitloyi unadehna duyugadv gesvi. Getsinela unadanvtedi ale unotlisadi ale squu gesv tsunilvwisdanedi anatlinvtlv adanvdo gvdi.
-  variant: x-uppercase
 Ꮒꭶꮣ ꭰꮒᏼꮻ ꭴꮎꮥꮕꭲ ꭴꮎꮪꮣꮄꮣ ꭰꮄ ꭱꮷꮃꭽꮙ ꮎꭲ ꭰꮲꮙꮩꮧ ꭰꮄ ꭴꮒꮂ ꭲᏻꮎꮫꮧꭲ. Ꮎꮝꭹꮎꮓ ꭴꮅꮝꭺꮈꮤꮕꭹ ꭴꮰꮿꮝꮧ ꮕᏸꮅꮫꭹ ꭰꮄ ꭰꮣꮕꮦꮯꮣꮝꮧ ꭰꮄ ꭱꮅꮝꮧ ꮟᏼꮻꭽ ꮒꮪꮎꮣꮫꮎꮥꭼꭹ ꮎ ꮧꮎꮣꮕꮯ ꭰꮣꮕꮩ ꭼꮧ.:
   lang: chr
   lang_639_3: chr
@@ -8699,8 +8456,8 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang: zh
   lang_639_3: zho
   lang_bcp_udhr: zh
-  lang_full: zh-Hans-CN
-  lang_opt: zh-Hans-CN
+  lang_full: zh-Hans-CN-x-tianjin
+  lang_opt: zh-Hans-CN-x-tianjin
   name_autonym: 中文（简体，中国）
   name_lang: Chinese (Simplified, China)
   name_udhr: Chinese, Mandarin (Tianjin)
@@ -8840,8 +8597,8 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang: zh
   lang_639_3: zho
   lang_bcp_udhr: zh
-  lang_full: zh-Hans-CN
-  lang_opt: zh-Hans-CN
+  lang_full: zh-Hans-CN-x-guiyang
+  lang_opt: zh-Hans-CN-x-guiyang
   name_autonym: 中文（简体，中国）
   name_lang: Chinese (Simplified, China)
   name_udhr: Chinese, Mandarin (Guiyang)
@@ -8853,8 +8610,8 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang: zh
   lang_639_3: zho
   lang_bcp_udhr: zh
-  lang_full: zh-Hans-CN
-  lang_opt: zh-Hans-CN
+  lang_full: zh-Hans-CN-x-harbin
+  lang_opt: zh-Hans-CN-x-harbin
   name_autonym: 中文（简体，中国）
   name_lang: Chinese (Simplified, China)
   name_udhr: Chinese, Mandarin (Harbin)
@@ -8909,8 +8666,8 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang: zh
   lang_639_3: zho
   lang_bcp_udhr: zh
-  lang_full: zh-Hans-CN
-  lang_opt: zh-Hans-CN
+  lang_full: zh-Hans-CN-x-beijing
+  lang_opt: zh-Hans-CN-x-beijing
   name_autonym: 中文（简体，中国）
   name_lang: Chinese (Simplified, China)
   name_udhr: Chinese, Mandarin (Beijing)
@@ -8933,8 +8690,8 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang: ja
   lang_639_3: jpn
   lang_bcp_udhr: ja
-  lang_full: ja-Jpan-JP
-  lang_opt: ja-Jpan-JP
+  lang_full: ja-Jpan-JP-x-tokyo
+  lang_opt: ja-Jpan-JP-x-tokyo
   name_autonym: 日本語 (日本)
   name_lang: Japanese (Japan)
   name_udhr: Japanese (Tokyo)
@@ -8946,8 +8703,8 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang: zh
   lang_639_3: zho
   lang_bcp_udhr: zh
-  lang_full: zh-Hans-CN
-  lang_opt: zh-Hans-CN
+  lang_full: zh-Hans-CN-x-nanjing
+  lang_opt: zh-Hans-CN-x-nanjing
   name_autonym: 中文（简体，中国）
   name_lang: Chinese (Simplified, China)
   name_udhr: Chinese, Mandarin (Nanjing)
@@ -9294,10 +9051,12 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
 𑄝𑄬𑄇𑄴 𑄟𑄚𑄪𑄌𑄴 𑄚𑄨𑄢𑄨𑄞𑄨𑄣𑄨 𑄥𑄧𑄁 𑄃𑄨𑄌𑄴𑄎𑄮𑄖𑄴 𑄃𑄳𑄃 𑄃𑄇𑄴𑄇𑄥𑄁 𑄚𑄨𑄚𑄬𑄭 𑄎𑄧𑄚𑄴𑄟𑄚𑄴𑅁 𑄖𑄢𑄢𑄴 𑄃𑄬𑄘 𑄃𑄳𑄃 𑄝𑄪𑄖𑄴𑄙𑄨 𑄃𑄊𑄬; 𑄥𑄬𑄚𑄧𑄖𑄳𑄠𑄴 𑄝𑄬𑄇𑄴𑄅𑄚𑄧𑄢𑄴 𑄃𑄬𑄇𑄴𑄎𑄧𑄚𑄴 𑄃𑄢𑄬𑄇𑄴 𑄎𑄧𑄚𑄧𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄉𑄧𑄟𑄴 𑄘𑄮𑄣𑄴 𑄌𑄨𑄘𑄳𑄠𑄬 𑄚𑄨𑄚𑄬𑄭 𑄌𑄧𑄣𑄚 𑄅𑄪𑄌𑄨𑄖𑄴𑅁:
   lang: ccp
   lang_639_3: ccp
+  lang_bcp_udhr: ccp
   lang_full: ccp-Cakm-BD
   lang_opt: ccp-Cakm-BD
   name_autonym: 𑄌𑄋𑄴𑄟𑄳𑄦 (𑄌𑄇𑄴𑄟, 𑄝𑄁𑄣𑄘𑄬𑄌𑄴)
   name_lang: Chakma (Chakma, Bangladesh)
+  name_udhr: Chakma
   script: Cakm
   source: https://unicode.org/udhr/
   territory: BD
@@ -9530,8 +9289,8 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang: sa
   lang_639_3: san
   lang_bcp_udhr: sa-Bhks
-  lang_full: sa-Bhks-IN
-  lang_opt: sa-Bhks-IN
+  lang_full: sa-Bhks-IN-x-translit
+  lang_opt: sa-Bhks-IN-x-translit
   name_lang: Sanskrit (Bhaiksuki, India)
   name_udhr: Sanskrit (Bhaiksuki)
   script: Bhks
@@ -9651,7 +9410,7 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   lang: ug
   lang_639_3: uig
   lang_full: ug-Arab-CN-x-2
-  lang_opt: ug-Arab
+  lang_opt: ug-Arab-CN-x-2
   name_autonym: ئۇيغۇرچە (ئەرەب)
   name_lang: Uyghur (Arabic)
   name_omniglot: (ئۇيغۇر) Uyghur, (ئۇيغۇر ئېلىپبەسى) Arabic alphabet
