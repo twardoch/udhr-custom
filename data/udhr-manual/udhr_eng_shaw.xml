@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--© The Office of the High Commisioner for Human Rights-->
+
+<udhr iso639-3="eng" xml:lang="en-Shaw" key="eng_shaw" n="English (Shavian)" dir="ltr" iso15924="Shaw" xmlns="http://www.unhchr.ch/udhr">
+    <preamble>
+        <title>·𐑐𐑮𐑰𐑨𐑥𐑚𐑩𐑤</title>
+        <para>·𐑢𐑺𐑨𐑟 𐑮𐑧𐑒𐑩𐑜𐑯𐑦𐑖𐑩𐑯 𐑝 𐑞 𐑦𐑯𐑣𐑧𐑮𐑩𐑯𐑑 𐑛𐑦𐑜𐑯𐑦𐑑𐑦 𐑯 𐑝 𐑞 𐑰𐑒𐑢𐑩𐑤 𐑯 𐑦𐑯𐑱𐑤𐑾𐑯𐑩𐑚𐑩𐑤 𐑮𐑲𐑑𐑕 𐑝 𐑷𐑤 𐑥𐑧𐑥𐑚𐑼𐑟 𐑝 𐑞 𐑣𐑿𐑥𐑩𐑯 𐑓𐑨𐑥𐑦𐑤𐑦 𐑦𐑟 𐑞 𐑓𐑬𐑯𐑛𐑱𐑖𐑩𐑯 𐑝 𐑓𐑮𐑰𐑛𐑩𐑥, 𐑡𐑳𐑕𐑑𐑦𐑕 𐑯 𐑐𐑰𐑕 𐑦𐑯
+            𐑞 𐑢𐑻𐑤𐑛,</para>
+        <para>·𐑢𐑺𐑨𐑟 𐑛𐑦𐑕𐑮𐑦𐑜𐑸𐑛 𐑯 𐑒𐑩𐑯𐑑𐑧𐑥𐑐𐑑 𐑓 𐑣𐑿𐑥𐑩𐑯 𐑮𐑲𐑑𐑕 𐑣𐑨𐑝 𐑮𐑦𐑟𐑳𐑤𐑑𐑩𐑛 𐑦𐑯 𐑚𐑸𐑚𐑼𐑩𐑕 𐑨𐑒𐑑𐑕 𐑢𐑦𐑗 𐑣𐑨𐑝 𐑬𐑑𐑮𐑱𐑡𐑛 𐑞 𐑒𐑪𐑯𐑖𐑩𐑯𐑕 𐑝 𐑥𐑨𐑯𐑒𐑲𐑯𐑛, 𐑯 𐑞 𐑨𐑛𐑝𐑧𐑯𐑑 𐑝 𐑩 𐑢𐑻𐑤𐑛 𐑦𐑯 𐑢𐑦𐑗 𐑣𐑿𐑥𐑩𐑯 𐑚𐑰𐑦𐑙𐑟
+            𐑖𐑨𐑤 𐑦𐑯𐑡𐑶 𐑓𐑮𐑰𐑛𐑩𐑥 𐑝 𐑕𐑐𐑰𐑗 𐑯 𐑚𐑦𐑤𐑰𐑓 𐑯 𐑓𐑮𐑰𐑛𐑩𐑥 𐑓𐑮𐑪𐑥 𐑓𐑽 𐑯 𐑢𐑪𐑯𐑑 𐑣𐑨𐑟 𐑚𐑰𐑯 𐑐𐑮𐑴𐑒𐑤𐑱𐑥𐑛 𐑨𐑟 𐑞 𐑣𐑲𐑩𐑕𐑑 𐑨𐑕𐑐𐑼𐑱𐑖𐑩𐑯 𐑝 𐑞 𐑒𐑪𐑥𐑩𐑯 𐑐𐑰𐑐𐑩𐑤,</para>
+        <para>·𐑢𐑺𐑨𐑟 𐑦𐑑 𐑦𐑟 𐑦𐑕𐑧𐑯𐑖𐑩𐑤, 𐑦𐑓 𐑥𐑨𐑯 𐑦𐑟 𐑯𐑪𐑑 𐑑 𐑚𐑰 𐑒𐑩𐑥𐑐𐑧𐑤𐑛 𐑑 𐑣𐑨𐑝 𐑮𐑦𐑒𐑹𐑕, 𐑨𐑟 𐑩 𐑤𐑭𐑕𐑑 𐑮𐑦𐑟𐑹𐑑, 𐑑 𐑮𐑦𐑚𐑧𐑤𐑘𐑩𐑯 𐑩𐑜𐑱𐑯𐑕𐑑 𐑑𐑦𐑮𐑩𐑯𐑦 𐑯 𐑩𐑐𐑮𐑧𐑖𐑩𐑯, 𐑞𐑨𐑑 𐑣𐑿𐑥𐑩𐑯 𐑮𐑲𐑑𐑕 𐑖𐑫𐑛 𐑚𐑰 𐑐𐑮𐑩𐑑𐑧𐑒𐑑𐑩𐑛
+            𐑚𐑲 𐑞 𐑮𐑵𐑤 𐑝 𐑤𐑷,</para>
+        <para>·𐑢𐑺𐑨𐑟 𐑦𐑑 𐑦𐑟 𐑦𐑕𐑧𐑯𐑖𐑩𐑤 𐑑 𐑐𐑮𐑩𐑥𐑴𐑑 𐑞 𐑛𐑦𐑝𐑧𐑤𐑩𐑐𐑥𐑩𐑯𐑑 𐑝 𐑓𐑮𐑧𐑯𐑛𐑤𐑦 𐑮𐑦𐑤𐑱𐑖𐑩𐑯𐑟 𐑚𐑦𐑑𐑢𐑰𐑯 𐑯𐑱𐑖𐑩𐑯𐑟,</para>
+        <para>·𐑢𐑺𐑨𐑟 𐑞 𐑐𐑰𐑐𐑩𐑤𐑟 𐑝 𐑞 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑯𐑱𐑖𐑩𐑯𐑟 𐑣𐑨𐑝 𐑦𐑯 𐑞 ·𐑗𐑸𐑑𐑼 𐑮𐑰𐑩𐑓𐑻𐑥𐑛 𐑞𐑺 𐑓𐑱𐑔 𐑦𐑯 𐑓𐑳𐑯𐑛𐑩𐑥𐑧𐑯𐑑𐑩𐑤 𐑣𐑿𐑥𐑩𐑯 𐑮𐑲𐑑𐑕, 𐑦𐑯 𐑞 𐑛𐑦𐑜𐑯𐑦𐑑𐑦 𐑯 𐑢𐑻𐑔 𐑝 𐑞 𐑣𐑿𐑥𐑩𐑯 𐑐𐑻𐑕𐑩𐑯 𐑯 𐑦𐑯 𐑞 𐑰𐑒𐑢𐑩𐑤
+            𐑮𐑲𐑑𐑕 𐑝 𐑥𐑧𐑯 𐑯 𐑢𐑦𐑥𐑦𐑯 𐑯 𐑣𐑨𐑝 𐑛𐑦𐑑𐑻𐑥𐑦𐑯𐑛 𐑑 𐑐𐑮𐑩𐑥𐑴𐑑 𐑕𐑴𐑖𐑩𐑤 𐑐𐑮𐑪𐑜𐑮𐑧𐑕 𐑯 𐑚𐑧𐑑𐑼 𐑕𐑑𐑨𐑯𐑛𐑼𐑛𐑟 𐑝 𐑤𐑲𐑓 𐑦𐑯 𐑤𐑸𐑡𐑼 𐑓𐑮𐑰𐑛𐑩𐑥,</para>
+        <para>·𐑢𐑺𐑨𐑟 ·𐑥𐑧𐑥𐑚𐑼 ·𐑕𐑑𐑱𐑑𐑕 𐑣𐑨𐑝 𐑐𐑤𐑧𐑡𐑛 𐑞𐑧𐑥𐑕𐑧𐑤𐑝𐑟 𐑑 𐑩𐑗𐑰𐑝, 𐑦𐑯 𐑒𐑴-𐑪𐑐𐑼𐑱𐑖𐑩𐑯 𐑢𐑦𐑞 𐑞 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑯𐑱𐑖𐑩𐑯𐑟, 𐑞 𐑐𐑮𐑩𐑥𐑴𐑖𐑩𐑯 𐑝 𐑿𐑯𐑦𐑝𐑻𐑕𐑩𐑤 𐑮𐑦𐑕𐑐𐑧𐑒𐑑 𐑓 𐑯 𐑩𐑚𐑟𐑻𐑝𐑩𐑯𐑕 𐑝 𐑣𐑿𐑥𐑩𐑯 𐑮𐑲𐑑𐑕
+            𐑯 𐑓𐑳𐑯𐑛𐑩𐑥𐑧𐑯𐑑𐑩𐑤 𐑓𐑮𐑰𐑛𐑩𐑥𐑟,</para>
+        <para>·𐑢𐑺𐑨𐑟 𐑩 𐑒𐑪𐑥𐑩𐑯 𐑳𐑯𐑛𐑼𐑕𐑑𐑨𐑯𐑛𐑦𐑙 𐑝 𐑞𐑰𐑟 𐑮𐑲𐑑𐑕 𐑯 𐑓𐑮𐑰𐑛𐑩𐑥𐑟 𐑦𐑟 𐑝 𐑞 𐑜𐑮𐑱𐑑𐑩𐑕𐑑 𐑦𐑥𐑐𐑹𐑑𐑩𐑯𐑕 𐑓 𐑞 𐑓𐑫𐑤 𐑮𐑾𐑤𐑲𐑟𐑱𐑖𐑩𐑯 𐑝 𐑞𐑦𐑕 𐑐𐑤𐑧𐑡,</para>
+        <para>𐑯𐑬, 𐑞𐑺𐑓𐑹,</para>
+        <para>𐑞 ·𐑡𐑧𐑯𐑼𐑩𐑤 ·𐑩𐑕𐑧𐑥𐑚𐑤𐑦</para>
+        <para>·𐑐𐑮𐑴𐑒𐑤𐑱𐑥𐑟 𐑞𐑦𐑕 ·𐑿𐑯𐑦𐑝𐑻𐑕𐑩𐑤 ·𐑛𐑧𐑒𐑤𐑼𐑱𐑖𐑩𐑯 𐑝 ·𐑣𐑿𐑥𐑩𐑯 ·𐑮𐑲𐑑𐑕 𐑨𐑟 𐑩 𐑒𐑪𐑥𐑩𐑯 𐑕𐑑𐑨𐑯𐑛𐑼𐑛 𐑝 𐑩𐑗𐑰𐑝𐑥𐑩𐑯𐑑 𐑓 𐑷𐑤 𐑐𐑰𐑐𐑩𐑤𐑟 𐑯 𐑷𐑤 𐑯𐑱𐑖𐑩𐑯𐑟, 𐑑 𐑞 𐑧𐑯𐑛 𐑞𐑨𐑑 𐑧𐑝𐑮𐑦 𐑦𐑯𐑛𐑦𐑝𐑦𐑡𐑵𐑩𐑤 𐑯 𐑧𐑝𐑮𐑦
+            𐑹𐑜𐑩𐑯 𐑝 𐑕𐑩𐑕𐑲𐑩𐑑𐑦, 𐑒𐑰𐑐𐑦𐑙 𐑞𐑦𐑕 ·𐑛𐑧𐑒𐑤𐑼𐑱𐑖𐑩𐑯 𐑒𐑪𐑯𐑕𐑑𐑩𐑯𐑑𐑤𐑦 𐑦𐑯 𐑥𐑲𐑯𐑛, 𐑖𐑨𐑤 𐑕𐑑𐑮𐑲𐑝 𐑚𐑲 𐑑𐑰𐑗𐑦𐑙 𐑯 𐑧𐑡𐑩𐑒𐑱𐑖𐑩𐑯 𐑑 𐑐𐑮𐑩𐑥𐑴𐑑 𐑮𐑦𐑕𐑐𐑧𐑒𐑑 𐑓 𐑞𐑰𐑟 𐑮𐑲𐑑𐑕 𐑯 𐑓𐑮𐑰𐑛𐑩𐑥𐑟 𐑯 𐑚𐑲 𐑐𐑮𐑩𐑜𐑮𐑧𐑕𐑦𐑝
+            𐑥𐑧𐑠𐑼𐑟, 𐑯𐑨𐑖𐑩𐑯𐑩𐑤 𐑯 𐑦𐑯𐑑𐑼𐑯𐑨𐑖𐑩𐑯𐑩𐑤, 𐑑 𐑕𐑦𐑒𐑘𐑫𐑼 𐑞𐑺 𐑿𐑯𐑦𐑝𐑻𐑕𐑩𐑤 𐑯 𐑦𐑓𐑧𐑒𐑑𐑦𐑝 𐑮𐑧𐑒𐑩𐑜𐑯𐑦𐑖𐑩𐑯 𐑯 𐑩𐑚𐑟𐑻𐑝𐑩𐑯𐑕, 𐑚𐑴𐑔 𐑩𐑥𐑳𐑙 𐑞 𐑐𐑰𐑐𐑩𐑤𐑟 𐑝 ·𐑥𐑧𐑥𐑚𐑼 ·𐑕𐑑𐑱𐑑𐑕 𐑞𐑧𐑥𐑕𐑧𐑤𐑝𐑟 𐑯 𐑩𐑥𐑳𐑙
+            𐑞 𐑐𐑰𐑐𐑩𐑤𐑟 𐑝 𐑑𐑧𐑮𐑦𐑑𐑹𐑦𐑟 𐑳𐑯𐑛𐑼 𐑞𐑺 𐑡𐑫𐑼𐑦𐑕𐑛𐑦𐑒𐑖𐑩𐑯.</para>
+    </preamble>
+    <article number="1">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 1</title>
+        <para>𐑷𐑤 𐑣𐑿𐑥𐑩𐑯 𐑚𐑰𐑦𐑙𐑟 𐑸 𐑚𐑹𐑯 𐑓𐑮𐑰 𐑯 𐑰𐑒𐑢𐑩𐑤 𐑦𐑯 𐑛𐑦𐑜𐑯𐑦𐑑𐑦 𐑯 𐑮𐑲𐑑𐑕. 𐑞𐑱 𐑸 𐑦𐑯𐑛𐑬𐑛 𐑢𐑦𐑞 𐑮𐑰𐑟𐑩𐑯 𐑯 𐑒𐑪𐑯𐑖𐑩𐑯𐑕 𐑯 𐑖𐑫𐑛 𐑨𐑒𐑑 𐑑𐑩𐑢𐑹𐑛𐑟 𐑢𐑳𐑯 𐑩𐑯𐑳𐑞𐑼 𐑦𐑯 𐑩 𐑕𐑐𐑦𐑮𐑦𐑑 𐑝 𐑚𐑮𐑳𐑞𐑼𐑣𐑫𐑛.</para>
+    </article>
+    <article number="2">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 2</title>
+        <para>·𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑦𐑟 𐑦𐑯𐑑𐑲𐑑𐑩𐑤𐑛 𐑑 𐑷𐑤 𐑞 𐑮𐑲𐑑𐑕 𐑯 𐑓𐑮𐑰𐑛𐑩𐑥𐑟 𐑕𐑧𐑑 𐑓𐑹𐑔 𐑦𐑯 𐑞𐑦𐑕 ·𐑛𐑧𐑒𐑤𐑼𐑱𐑖𐑩𐑯, 𐑢𐑦𐑞𐑬𐑑 𐑛𐑦𐑕𐑑𐑦𐑙𐑒𐑖𐑩𐑯 𐑝 𐑧𐑯𐑦 𐑒𐑲𐑯𐑛, 𐑕𐑳𐑗 𐑨𐑟 𐑮𐑱𐑕, 𐑒𐑳𐑤𐑼, 𐑕𐑧𐑒𐑕, 𐑤𐑨𐑙𐑜𐑢𐑦𐑡, 𐑮𐑦𐑤𐑦𐑡𐑩𐑯,
+            𐑐𐑪𐑤𐑦𐑑𐑦𐑒𐑩𐑤 𐑹 𐑳𐑞𐑼 𐑩𐑐𐑦𐑯𐑘𐑩𐑯, 𐑯𐑨𐑖𐑩𐑯𐑩𐑤 𐑹 𐑕𐑴𐑖𐑩𐑤 𐑹𐑦𐑡𐑦𐑯, 𐑐𐑮𐑪𐑐𐑼𐑑𐑦, 𐑚𐑻𐑔 𐑹 𐑳𐑞𐑼 𐑕𐑑𐑱𐑑𐑩𐑕.</para>&lt;/listitem&gt;
+         <listitem>
+            <para>𐑓𐑻𐑞𐑼𐑥𐑹, 𐑯𐑴 𐑛𐑦𐑕𐑑𐑦𐑙𐑒𐑖𐑩𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑥𐑱𐑛 𐑪𐑯 𐑞 𐑚𐑱𐑕𐑦𐑕 𐑝 𐑞 𐑐𐑪𐑤𐑦𐑑𐑦𐑒𐑩𐑤, 𐑡𐑫𐑼𐑦𐑕𐑛𐑦𐑒𐑖𐑩𐑯𐑩𐑤 𐑹 𐑦𐑯𐑑𐑼𐑯𐑨𐑖𐑩𐑯𐑩𐑤 𐑕𐑑𐑱𐑑𐑩𐑕 𐑝 𐑞 𐑒𐑳𐑯𐑑𐑮𐑦 𐑹 𐑑𐑧𐑮𐑦𐑑𐑹𐑦 𐑑 𐑢𐑦𐑗 𐑩 𐑐𐑻𐑕𐑩𐑯 𐑚𐑦𐑤𐑪𐑙𐑟,
+            𐑢𐑧𐑞𐑼 𐑦𐑑 𐑚𐑰 𐑦𐑯𐑛𐑦𐑐𐑧𐑯𐑛𐑩𐑯𐑑, 𐑑𐑮𐑳𐑕𐑑, 𐑯𐑪𐑯-𐑕𐑧𐑤𐑓-𐑜𐑳𐑝𐑼𐑯𐑦𐑙 𐑹 𐑳𐑯𐑛𐑼 𐑧𐑯𐑦 𐑳𐑞𐑼 𐑤𐑦𐑥𐑦𐑑𐑱𐑖𐑩𐑯 𐑝 𐑕𐑪𐑝𐑮𐑩𐑯𐑑𐑦.</para>
+        </listitem>
+    </article>
+    <article number="3">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 3</title>
+        <para>·𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑤𐑲𐑓, 𐑤𐑦𐑚𐑼𐑑𐑦 𐑯 𐑞 𐑕𐑦𐑒𐑘𐑫𐑼𐑦𐑑𐑦 𐑝 𐑐𐑻𐑕𐑩𐑯.</para>
+    </article>
+    <article number="4">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 4</title>
+        <para>𐑯𐑴 𐑢𐑳𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑣𐑧𐑤𐑛 𐑦𐑯 𐑕𐑤𐑱𐑝𐑼𐑦 𐑹 𐑕𐑻𐑝𐑦𐑑𐑿𐑛; 𐑕𐑤𐑱𐑝𐑼𐑦 𐑯 𐑞 𐑕𐑤𐑱𐑝 𐑑𐑮𐑱𐑛 𐑖𐑨𐑤 𐑚𐑰 𐑐𐑮𐑴𐑣𐑦𐑚𐑦𐑑𐑩𐑛 𐑦𐑯 𐑷𐑤 𐑞𐑺 𐑓𐑹𐑥𐑟.</para>
+    </article>
+    <article number="5">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 5</title>
+        <para>𐑯𐑴 𐑢𐑳𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑕𐑩𐑚𐑡𐑧𐑒𐑑𐑩𐑛 𐑑 𐑑𐑹𐑗𐑼 𐑹 𐑑 𐑒𐑮𐑵𐑩𐑤, 𐑦𐑯𐑣𐑿𐑥𐑩𐑯 𐑹 𐑛𐑦𐑜𐑮𐑱𐑛𐑦𐑙 𐑑𐑮𐑰𐑑𐑥𐑩𐑯𐑑 𐑹 𐑐𐑳𐑯𐑦𐑖𐑥𐑩𐑯𐑑.</para>
+    </article>
+    <article number="6">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 6</title>
+        <para>·𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑮𐑧𐑒𐑩𐑜𐑯𐑦𐑖𐑩𐑯 𐑧𐑝𐑮𐑦𐑢𐑺 𐑨𐑟 𐑩 𐑐𐑻𐑕𐑩𐑯 𐑚𐑦𐑓𐑹 𐑞 𐑤𐑷.</para>
+    </article>
+    <article number="7">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 7</title>
+        <para>𐑷𐑤 𐑸 𐑰𐑒𐑢𐑩𐑤 𐑚𐑦𐑓𐑹 𐑞 𐑤𐑷 𐑯 𐑸 𐑦𐑯𐑑𐑲𐑑𐑩𐑤𐑛 𐑢𐑦𐑞𐑬𐑑 𐑧𐑯𐑦 𐑛𐑦𐑕𐑒𐑮𐑦𐑥𐑦𐑯𐑱𐑖𐑩𐑯 𐑑 𐑰𐑒𐑢𐑩𐑤 𐑐𐑮𐑩𐑑𐑧𐑒𐑖𐑩𐑯 𐑝 𐑞 𐑤𐑷. 𐑷𐑤 𐑸 𐑦𐑯𐑑𐑲𐑑𐑩𐑤𐑛 𐑑 𐑰𐑒𐑢𐑩𐑤 𐑐𐑮𐑩𐑑𐑧𐑒𐑖𐑩𐑯 𐑩𐑜𐑱𐑯𐑕𐑑 𐑧𐑯𐑦 𐑛𐑦𐑕𐑒𐑮𐑦𐑥𐑦𐑯𐑱𐑖𐑩𐑯
+            𐑦𐑯 𐑝𐑲𐑩𐑤𐑱𐑖𐑩𐑯 𐑝 𐑞𐑦𐑕 ·𐑛𐑧𐑒𐑤𐑼𐑱𐑖𐑩𐑯 𐑯 𐑩𐑜𐑱𐑯𐑕𐑑 𐑧𐑯𐑦 𐑦𐑯𐑕𐑲𐑑𐑥𐑩𐑯𐑑 𐑑 𐑕𐑳𐑗 𐑛𐑦𐑕𐑒𐑮𐑦𐑥𐑦𐑯𐑱𐑖𐑩𐑯.</para>
+    </article>
+    <article number="8">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 8</title>
+        <para>·𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑩𐑯 𐑦𐑓𐑧𐑒𐑑𐑦𐑝 𐑮𐑧𐑥𐑩𐑛𐑦 𐑚𐑲 𐑞 𐑒𐑪𐑥𐑐𐑦𐑑𐑩𐑯𐑑 𐑯𐑨𐑖𐑩𐑯𐑩𐑤 𐑑𐑮𐑲𐑚𐑿𐑯𐑩𐑤𐑟 𐑓 𐑨𐑒𐑑𐑕 𐑝𐑲𐑩𐑤𐑱𐑑𐑦𐑙 𐑞 𐑓𐑳𐑯𐑛𐑩𐑥𐑧𐑯𐑑𐑩𐑤 𐑮𐑲𐑑𐑕 𐑜𐑮𐑭𐑯𐑑𐑩𐑛 𐑣𐑦𐑥 𐑚𐑲 𐑞 𐑒𐑪𐑯𐑕𐑑𐑦𐑑𐑿𐑖𐑩𐑯
+            𐑹 𐑚𐑲 𐑤𐑷.</para>
+    </article>
+    <article number="9">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 9</title>
+        <para>𐑯𐑴 𐑢𐑳𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑕𐑩𐑚𐑡𐑧𐑒𐑑𐑩𐑛 𐑑 𐑸𐑚𐑦𐑑𐑮𐑺𐑦 𐑼𐑧𐑕𐑑, 𐑛𐑦𐑑𐑧𐑯𐑖𐑩𐑯 𐑹 𐑧𐑒𐑕𐑲𐑤.</para>
+    </article>
+    <article number="10">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 10</title>
+        <para>·𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑦𐑟 𐑦𐑯𐑑𐑲𐑑𐑩𐑤𐑛 𐑦𐑯 𐑓𐑫𐑤 𐑦𐑒𐑢𐑪𐑤𐑦𐑑𐑦 𐑑 𐑩 𐑓𐑺 𐑯 𐑐𐑳𐑚𐑤𐑦𐑒 𐑣𐑽𐑦𐑙 𐑚𐑲 𐑩𐑯 𐑦𐑯𐑛𐑦𐑐𐑧𐑯𐑛𐑩𐑯𐑑 𐑯 𐑦𐑥𐑐𐑸𐑖𐑩𐑤 𐑑𐑮𐑲𐑚𐑿𐑯𐑩𐑤, 𐑦𐑯 𐑞 𐑛𐑦𐑑𐑻𐑥𐑦𐑯𐑱𐑖𐑩𐑯 𐑝 𐑣𐑦𐑟 𐑮𐑲𐑑𐑕 𐑯 𐑪𐑚𐑤𐑦𐑜𐑱𐑖𐑩𐑯𐑟
+            𐑯 𐑝 𐑧𐑯𐑦 𐑒𐑮𐑦𐑥𐑦𐑯𐑩𐑤 𐑗𐑸𐑡 𐑩𐑜𐑱𐑯𐑕𐑑 𐑣𐑦𐑥.</para>
+    </article>
+    <article number="11">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 11</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑗𐑸𐑡𐑛 𐑢𐑦𐑞 𐑩 𐑐𐑰𐑯𐑩𐑤 𐑩𐑓𐑧𐑯𐑕 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑚𐑰 𐑐𐑮𐑦𐑟𐑿𐑥𐑛 𐑦𐑯𐑩𐑕𐑩𐑯𐑑 𐑩𐑯𐑑𐑦𐑤 𐑐𐑮𐑵𐑝𐑛 𐑜𐑦𐑤𐑑𐑦 𐑩𐑒𐑹𐑛𐑦𐑙 𐑑 𐑤𐑷 𐑦𐑯 𐑩 𐑐𐑳𐑚𐑤𐑦𐑒 𐑑𐑮𐑲𐑩𐑤 𐑨𐑑 𐑢𐑦𐑗 𐑣𐑰 𐑣𐑨𐑟 𐑣𐑨𐑛 𐑷𐑤 𐑞 𐑜𐑨𐑮𐑩𐑯𐑑𐑰𐑟
+            𐑯𐑧𐑕𐑩𐑕𐑺𐑦 𐑓 𐑣𐑦𐑟 𐑛𐑦𐑓𐑧𐑯𐑕.</para>
+            </listitem>
+            <listitem>
+                <para>𐑯𐑴 𐑢𐑳𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑣𐑧𐑤𐑛 𐑜𐑦𐑤𐑑𐑦 𐑝 𐑧𐑯𐑦 𐑐𐑰𐑯𐑩𐑤 𐑩𐑓𐑧𐑯𐑕 𐑪𐑯 𐑩𐑒𐑬𐑯𐑑 𐑝 𐑧𐑯𐑦 𐑨𐑒𐑑 𐑹 𐑴𐑥𐑦𐑖𐑩𐑯 𐑢𐑦𐑗 𐑛𐑦𐑛 𐑯𐑪𐑑 𐑒𐑪𐑯𐑕𐑑𐑦𐑑𐑿𐑑 𐑩 𐑐𐑰𐑯𐑩𐑤 𐑩𐑓𐑧𐑯𐑕, 𐑳𐑯𐑛𐑼 𐑯𐑨𐑖𐑩𐑯𐑩𐑤 𐑹 𐑦𐑯𐑑𐑼𐑯𐑨𐑖𐑩𐑯𐑩𐑤
+            𐑤𐑷, 𐑨𐑑 𐑞 𐑑𐑲𐑥 𐑢𐑧𐑯 𐑦𐑑 𐑢𐑪𐑟 𐑒𐑩𐑥𐑦𐑑𐑩𐑛. 𐑯𐑹 𐑖𐑨𐑤 𐑩 𐑣𐑧𐑝𐑽 𐑐𐑧𐑯𐑩𐑤𐑑𐑦 𐑚𐑰 𐑦𐑥𐑐𐑴𐑟𐑛 𐑞𐑨𐑯 𐑞 𐑢𐑳𐑯 𐑞𐑨𐑑 𐑢𐑪𐑟 𐑩𐑐𐑤𐑦𐑒𐑩𐑚𐑩𐑤 𐑨𐑑 𐑞 𐑑𐑲𐑥 𐑞 𐑐𐑰𐑯𐑩𐑤 𐑩𐑓𐑧𐑯𐑕 𐑢𐑪𐑟 𐑒𐑩𐑥𐑦𐑑𐑩𐑛.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="12">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 12</title>
+        <para>𐑯𐑴 𐑢𐑳𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑕𐑩𐑚𐑡𐑧𐑒𐑑𐑩𐑛 𐑑 𐑸𐑚𐑦𐑑𐑮𐑺𐑦 𐑦𐑯𐑑𐑼𐑓𐑽𐑩𐑯𐑕 𐑢𐑦𐑞 𐑣𐑦𐑟 𐑐𐑮𐑲𐑝𐑩𐑕𐑦, 𐑓𐑨𐑥𐑦𐑤𐑦, 𐑣𐑴𐑥 𐑹 𐑒𐑪𐑮𐑦𐑕𐑐𐑪𐑯𐑛𐑩𐑯𐑕, 𐑯𐑹 𐑑 𐑩𐑑𐑨𐑒𐑕 𐑩𐑐𐑪𐑯 𐑣𐑦𐑟 𐑪𐑯𐑼 𐑯 𐑮𐑧𐑐𐑿𐑑𐑱𐑖𐑩𐑯. 𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟
+            𐑞 𐑮𐑲𐑑 𐑑 𐑞 𐑐𐑮𐑩𐑑𐑧𐑒𐑖𐑩𐑯 𐑝 𐑞 𐑤𐑷 𐑩𐑜𐑱𐑯𐑕𐑑 𐑕𐑳𐑗 𐑦𐑯𐑑𐑼𐑓𐑽𐑩𐑯𐑕 𐑹 𐑩𐑑𐑨𐑒𐑕.</para>
+    </article>
+    <article number="13">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 13</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑓𐑮𐑰𐑛𐑩𐑥 𐑝 𐑥𐑵𐑝𐑥𐑩𐑯𐑑 𐑯 𐑮𐑧𐑟𐑦𐑛𐑩𐑯𐑕 𐑢𐑦𐑞𐑦𐑯 𐑞 𐑚𐑹𐑛𐑼𐑟 𐑝 𐑰𐑗 ·𐑕𐑑𐑱𐑑.</para>
+            </listitem>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑤𐑰𐑝 𐑧𐑯𐑦 𐑒𐑳𐑯𐑑𐑮𐑦, 𐑦𐑯𐑒𐑤𐑵𐑛𐑦𐑙 𐑣𐑦𐑟 𐑴𐑯, 𐑯 𐑑 𐑮𐑦𐑑𐑻𐑯 𐑑 𐑣𐑦𐑟 𐑒𐑳𐑯𐑑𐑮𐑦.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="14">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 14</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑕𐑰𐑒 𐑯 𐑑 𐑦𐑯𐑡𐑶 𐑦𐑯 𐑳𐑞𐑼 𐑒𐑳𐑯𐑑𐑮𐑦𐑟 𐑩𐑕𐑲𐑤𐑩𐑥 𐑓𐑮𐑪𐑥 𐑐𐑻𐑕𐑦𐑒𐑿𐑖𐑩𐑯.</para>
+            </listitem>
+            <listitem>
+                <para>𐑞𐑦𐑕 𐑮𐑲𐑑 𐑥𐑱 𐑯𐑪𐑑 𐑚𐑰 𐑦𐑯𐑝𐑴𐑒𐑑 𐑦𐑯 𐑞 𐑒𐑱𐑕 𐑝 𐑐𐑮𐑪𐑕𐑦𐑒𐑿𐑖𐑩𐑯𐑟 𐑡𐑧𐑯𐑿𐑦𐑯𐑤𐑦 𐑼𐑲𐑟𐑦𐑙 𐑓𐑮𐑪𐑥 𐑯𐑪𐑯-𐑐𐑪𐑤𐑦𐑑𐑦𐑒𐑩𐑤 𐑒𐑮𐑲𐑥𐑟 𐑹 𐑓𐑮𐑪𐑥 𐑨𐑒𐑑𐑕 𐑒𐑪𐑯𐑑𐑮𐑺𐑦 𐑑 𐑞 𐑐𐑻𐑐𐑩𐑕𐑩𐑟 𐑯 𐑐𐑮𐑦𐑯𐑕𐑩𐑐𐑩𐑤𐑟
+            𐑝 𐑞 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑯𐑱𐑖𐑩𐑯𐑟.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="15">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 15</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑩 𐑯𐑨𐑖𐑩𐑯𐑨𐑤𐑦𐑑𐑦.</para>
+            </listitem>
+            <listitem>
+                <para>𐑯𐑴 𐑢𐑳𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑸𐑚𐑦𐑑𐑮𐑺𐑦𐑤𐑦 𐑛𐑦𐑐𐑮𐑲𐑝𐑛 𐑝 𐑣𐑦𐑟 𐑯𐑨𐑖𐑩𐑯𐑨𐑤𐑦𐑑𐑦 𐑯𐑹 𐑛𐑦𐑯𐑲𐑛 𐑞 𐑮𐑲𐑑 𐑑 𐑗𐑱𐑯𐑡 𐑣𐑦𐑟 𐑯𐑨𐑖𐑩𐑯𐑨𐑤𐑦𐑑𐑦.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="16">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 16</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑥𐑧𐑯 𐑯 𐑢𐑦𐑥𐑦𐑯 𐑝 𐑓𐑫𐑤 𐑱𐑡, 𐑢𐑦𐑞𐑬𐑑 𐑧𐑯𐑦 𐑤𐑦𐑥𐑦𐑑𐑱𐑖𐑩𐑯 𐑛𐑿 𐑑 𐑮𐑱𐑕, 𐑯𐑨𐑖𐑩𐑯𐑨𐑤𐑦𐑑𐑦 𐑹 𐑮𐑦𐑤𐑦𐑡𐑩𐑯, 𐑣𐑨𐑝 𐑞 𐑮𐑲𐑑 𐑑 𐑥𐑨𐑮𐑦 𐑯 𐑑 𐑓𐑬𐑯𐑛 𐑩 𐑓𐑨𐑥𐑦𐑤𐑦. 𐑞𐑱 𐑸 𐑦𐑯𐑑𐑲𐑑𐑩𐑤𐑛 𐑑 𐑰𐑒𐑢𐑩𐑤 𐑮𐑲𐑑𐑕 𐑨𐑟
+            𐑑 𐑥𐑨𐑮𐑦𐑡, 𐑛𐑘𐑫𐑼𐑦𐑙 𐑥𐑨𐑮𐑦𐑡 𐑯 𐑨𐑑 𐑦𐑑𐑕 𐑛𐑦𐑕𐑩𐑤𐑵𐑖𐑩𐑯.</para>
+            </listitem>
+            <listitem>
+                <para>𐑥𐑨𐑮𐑦𐑡 𐑖𐑨𐑤 𐑚𐑰 𐑧𐑯𐑑𐑼𐑛 𐑦𐑯𐑑𐑵 𐑴𐑯𐑤𐑦 𐑢𐑦𐑞 𐑞 𐑓𐑮𐑰 𐑯 𐑓𐑫𐑤 𐑒𐑩𐑯𐑕𐑧𐑯𐑑 𐑝 𐑞 𐑦𐑯𐑑𐑧𐑯𐑛𐑦𐑙 𐑕𐑐𐑬𐑕𐑩𐑟.</para>
+            </listitem>
+            <listitem>
+                <para>𐑞 𐑓𐑨𐑥𐑦𐑤𐑦 𐑦𐑟 𐑞 𐑯𐑨𐑗𐑼𐑩𐑤 𐑯 𐑓𐑳𐑯𐑛𐑩𐑥𐑧𐑯𐑑𐑩𐑤 𐑜𐑮𐑵𐑐 𐑿𐑯𐑦𐑑 𐑝 𐑕𐑩𐑕𐑲𐑩𐑑𐑦 𐑯 𐑦𐑟 𐑦𐑯𐑑𐑲𐑑𐑩𐑤𐑛 𐑑 𐑐𐑮𐑩𐑑𐑧𐑒𐑖𐑩𐑯 𐑚𐑲 𐑕𐑩𐑕𐑲𐑩𐑑𐑦 𐑯 𐑞 ·𐑕𐑑𐑱𐑑.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="17">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 17</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑴𐑯 𐑐𐑮𐑪𐑐𐑼𐑑𐑦 𐑩𐑤𐑴𐑯 𐑨𐑟 𐑢𐑧𐑤 𐑨𐑟 𐑦𐑯 𐑩𐑕𐑴𐑖𐑦𐑱𐑖𐑩𐑯 𐑢𐑦𐑞 𐑳𐑞𐑼𐑟.</para>
+            </listitem>
+            <listitem>
+                <para>𐑯𐑴 𐑢𐑳𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑸𐑚𐑦𐑑𐑮𐑺𐑦𐑤𐑦 𐑛𐑦𐑐𐑮𐑲𐑝𐑛 𐑝 𐑣𐑦𐑟 𐑐𐑮𐑪𐑐𐑼𐑑𐑦.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="18">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 18</title>
+        <para>·𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑓𐑮𐑰𐑛𐑩𐑥 𐑝 𐑔𐑷𐑑, 𐑒𐑪𐑯𐑖𐑩𐑯𐑕 𐑯 𐑮𐑦𐑤𐑦𐑡𐑩𐑯; 𐑞𐑦𐑕 𐑮𐑲𐑑 𐑦𐑯𐑒𐑤𐑵𐑛𐑟 𐑓𐑮𐑰𐑛𐑩𐑥 𐑑 𐑗𐑱𐑯𐑡 𐑣𐑦𐑟 𐑮𐑦𐑤𐑦𐑡𐑩𐑯 𐑹 𐑚𐑦𐑤𐑰𐑓, 𐑯 𐑓𐑮𐑰𐑛𐑩𐑥, 𐑲𐑞𐑼 𐑩𐑤𐑴𐑯 𐑹 𐑦𐑯 𐑒𐑩𐑥𐑿𐑯𐑦𐑑𐑦
+            𐑢𐑦𐑞 𐑳𐑞𐑼𐑟 𐑯 𐑦𐑯 𐑐𐑳𐑚𐑤𐑦𐑒 𐑹 𐑐𐑮𐑲𐑝𐑩𐑑, 𐑑 𐑥𐑨𐑯𐑦𐑓𐑧𐑕𐑑 𐑣𐑦𐑟 𐑮𐑦𐑤𐑦𐑡𐑩𐑯 𐑹 𐑚𐑦𐑤𐑰𐑓 𐑦𐑯 𐑑𐑰𐑗𐑦𐑙, 𐑐𐑮𐑨𐑒𐑑𐑦𐑕, 𐑢𐑻𐑖𐑦𐑐 𐑯 𐑩𐑚𐑟𐑻𐑝𐑩𐑯𐑕.</para>
+    </article>
+    <article number="19">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 19</title>
+        <para>·𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑓𐑮𐑰𐑛𐑩𐑥 𐑝 𐑩𐑐𐑦𐑯𐑘𐑩𐑯 𐑯 𐑦𐑒𐑕𐑐𐑮𐑧𐑖𐑩𐑯; 𐑞𐑦𐑕 𐑮𐑲𐑑 𐑦𐑯𐑒𐑤𐑵𐑛𐑟 𐑓𐑮𐑰𐑛𐑩𐑥 𐑑 𐑣𐑴𐑤𐑛 𐑩𐑐𐑦𐑯𐑘𐑩𐑯𐑟 𐑢𐑦𐑞𐑬𐑑 𐑦𐑯𐑑𐑼𐑓𐑽𐑩𐑯𐑕 𐑯 𐑑 𐑕𐑰𐑒, 𐑮𐑦𐑕𐑰𐑝 𐑯 𐑦𐑥𐑐𐑸𐑑 𐑦𐑯𐑓𐑼𐑥𐑱𐑖𐑩𐑯
+            𐑯 𐑲𐑛𐑾𐑟 𐑔𐑮𐑵 𐑧𐑯𐑦 𐑥𐑰𐑛𐑾 𐑯 𐑮𐑦𐑜𐑸𐑛𐑤𐑩𐑕 𐑝 𐑓𐑮𐑳𐑯𐑑𐑽𐑟.</para>
+    </article>
+    <article number="20">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 20</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑓𐑮𐑰𐑛𐑩𐑥 𐑝 𐑐𐑰𐑕𐑓𐑩𐑤 𐑩𐑕𐑧𐑥𐑚𐑤𐑦 𐑯 𐑩𐑕𐑴𐑖𐑦𐑱𐑖𐑩𐑯.</para>
+            </listitem>
+            <listitem>
+                <para>𐑯𐑴 𐑢𐑳𐑯 𐑥𐑱 𐑚𐑰 𐑒𐑩𐑥𐑐𐑧𐑤𐑛 𐑑 𐑚𐑦𐑤𐑪𐑙 𐑑 𐑩𐑯 𐑩𐑕𐑴𐑖𐑦𐑱𐑖𐑩𐑯.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="21">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 21</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑑𐑱𐑒 𐑐𐑸𐑑 𐑦𐑯 𐑞 𐑜𐑳𐑝𐑼𐑯𐑥𐑩𐑯𐑑 𐑝 𐑣𐑦𐑟 𐑒𐑳𐑯𐑑𐑮𐑦, 𐑛𐑦𐑮𐑧𐑒𐑑𐑤𐑦 𐑹 𐑔𐑮𐑵 𐑓𐑮𐑰𐑤𐑦 𐑗𐑴𐑟𐑩𐑯 𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑩𐑑𐑦𐑝𐑟.</para>
+            </listitem>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑝 𐑰𐑒𐑢𐑩𐑤 𐑨𐑒𐑕𐑧𐑕 𐑑 𐑐𐑳𐑚𐑤𐑦𐑒 𐑕𐑻𐑝𐑦𐑕 𐑦𐑯 𐑣𐑦𐑟 𐑒𐑳𐑯𐑑𐑮𐑦.</para>
+            </listitem>
+            <listitem>
+                <para>𐑞 𐑢𐑦𐑤 𐑝 𐑞 𐑐𐑰𐑐𐑩𐑤 𐑖𐑨𐑤 𐑚𐑰 𐑞 𐑚𐑱𐑕𐑦𐑕 𐑝 𐑞 𐑷𐑔𐑪𐑮𐑦𐑑𐑦 𐑝 𐑜𐑳𐑝𐑼𐑯𐑥𐑩𐑯𐑑; 𐑞𐑦𐑕 𐑢𐑦𐑤 𐑖𐑨𐑤 𐑚𐑰 𐑦𐑒𐑕𐑐𐑮𐑧𐑕𐑑 𐑦𐑯 𐑐𐑽𐑦𐑪𐑛𐑦𐑒 𐑯 𐑡𐑧𐑯𐑿𐑦𐑯 𐑦𐑤𐑧𐑒𐑖𐑩𐑯𐑟 𐑢𐑦𐑗 𐑖𐑨𐑤 𐑚𐑰 𐑚𐑲 𐑿𐑯𐑦𐑝𐑻𐑕𐑩𐑤 𐑯 𐑰𐑒𐑢𐑩𐑤
+            𐑕𐑳𐑓𐑮𐑦𐑡 𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑣𐑧𐑤𐑛 𐑚𐑲 𐑕𐑰𐑒𐑮𐑩𐑑 𐑝𐑴𐑑 𐑹 𐑚𐑲 𐑦𐑒𐑢𐑦𐑝𐑩𐑤𐑩𐑯𐑑 𐑓𐑮𐑰 𐑝𐑴𐑑𐑦𐑙 𐑐𐑮𐑩𐑕𐑰𐑡𐑼𐑟.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="22">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 22</title>
+        <para>·𐑧𐑝𐑮𐑦𐑢𐑳𐑯, 𐑨𐑟 𐑩 𐑥𐑧𐑥𐑚𐑼 𐑝 𐑕𐑩𐑕𐑲𐑩𐑑𐑦, 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑕𐑴𐑖𐑩𐑤 𐑕𐑦𐑒𐑘𐑫𐑼𐑦𐑑𐑦 𐑯 𐑦𐑟 𐑦𐑯𐑑𐑲𐑑𐑩𐑤𐑛 𐑑 𐑮𐑾𐑤𐑲𐑟𐑱𐑖𐑩𐑯, 𐑔𐑮𐑵 𐑯𐑨𐑖𐑩𐑯𐑩𐑤 𐑧𐑓𐑼𐑑 𐑯 𐑦𐑯𐑑𐑼𐑯𐑨𐑖𐑩𐑯𐑩𐑤 𐑒𐑴-𐑪𐑐𐑼𐑱𐑖𐑩𐑯 𐑯 𐑦𐑯 𐑩𐑒𐑹𐑛𐑩𐑯𐑕
+            𐑢𐑦𐑞 𐑞 𐑹𐑜𐑩𐑯𐑲𐑟𐑱𐑖𐑩𐑯 𐑯 𐑮𐑦𐑕𐑹𐑕𐑩𐑟 𐑝 𐑰𐑗 ·𐑕𐑑𐑱𐑑, 𐑝 𐑞 𐑰𐑒𐑩𐑯𐑪𐑥𐑦𐑒, 𐑕𐑴𐑖𐑩𐑤 𐑯 𐑒𐑳𐑤𐑗𐑼𐑩𐑤 𐑮𐑲𐑑𐑕 𐑦𐑯𐑛𐑦𐑕𐑐𐑧𐑯𐑕𐑩𐑚𐑩𐑤 𐑓 𐑣𐑦𐑟 𐑛𐑦𐑜𐑯𐑦𐑑𐑦 𐑯 𐑞 𐑓𐑮𐑰 𐑛𐑦𐑝𐑧𐑤𐑩𐑐𐑥𐑩𐑯𐑑 𐑝 𐑣𐑦𐑟 𐑐𐑻𐑕𐑩𐑯𐑨𐑤𐑦𐑑𐑦.</para>
+    </article>
+    <article number="23">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 23</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑢𐑻𐑒, 𐑑 𐑓𐑮𐑰 𐑗𐑶𐑕 𐑝 𐑦𐑥𐑐𐑤𐑶𐑥𐑩𐑯𐑑, 𐑑 𐑡𐑳𐑕𐑑 𐑯 𐑓𐑱𐑝𐑼𐑩𐑚𐑩𐑤 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯𐑟 𐑝 𐑢𐑻𐑒 𐑯 𐑑 𐑐𐑮𐑩𐑑𐑧𐑒𐑖𐑩𐑯 𐑩𐑜𐑱𐑯𐑕𐑑 𐑳𐑯𐑦𐑥𐑐𐑤𐑶𐑥𐑩𐑯𐑑.</para>
+            </listitem>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯, 𐑢𐑦𐑞𐑬𐑑 𐑧𐑯𐑦 𐑛𐑦𐑕𐑒𐑮𐑦𐑥𐑦𐑯𐑱𐑖𐑩𐑯, 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑰𐑒𐑢𐑩𐑤 𐑐𐑱 𐑓 𐑰𐑒𐑢𐑩𐑤 𐑢𐑻𐑒.</para>
+            </listitem>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑵 𐑢𐑻𐑒𐑕 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑡𐑳𐑕𐑑 𐑯 𐑓𐑱𐑝𐑼𐑩𐑚𐑩𐑤 𐑮𐑦𐑥𐑿𐑯𐑼𐑱𐑖𐑩𐑯 𐑦𐑯𐑖𐑫𐑼𐑦𐑙 𐑓 𐑣𐑦𐑥𐑕𐑧𐑤𐑓 𐑯 𐑣𐑦𐑟 𐑓𐑨𐑥𐑦𐑤𐑦 𐑩𐑯 𐑦𐑜𐑟𐑦𐑕𐑑𐑩𐑯𐑕 𐑢𐑻𐑞𐑦 𐑝 𐑣𐑿𐑥𐑩𐑯 𐑛𐑦𐑜𐑯𐑦𐑑𐑦, 𐑯 𐑕𐑳𐑐𐑤𐑦𐑥𐑩𐑯𐑑𐑩𐑛,
+            𐑦𐑓 𐑯𐑧𐑕𐑩𐑕𐑺𐑦, 𐑚𐑲 𐑳𐑞𐑼 𐑥𐑰𐑯𐑟 𐑝 𐑕𐑴𐑖𐑩𐑤 𐑐𐑮𐑩𐑑𐑧𐑒𐑖𐑩𐑯.</para>
+            </listitem>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑓𐑹𐑥 𐑯 𐑑 𐑡𐑶𐑯 𐑑𐑮𐑱𐑛 𐑿𐑯𐑾𐑯𐑟 𐑓 𐑞 𐑐𐑮𐑩𐑑𐑧𐑒𐑖𐑩𐑯 𐑝 𐑣𐑦𐑟 𐑦𐑯𐑑𐑮𐑩𐑕𐑑𐑕.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="24">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 24</title>
+        <para>·𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑮𐑧𐑕𐑑 𐑯 𐑤𐑧𐑠𐑼, 𐑦𐑯𐑒𐑤𐑵𐑛𐑦𐑙 𐑮𐑰𐑟𐑩𐑯𐑩𐑚𐑩𐑤 𐑤𐑦𐑥𐑦𐑑𐑱𐑖𐑩𐑯 𐑝 𐑢𐑻𐑒𐑦𐑙 𐑬𐑼𐑟 𐑯 𐑐𐑽𐑦𐑪𐑛𐑦𐑒 𐑣𐑪𐑤𐑦𐑛𐑱𐑟 𐑢𐑦𐑞 𐑐𐑱.</para>
+    </article>
+    <article number="25">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 25</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑩 𐑕𐑑𐑨𐑯𐑛𐑼𐑛 𐑝 𐑤𐑦𐑝𐑦𐑙 𐑨𐑛𐑦𐑒𐑢𐑩𐑑 𐑓 𐑞 𐑣𐑧𐑤𐑔 𐑯 𐑢𐑧𐑤-𐑚𐑰𐑦𐑙 𐑝 𐑣𐑦𐑥𐑕𐑧𐑤𐑓 𐑯 𐑝 𐑣𐑦𐑟 𐑓𐑨𐑥𐑦𐑤𐑦, 𐑦𐑯𐑒𐑤𐑵𐑛𐑦𐑙 𐑓𐑵𐑛, 𐑒𐑤𐑴𐑞𐑦𐑙, 𐑣𐑬𐑟𐑦𐑙 𐑯 𐑥𐑧𐑛𐑦𐑒𐑩𐑤 𐑒𐑺 𐑯 𐑯𐑧𐑕𐑩𐑕𐑺𐑦
+            𐑕𐑴𐑖𐑩𐑤 𐑕𐑻𐑝𐑦𐑕𐑩𐑟, 𐑯 𐑞 𐑮𐑲𐑑 𐑑 𐑕𐑦𐑒𐑘𐑫𐑼𐑦𐑑𐑦 𐑦𐑯 𐑞 𐑦𐑝𐑧𐑯𐑑 𐑝 𐑳𐑯𐑦𐑥𐑐𐑤𐑶𐑥𐑩𐑯𐑑, 𐑕𐑦𐑒𐑯𐑩𐑕, 𐑛𐑦𐑕𐑩𐑚𐑦𐑤𐑦𐑑𐑦, 𐑢𐑦𐑛𐑴𐑣𐑫𐑛, 𐑴𐑤𐑛 𐑱𐑡 𐑹 𐑳𐑞𐑼 𐑤𐑨𐑒 𐑝 𐑤𐑲𐑝𐑤𐑦𐑣𐑫𐑛 𐑦𐑯 𐑕𐑻𐑒𐑩𐑥𐑕𐑑𐑨𐑯𐑕𐑩𐑟
+            𐑚𐑦𐑘𐑪𐑯𐑛 𐑣𐑦𐑟 𐑒𐑩𐑯𐑑𐑮𐑴𐑤.</para>
+            </listitem>
+            <listitem>
+                <para>𐑥𐑳𐑞𐑼𐑣𐑫𐑛 𐑯 𐑗𐑲𐑤𐑛𐑣𐑫𐑛 𐑸 𐑦𐑯𐑑𐑲𐑑𐑩𐑤𐑛 𐑑 𐑕𐑐𐑧𐑖𐑩𐑤 𐑒𐑺 𐑯 𐑩𐑕𐑦𐑕𐑑𐑩𐑯𐑕. 𐑷𐑤 𐑗𐑦𐑤𐑛𐑮𐑩𐑯, 𐑢𐑧𐑞𐑼 𐑚𐑹𐑯 𐑦𐑯 𐑹 𐑬𐑑 𐑝 𐑢𐑧𐑛𐑤𐑪𐑒, 𐑖𐑨𐑤 𐑦𐑯𐑡𐑶 𐑞 𐑕𐑱𐑥 𐑕𐑴𐑖𐑩𐑤 𐑐𐑮𐑩𐑑𐑧𐑒𐑖𐑩𐑯.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="26">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 26</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑧𐑡𐑩𐑒𐑱𐑖𐑩𐑯. 𐑧𐑡𐑩𐑒𐑱𐑖𐑩𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑓𐑮𐑰, 𐑨𐑑 𐑤𐑰𐑕𐑑 𐑦𐑯 𐑞 𐑧𐑤𐑦𐑥𐑧𐑯𐑑𐑼𐑦 𐑯 𐑓𐑳𐑯𐑛𐑩𐑥𐑧𐑯𐑑𐑩𐑤 𐑕𐑑𐑱𐑡𐑩𐑟. 𐑧𐑤𐑦𐑥𐑧𐑯𐑑𐑼𐑦 𐑧𐑡𐑩𐑒𐑱𐑖𐑩𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑒𐑩𐑥𐑐𐑳𐑤𐑕𐑼𐑦. 𐑑𐑧𐑒𐑯𐑦𐑒𐑩𐑤
+            𐑯 𐑐𐑮𐑩𐑓𐑧𐑖𐑩𐑯𐑩𐑤 𐑧𐑡𐑩𐑒𐑱𐑖𐑩𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑥𐑱𐑛 𐑡𐑧𐑯𐑼𐑩𐑤𐑦 𐑩𐑝𐑱𐑤𐑩𐑚𐑩𐑤 𐑯 𐑣𐑲𐑼 𐑧𐑡𐑩𐑒𐑱𐑖𐑩𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑰𐑒𐑢𐑩𐑤𐑦 𐑩𐑒𐑕𐑧𐑕𐑩𐑚𐑩𐑤 𐑑 𐑷𐑤 𐑪𐑯 𐑞 𐑚𐑱𐑕𐑦𐑕 𐑝 𐑥𐑧𐑮𐑦𐑑.</para>
+            </listitem>
+            <listitem>
+                <para>𐑧𐑡𐑩𐑒𐑱𐑖𐑩𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑛𐑦𐑮𐑧𐑒𐑑𐑩𐑛 𐑑 𐑞 𐑓𐑫𐑤 𐑛𐑦𐑝𐑧𐑤𐑩𐑐𐑥𐑩𐑯𐑑 𐑝 𐑞 𐑣𐑿𐑥𐑩𐑯 𐑐𐑻𐑕𐑩𐑯𐑨𐑤𐑦𐑑𐑦 𐑯 𐑑 𐑞 𐑕𐑑𐑮𐑧𐑙𐑔𐑩𐑯𐑦𐑙 𐑝 𐑮𐑦𐑕𐑐𐑧𐑒𐑑 𐑓 𐑣𐑿𐑥𐑩𐑯 𐑮𐑲𐑑𐑕 𐑯 𐑓𐑳𐑯𐑛𐑩𐑥𐑧𐑯𐑑𐑩𐑤 𐑓𐑮𐑰𐑛𐑩𐑥𐑟. 𐑦𐑑 𐑖𐑨𐑤
+            𐑐𐑮𐑩𐑥𐑴𐑑 𐑳𐑯𐑛𐑼𐑕𐑑𐑨𐑯𐑛𐑦𐑙, 𐑑𐑪𐑤𐑼𐑩𐑯𐑕 𐑯 𐑓𐑮𐑧𐑯𐑛𐑖𐑦𐑐 𐑩𐑥𐑳𐑙 𐑷𐑤 𐑯𐑱𐑖𐑩𐑯𐑟, 𐑮𐑱𐑖𐑩𐑤 𐑹 𐑮𐑦𐑤𐑦𐑡𐑩𐑕 𐑜𐑮𐑵𐑐𐑕, 𐑯 𐑖𐑨𐑤 𐑓𐑻𐑞𐑼 𐑞 𐑨𐑒𐑑𐑦𐑝𐑦𐑑𐑦𐑟 𐑝 𐑞 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑯𐑱𐑖𐑩𐑯𐑟 𐑓 𐑞 𐑥𐑱𐑯𐑑𐑩𐑯𐑩𐑯𐑕
+            𐑝 𐑐𐑰𐑕.</para>
+            </listitem>
+            <listitem>
+                <para>𐑐𐑺𐑩𐑯𐑑𐑕 𐑣𐑨𐑝 𐑩 𐑐𐑮𐑲𐑼 𐑮𐑲𐑑 𐑑 𐑗𐑵𐑟 𐑞 𐑒𐑲𐑯𐑛 𐑝 𐑧𐑡𐑩𐑒𐑱𐑖𐑩𐑯 𐑞𐑨𐑑 𐑖𐑨𐑤 𐑚𐑰 𐑜𐑦𐑝𐑩𐑯 𐑑 𐑞𐑺 𐑗𐑦𐑤𐑛𐑮𐑩𐑯.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="27">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 27</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑓𐑮𐑰𐑤𐑦 𐑑 𐑐𐑸𐑑𐑦𐑕𐑦𐑐𐑱𐑑 𐑦𐑯 𐑞 𐑒𐑳𐑤𐑗𐑼𐑩𐑤 𐑤𐑲𐑓 𐑝 𐑞 𐑒𐑩𐑥𐑿𐑯𐑦𐑑𐑦, 𐑑 𐑦𐑯𐑡𐑶 𐑞 𐑸𐑑𐑕 𐑯 𐑑 𐑖𐑺 𐑦𐑯 𐑕𐑲𐑩𐑯𐑑𐑦𐑓𐑦𐑒 𐑩𐑛𐑝𐑭𐑯𐑕𐑥𐑩𐑯𐑑 𐑯 𐑦𐑑𐑕 𐑚𐑧𐑯𐑦𐑓𐑦𐑑𐑕.</para>
+            </listitem>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑑 𐑞 𐑐𐑮𐑩𐑑𐑧𐑒𐑖𐑩𐑯 𐑝 𐑞 𐑥𐑹𐑩𐑤 𐑯 𐑥𐑩𐑑𐑽𐑾𐑤 𐑦𐑯𐑑𐑮𐑩𐑕𐑑𐑕 𐑮𐑦𐑟𐑳𐑤𐑑𐑦𐑙 𐑓𐑮𐑪𐑥 𐑧𐑯𐑦 𐑕𐑲𐑩𐑯𐑑𐑦𐑓𐑦𐑒, 𐑤𐑦𐑑𐑼𐑺𐑦 𐑹 𐑸𐑑𐑦𐑕𐑑𐑦𐑒 𐑐𐑮𐑩𐑛𐑳𐑒𐑖𐑩𐑯 𐑝 𐑢𐑦𐑗 𐑣𐑰 𐑦𐑟 𐑞 𐑷𐑔𐑼.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="28">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 28</title>
+        <para>·𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑦𐑟 𐑦𐑯𐑑𐑲𐑑𐑩𐑤𐑛 𐑑 𐑩 𐑕𐑴𐑖𐑩𐑤 𐑯 𐑦𐑯𐑑𐑼𐑯𐑨𐑖𐑩𐑯𐑩𐑤 𐑹𐑛𐑼 𐑦𐑯 𐑢𐑦𐑗 𐑞 𐑮𐑲𐑑𐑕 𐑯 𐑓𐑮𐑰𐑛𐑩𐑥𐑟 𐑕𐑧𐑑 𐑓𐑹𐑔 𐑦𐑯 𐑞𐑦𐑕 ·𐑛𐑧𐑒𐑤𐑼𐑱𐑖𐑩𐑯 𐑒𐑨𐑯 𐑚𐑰 𐑓𐑫𐑤𐑦 𐑮𐑾𐑤𐑲𐑟𐑛.</para>
+    </article>
+    <article number="29">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 29</title>
+        <orderedlist>
+            <listitem>
+                <para>𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑣𐑨𐑟 𐑛𐑿𐑑𐑦𐑟 𐑑 𐑞 𐑒𐑩𐑥𐑿𐑯𐑦𐑑𐑦 𐑦𐑯 𐑢𐑦𐑗 𐑩𐑤𐑴𐑯 𐑞 𐑓𐑮𐑰 𐑯 𐑓𐑫𐑤 𐑛𐑦𐑝𐑧𐑤𐑩𐑐𐑥𐑩𐑯𐑑 𐑝 𐑣𐑦𐑟 𐑐𐑻𐑕𐑩𐑯𐑨𐑤𐑦𐑑𐑦 𐑦𐑟 𐑐𐑪𐑕𐑩𐑚𐑩𐑤.</para>
+            </listitem>
+            <listitem>
+                <para>𐑦𐑯 𐑞 𐑧𐑒𐑕𐑼𐑕𐑲𐑟 𐑝 𐑣𐑦𐑟 𐑮𐑲𐑑𐑕 𐑯 𐑓𐑮𐑰𐑛𐑩𐑥𐑟, 𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑖𐑨𐑤 𐑚𐑰 𐑕𐑳𐑚𐑡𐑧𐑒𐑑 𐑴𐑯𐑤𐑦 𐑑 𐑕𐑳𐑗 𐑤𐑦𐑥𐑦𐑑𐑱𐑖𐑩𐑯𐑟 𐑨𐑟 𐑸 𐑛𐑦𐑑𐑻𐑥𐑦𐑯𐑛 𐑚𐑲 𐑤𐑷 𐑕𐑴𐑤𐑦 𐑓 𐑞 𐑐𐑻𐑐𐑩𐑕 𐑝 𐑕𐑦𐑒𐑘𐑫𐑼𐑦𐑙 𐑛𐑿 𐑮𐑧𐑒𐑩𐑜𐑯𐑦𐑖𐑩𐑯
+            𐑯 𐑮𐑦𐑕𐑐𐑧𐑒𐑑 𐑓 𐑞 𐑮𐑲𐑑𐑕 𐑯 𐑓𐑮𐑰𐑛𐑩𐑥𐑟 𐑝 𐑳𐑞𐑼𐑟 𐑯 𐑝 𐑥𐑰𐑑𐑦𐑙 𐑞 𐑡𐑳𐑕𐑑 𐑮𐑦𐑒𐑢𐑲𐑼𐑥𐑩𐑯𐑑𐑕 𐑝 𐑥𐑹𐑨𐑤𐑦𐑑𐑦, 𐑐𐑳𐑚𐑤𐑦𐑒 𐑹𐑛𐑼 𐑯 𐑞 𐑡𐑧𐑯𐑼𐑩𐑤 𐑢𐑧𐑤𐑓𐑺 𐑦𐑯 𐑩 𐑛𐑧𐑥𐑩𐑒𐑮𐑨𐑑𐑦𐑒 𐑕𐑩𐑕𐑲𐑩𐑑𐑦.</para>
+            </listitem>
+            <listitem>
+                <para>𐑞𐑰𐑟 𐑮𐑲𐑑𐑕 𐑯 𐑓𐑮𐑰𐑛𐑩𐑥𐑟 𐑥𐑱 𐑦𐑯 𐑯𐑴 𐑒𐑱𐑕 𐑚𐑰 𐑧𐑒𐑕𐑼𐑕𐑲𐑟𐑛 𐑒𐑪𐑯𐑑𐑮𐑺𐑦 𐑑 𐑞 𐑐𐑻𐑐𐑩𐑕𐑩𐑟 𐑯 𐑐𐑮𐑦𐑯𐑕𐑩𐑐𐑩𐑤𐑟 𐑝 𐑞 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑯𐑱𐑖𐑩𐑯𐑟.</para>
+            </listitem>
+        </orderedlist>
+    </article>
+    <article number="30">
+        <title>𐑸𐑑𐑦𐑒𐑩𐑤 30</title>
+        <para>·𐑯𐑳𐑔𐑦𐑙 𐑦𐑯 𐑞𐑦𐑕 ·𐑛𐑧𐑒𐑤𐑼𐑱𐑖𐑩𐑯 𐑥𐑱 𐑚𐑰 𐑦𐑯𐑑𐑻𐑐𐑮𐑩𐑑𐑩𐑛 𐑨𐑟 𐑦𐑥𐑐𐑤𐑲𐑦𐑙 𐑓 𐑧𐑯𐑦 ·𐑕𐑑𐑱𐑑, 𐑜𐑮𐑵𐑐 𐑹 𐑐𐑻𐑕𐑩𐑯 𐑧𐑯𐑦 𐑮𐑲𐑑 𐑑 𐑦𐑯𐑜𐑱𐑡 𐑦𐑯 𐑧𐑯𐑦 𐑨𐑒𐑑𐑦𐑝𐑦𐑑𐑦 𐑹 𐑑 𐑐𐑼𐑓𐑹𐑥 𐑧𐑯𐑦 𐑨𐑒𐑑 𐑱𐑥𐑛 𐑨𐑑 𐑞 𐑛𐑦𐑕𐑑𐑮𐑳𐑒𐑖𐑩𐑯
+            𐑝 𐑧𐑯𐑦 𐑝 𐑞 𐑮𐑲𐑑𐑕 𐑯 𐑓𐑮𐑰𐑛𐑩𐑥𐑟 𐑕𐑧𐑑 𐑓𐑹𐑔 𐑣𐑽𐑦𐑯.</para>
+    </article>
+</udhr>

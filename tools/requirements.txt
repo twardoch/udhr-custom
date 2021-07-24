@@ -1,0 +1,6 @@
+aksharamukha>=1.8.1
+lxml>=4.6.2
+yaplon>=1.5.7
+lupa
+git+https://github.com/kbatsuren/wiktra
+langcodes[data]

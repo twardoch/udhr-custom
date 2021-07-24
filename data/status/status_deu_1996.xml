@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for deu_1996</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='June 19, 2018'>U+002D - HYPHEN-MINUS resolved to
+  U+2010 ‐ HYPHEN.</history-entry>
+
+  <history-entry date='May 24, 2018'>
+  &#x201C;des weiteren&#x201D; corrected to &#x201C;des Weiteren&#x201D;
+  and &#x201C;zuteil werden&#x201D; corrected to
+  &#x201C;zuteilwerden&#x201D;. Deleted an inserted comma that is not
+  obligatory and restored an acceptable comma. Moved
+  &#x201C;gewährleistet&#x201D; so that its position corresponds to the
+  OHCHR translation in the PDF version. Thanks to Ivan
+  Panchenko.</history-entry>
+
+  <history-entry date='December 26, 2007'>Two typos:
+  &#x201C;Forschritt&#x201D; corrected to &#x201C;Fortschritt&#x201D;
+  and &#x201C;Staatsanghörigkeit&#x201D; corrected to
+  &#x201C;Staatsangehörigkeit&#x201D;, thanks to Roey Horns. Added two
+  missing commas and removed an extra comma, thanks to Otto
+  Stolz.</history-entry>
+
+  <history-entry date='July 10, 2007'>&#x201C;einschließlich&#x201D;
+  requires the genitive. Thanks to Asmus Freytag.</history-entry>
+
+  <history-entry date='July 8, 2007'>Stage 4: initial version in
+  provided by Otto Stolz.</history-entry>
+
+
+</history>
+
+</article>
+  

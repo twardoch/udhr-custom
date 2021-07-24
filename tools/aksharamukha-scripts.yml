@@ -1,0 +1,296 @@
+Ahom:
+  script: Ahom
+Ariyaka:
+  script: Zzzz
+Assamese:
+  lang: as
+  sanskrit: true
+  script: Beng
+Avestan:
+  script: Avst
+Balinese:
+  sanskrit: true
+  script: Bali
+BatakKaro:
+  lang: btx
+  script: Batk
+BatakManda:
+  lang: btm
+  script: Batk
+BatakPakpak:
+  lang: btd
+  script: Batk
+BatakSima:
+  lang: bts
+  script: Batk
+BatakToba:
+  lang: bbc
+  script: Batk
+Bengali:
+  sanskrit: true
+  script: Beng
+  skip: true
+Bhaiksuki:
+  sanskrit: true
+  script: Bhks
+Brahmi:
+  parent: Gran
+  sanskrit: true
+  script: Brah
+Buginese:
+  script: Bugi
+Buhid:
+  script: Buhd
+Burmese:
+  sanskrit: true
+  script: Mymr
+  skip: true
+Chakma:
+  script: Cakm
+  skip: true
+Cham:
+  parent: Gran
+  script: Cham
+Devanagari:
+  sanskrit: true
+  script: Deva
+  skip: true
+Dogra:
+  sanskrit: true
+  script: Dogr
+Grantha:
+  sanskrit: true
+  script: Gran
+  skip: true
+GranthaPandya:
+  script: Mlym
+  skip: true
+Gujarati:
+  sanskrit: true
+  script: Gujr
+  skip: true
+GunjalaGondi:
+  script: Gong
+Gurmukhi:
+  script: Guru
+  skip: true
+HanifiRohingya:
+  script: Rohg
+  skip: true
+Hanunoo:
+  script: Hano
+Hebrew:
+  script: Hebr
+  skip: true
+Hiragana:
+  script: Hira
+Javanese:
+  sanskrit: true
+  script: Java
+  skip: true
+Kaithi:
+  script: Kthi
+Kannada:
+  sanskrit: true
+  script: Knda
+  skip: true
+Katakana:
+  script: Kana
+KhamtiShan:
+  lang: kht
+  script: Mymr
+  skip: true
+Kharoshthi:
+  sanskrit: true
+  script: Khar
+Khmer:
+  parent: Gran
+  sanskrit: true
+  script: Khmr
+  skip: true
+Khojki:
+  script: Khoj
+KhomThai:
+  sanskrit: true
+  script: Thai
+  variant: true
+Khudawadi:
+  script: Sind
+KhuenTham:
+  lang: kkh
+  sanskrit: true
+  script: Lana
+  skip: true
+Lao:
+  script: Laoo
+  skip: true
+LaoPali:
+  lang: san
+  sanskrit: true
+  script: Laoo
+  skip: true
+LaoTham:
+  lang: lo
+  sanskrit: true
+  script: Lana
+  skip: true
+Lepcha:
+  script: Lepc
+Limbu:
+  script: Limb
+  nativize: false
+  skip: true
+LueTham:
+  lang: khb
+  sanskrit: true
+  script: Lana
+  skip: true
+Mahajani:
+  script: Mahj
+Malayalam:
+  sanskrit: true
+  script: Mlym
+  skip: true
+Marchen:
+  post_options:
+    - MarchenSanskritPalatals
+  script: Marc
+MasaramGondi:
+  sanskrit: true
+  script: Gonm
+MeeteiMayek:
+  sanskrit: true
+  nativize: false
+  script: Mtei
+Modi:
+  sanskrit: true
+  script: Modi
+Mon:
+  lang: mnw
+  sanskrit: true
+  script: Mymr
+  skip: true
+Mongolian:
+  sanskrit: true
+  script: Mong
+  skip: true
+Mro:
+  script: Mroo
+Multani:
+  script: Mult
+Newa:
+  sanskrit: true
+  script: Newa
+OldPersian:
+  script: Xpeo
+Oriya:
+  sanskrit: true
+  script: Orya
+  skip: true
+PhagsPa:
+  sanskrit: true
+  script: Phag
+Ranjana:
+  script: Ranj
+Rejang:
+  script: Rjng
+Santali:
+  script: Olck
+Saurashtra:
+  sanskrit: true
+  script: Saur
+Shan:
+  lang: shn
+  script: Mymr
+  skip: true
+Sharada:
+  sanskrit: true
+  script: Shrd
+Siddham:
+  sanskrit: true
+  script: Sidd
+Sinhala:
+  post_options:
+    - SinhalaPali
+  sanskrit: true
+  script: Sinh
+  skip: true
+SoraSompeng:
+  script: Sora
+Soyombo:
+  post_options:
+    - SoyomboSanskritPalatals
+  sanskrit: true
+  script: Soyo
+Sundanese:
+  script: Sund
+SylotiNagri:
+  script: Sylo
+Tagalog:
+  script: Tglg
+  skip: true
+Tagbanwa:
+  script: Tagb
+TaiLaing:
+  lang: tjl
+  script: Mymr
+  skip: true
+TaiTham:
+  sanskrit: true
+  script: Lana
+  skip: true
+Takri:
+  script: Takr
+Tamil:
+  parent: Gran
+  post_options:
+    - ContextualLLa
+  sanskrit: true
+  script: Taml
+  skip: true
+TamilBrahmi:
+  lang: oty
+  parent: Gran
+  script: Brah
+TamilExtended:
+  script: Taml
+  skip: true
+TamilGrantha:
+  lang: oty
+  script: Gran
+  skip: true
+Telugu:
+  sanskrit: true
+  script: Telu
+  skip: true
+Thaana:
+  script: Thaa
+  skip: true
+Thai:
+  sanskrit: true
+  script: Thai
+  skip: true
+Tibetan:
+  post_options:
+    - TibetanSanskritPalatals
+  sanskrit: true
+  script: Tibt
+  skip: true
+Tirhuta:
+  sanskrit: true
+  script: Tirh
+Urdu:
+  sanskrit: true
+  script: Arab
+Vatteluttu:
+  script: Taml
+  skip: true
+Wancho:
+  script: Wcho
+WarangCiti:
+  script: Wara
+ZanabazarSquare:
+  post_options:
+    - ZanabazarSanskritPalatals
+  sanskrit: true
+  script: Zanb

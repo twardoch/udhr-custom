@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for Venda [ven]</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problem at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+  <history-entry date='March 2, 20202'>This translation is no longer available on the OHCHR site. It has been replaced and the new translation is available as [ven2].</history-entry>
+
+  <history-entry date='August 17, 2009'>stage 4: XML version contributed
+  by Emmanuel Vallois.</history-entry>
+
+  <history-entry date='January 25, 2009'>stage 4: OHCHR identified as
+  the source.</history-entry>
+</history>
+
+</article>

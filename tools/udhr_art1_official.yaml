@@ -1,0 +1,4411 @@
+? Tudu nguê di mundu ca nancê livli e igual ni dignidade e ni dirêtu. Punda nen ca pensá e nen tê cunxensa, selá nen fé tudu cuá cu tençón de lumón.
+:   lang: cri
+    lang_639_3: cri
+    lang_full: cri-Latn-US
+    lang_bcp_udhr: cri
+    name_udhr: Sãotomense
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '007'
+? Tudu pecadur padidu livre, ninguin ca más ninguin, tudu djusta, tudu tem mesmu diritu. Tudu quin qui padidu, tem si roçon, cu si manera di pensa. Na metadi di utrus I díbidi fassi
+    cussas cu ermondadi.
+:   lang: pov
+    lang_639_3: pov
+    lang_full: pov-Latn-US
+    lang_bcp_udhr: pov
+    name_udhr: Crioulo, Upper Guinea (008)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: 008
+? Mutu uoso uoso a mu vuala ni ufolo ni kutena kumoxi mu kijingu ni mu ubinganu. Mu kilembu kia kubanga ni mu ubanzelu, Atena uê kubanga ioso kua akua mu muxima ua tululuka mba upange.
+:   lang: kmb
+    lang_639_3: kmb
+    lang_full: kmb-Latn-AO
+    lang_bcp_udhr: kmb
+    name_udhr: Mbundu (009)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: 009
+? Ema tomak moris hanesan, ema tomak hanesan, iha direitu hanesan. Ema tomak iha otak ho neon, hotu-hotu sei buka moris hanesan maun ho alin.
+:   lang: tdt
+    lang_639_3: tdt
+    lang_full: tdt-Latn-US
+    lang_bcp_udhr: tdt
+    name_udhr: Tetun Dili
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '010'
+? Omanu vosi kilu lieve va citiwa lonjila yimosi leyovo limosi, lomoko yimosi kuenda unu umosi, kuenje momo vosi va kuete olondunge, va sesamela okulisumbila pokati ndavamanji.
+:   lang: umb
+    lang_639_3: umb
+    lang_full: umb-Latn-AO
+    lang_bcp_udhr: umb
+    name_udhr: Umbundu (011)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '011'
+? Novdiex nongv liex hufniv dav zer nier, zunxyanr niex qianrlir garhaf hufniv dav zer nier. Gixzex livxinf niex lianrxinx xief, xiongxdif guanxxif nier jinxsenr gof dav duifdaif dor.
+:   lang: und
+    lang_639_3: und
+    lang_full: und-Latn-US
+    lang_bcp_udhr: und
+    name_udhr: (Bizisa)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '025'
+? Novzeu nongv lie kylix dav zeu xi, zunyan nie qianlif gahaf kylix dav zeu xi. Gyxzeu livxinf nie lixtolo ca xie, xiongdif guanxif ai jinsen go duifdaif do.
+:   lang: und
+    lang_639_3: und
+    lang_full: und-Latn-US
+    lang_bcp_udhr: und
+    name_udhr: (Mijisa)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '013'
+? Renr rangf lyeuf xif zifyaot, yur zunxyant ndams chwentlif xif pingtdengl. Ter mev lilsingf ndams lyangtsinx, zingxsent gwanxsif vaif nungf.
+:   lang: und
+    lang_639_3: und
+    lang_full: und-Latn-US
+    lang_bcp_udhr: und
+    name_udhr: (Maiunan)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '014'
+? Renren sen xialai de si ziyou li, zai zunlian ho quanli sang yelue pinden. Tamen fuyou lixin ho liangxin, hai yingai na xiongdi guanxi li jinsen fuxiang duidai.
+:   lang: und
+    lang_639_3: und
+    lang_full: und-Latn-US
+    lang_bcp_udhr: und
+    name_udhr: (Minjiang, spoken)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '016'
+? Renren sen er ziyou, zai zunlian ho quanli sang yelue pinden. Tamen fuyou lixin ho liangxin, bin yin yi xiongdi guanxi li jinsen xiang duidai.
+:   lang: und
+    lang_639_3: und
+    lang_full: und-Latn-US
+    lang_bcp_udhr: und
+    name_udhr: (Minjiang, written)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '017'
+Avzangf max pyvccuf byv syvnax zyxyyv ef, lifxingx ningx lyangvxinx alf, taixrav angvnikxrav gwanxxix mix syv av duixdaix.:
+    lang: duu
+    lang_639_3: duu
+    lang_full: duu-Latn-US
+    lang_bcp_udhr: duu
+    name_udhr: Drung
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '020'
+? Nia ngir ngir ym mexker bbumlix zifyiyr, zunyanr gix jjuanlif alyf bbumlix zzifsof wur. Garxier lixxinf gix xierfux cor yif, xiongxdif guanxif wur jinsenr la lo rim hix.
+:   lang: und
+    lang_639_3: und
+    lang_full: und-Latn-US
+    lang_bcp_udhr: und
+    name_udhr: (Muzzi)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '021'
+? Chix zox key zifyour, an hu tsunxyanr thungs chianrlif nu phinrten. Tsoxnur nes lishinf thungs leyx o, laiv kuanxshif to tseyr ti cinxsenr shiangxtaif.
+:   lang: und
+    lang_639_3: und
+    lang_full: und-Latn-US
+    lang_bcp_udhr: und
+    name_udhr: (Klau)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: '022'
+是人都生而自由，在尊严和权利上一律平等。他们赋有理性和良心，并应以弟兄关系的精神相对待。:
+    lang: und
+    lang_639_3: und
+    lang_full: und-Hans-CN
+    lang_bcp_udhr: und
+    name_udhr: (Jinan)
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: '023'
+사람들이 이 세계로 오다가 모두 자유하고, 존엄과 권리이 평동으로 있는다, 그들 리성과 양심이 있눈고, 형제의 정신으로 상호로 치료하 소.:
+    lang: und
+    lang_639_3: und
+    lang_full: und-Kore-KR
+    lang_bcp_udhr: und
+    name_udhr: (Yeonbyeon)
+    script: Kore
+    source: https://unicode.org/udhr/
+    udhr_key: '026'
+? Karaamat kee garwa wagittaamal seehada inkih gide akkuk, currik taabuke. Usun kas kee cissi loonuuh, keenik mariiy mara lih toobokinni kasat gexsitam faxximta.
+:   lang: aa
+    lang_639_3: aar
+    lang_full: aa-Latn-ET
+    lang_bcp_udhr: aa
+    name_udhr: Afar
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: aar
+? Дарбанзаалак ауаҩы дшоуп ихы дақәиҭны. Ауаа зегь зинлеи патулеи еиҟароуп. Урҭ ирымоуп ахшыҩи аламыси, дара дарагь аешьеи аешьеи реиҧш еизыҟазароуп.
+:   lang: ab
+    lang_639_3: abk
+    lang_full: ab-Cyrl-GE
+    lang_bcp_udhr: ab
+    name_udhr: Abkhaz
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: abk
+? Bandum manusia lahee bebah merdeka deungon hak ngon martabat nyang sama. Ngon akai taseumikee, ngon atee tameurasa bandum geutanyoe lagee syedara.
+:   lang: ace
+    lang_639_3: ace
+    lang_full: ace-Latn-ID
+    lang_bcp_udhr: ace
+    name_udhr: Aceh
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ace
+? Aints ainauti mash metek nuwanmaya akiinawaitji. Turasha angkan pengker pujusmi tusar akiinawaitji. Aintstikia mash ji nintijai paan nintimratnuitji, turasha pengker aa nu nekaatnuitji.
+    Turasha pase aa nusha nekaatnuitji. Turasha ji pataachiri ainaujai pengker nintimtunisar pujaj ina nunisrik chikich ainauj aisha pengker nintimtunisar pujustinuitji.
+:   lang: acu
+    lang_639_3: acu
+    lang_full: acu-Latn-US
+    lang_bcp_udhr: acu
+    name_udhr: Achuar-Shiwiar
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: acu
+? |-
+    Penker inintimsamka mash aintsti ankan, metekrin nuya nii penkerin takakui nii
+    akiniamunmaya tu ausamti arantukmau atinuitji mai metekrak.
+:   lang: acu
+    lang_639_3: acu
+    lang_full: acu-Latn-US
+    lang_bcp_udhr: acu
+    name_udhr: Achuar-Shiwiar (1)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: acu_1
+? Adesahi tsuo ɔ, a bɔ mɛ nɛ nɔ fɛɛ nɔ e ye e he, nɛ nɔ tsuaa nɔsɔ ngɛ odehe si himi kɛ he blɔhi a blɔ fa mi. A bɔ mɛ kɛ nɔ́ se kɔmi kɛ he nule juɛmi, nɛ e hia kaa nɔ fɛɛ nɔ nɛ e na
+    nyɛmi suɔmi kɛ ha nɔ tsuaa nɔ.
+:   lang: ada
+    lang_639_3: ada
+    lang_full: ada-Latn-GH
+    lang_bcp_udhr: ada
+    name_udhr: Dangme
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ada
+? ЦIыф пстэури шъхьэфитэу, ялъытэныгъэрэ яфэшъуашэхэмрэкIэ зэфэдэу къалъфы. Акъылрэ зэхэшIыкI гъуазэрэ яIэшъы, зыр зым зэкъош зэхашІэ азфагу дэлъэу зэфыщытынхэ фае.
+:   lang: ady
+    lang_639_3: ady
+    lang_full: ady-Cyrl-RU
+    lang_bcp_udhr: ady
+    name_udhr: Adyghe
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: ady
+? Alle menslike wesens word vry, met gelyke waardigheid en regte, gebore. Hulle het rede en gewete en behoort in die gees van broederskap teenoor mekaar op te tree.
+:   lang: af
+    lang_639_3: afr
+    lang_full: af-Latn-ZA
+    lang_bcp_udhr: af
+    name_udhr: Afrikaans
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: afr
+? Ashi aents aidauk agkan akinui, betek eme anentsa aentsmasa diyam atanmash, tuja aents anentaibau, aents dutikatasa wakej amu yupichu dutimainnum, tuja ni wakejamun takakush tikish
+    bakushminnum, nuniak tikish aidaujaish shiig yatsuta anmamut ati tusa.
+:   lang: agr
+    lang_639_3: agr
+    lang_full: agr-Latn-US
+    lang_bcp_udhr: agr
+    name_udhr: Aguaruna
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: agr
+ܟܠ ܒܪܢܫܐ ܒܪܝܠܗ ܚܐܪܐ ܘܒܪܒܪ ܓܘ ܐܝܩܪܐ ܘܙܕܩܐ. ܘܦܝܫܝܠܗ ܝܗܒܐ ܗܘܢܐ ܘܐܢܝܬ. ܒܘܕ ܕܐܗܐ ܓܫܩܬܝ ܥܠ ܐܚܪܢܐ ܓܪܓ ܗܘܝܐ ܒܚܕ ܪܘܚܐ ܕܐܚܢܘܬܐ.:
+    lang: aii
+    lang_639_3: aii
+    lang_full: aii-Syrc-IQ
+    lang_bcp_udhr: aii
+    name_udhr: Assyrian Neo-Aramaic
+    script: Syrc
+    source: https://unicode.org/udhr/
+    udhr_key: aii
+? Agbetɔwo pleŋu vanɔ gbɛmɛ ko vovoɖeka gbeswɛgbeswɛ, sɔto amɛnyinyi ko acɛwo gomɛ; wo xɔnɔ susunywin ko jimɛnywi so esexwe. Wo ɖo a wɛ nɔvi ɖaɖa wowo nɔnɔwo gbɔ.
+:   lang: ajg
+    lang_639_3: ajg
+    lang_full: ajg-Latn-ZZ
+    lang_bcp_udhr: ajg
+    name_udhr: Aja
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ajg
+? Wɔawo adesamma nyinaa sɛ nnipa a wɔwɔ ahofadi. Wɔn nyinaa wɔ nidi ne kyɛfa koro. Wɔwɔ adwene ne ahonim, na ɛsɛ sɛ wobu wɔn ho wɔn ho sɛ anuanom.
+:   lang: ak
+    lang_639_3: twi
+    lang_full: ak-Latn-GH
+    lang_bcp_udhr: ak-akuapem
+    name_udhr: Twi (Akuapem)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: aka_akuapem
+? Nnipa nyinaa yɛ pɛ. Na wɔde adwene ne nyansa na abɔ obiara. Ɛno nti, ɛsɛ sɛ obiara dɔ ne yɔnko, bu ne yɔnko, di ne yɔnko ni.
+:   lang: ak
+    lang_639_3: twi
+    lang_full: ak-Latn-GH
+    lang_bcp_udhr: ak-asante
+    name_udhr: Twi (Asante)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: aka_asante
+? Wɔwo adasa nyina to fahodzi mu, na hɔn nyina yɛ pɛr wɔ enyimnyam na ndzinoa mu. Wɔmaa hɔn nyina adwen na tsibowa, na ɔwɔ dɛ hɔn nkitahodzi mu ndzeyɛɛ da no edzi dɛ wɔyɛ enuanom.
+:   lang: ak
+    lang_639_3: fat
+    lang_full: ak-Latn-GH
+    lang_bcp_udhr: ak
+    name_udhr: Fante
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: aka_fante
+? Të gjithë njerëzit lindin të lirë dhe të barabartë në dinjitet dhe në të drejta. Ata kanë arsye dhe ndërgjegje dhe duhet të sillen ndaj njëri tjetrit me frymë vëllazërimi.
+:   lang: als
+    lang_639_3: als
+    lang_full: sq-Latn-AL
+    lang_bcp_udhr: als
+    name_udhr: Albanian, Tosk
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: als
+? Ончо улус ак‐јарыкка јайым ла теҥ‐тай тап‐эриктӱ туулат. Олор санааукаалу ла чек кӱӱн‐тапту болуп бӱткен ле бой‐бойын карындаш кирези кӧрӧр лӧ јӱрер учурлу.
+:   lang: alt
+    lang_639_3: alt
+    lang_full: alt-Cyrl-RU
+    lang_bcp_udhr: alt
+    name_udhr: Altai, Southern
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: alt
+? Tzovan jato jumahaito hinaayamanonmun vacunoxcanquihnucanpu. Tzovan jato zinaayamanonmun vacunoxcanquihnucanpu. Jonitzan derechocavizyahtoxrivimun vacunoxcanquihqui. Quiyoovinin shinanquin
+    hiromaquin jaucuzahavorahquiqui shinantimunhcanquihqui. Vacurazixquicavizhi quiyoovinixjatimunhcanquihnucanpu.
+:   lang: amc
+    lang_639_3: amc
+    lang_full: amc-Latn-US
+    lang_bcp_udhr: amc
+    name_udhr: Amahuaca
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: amc
+? Allohueney ñeñtey arromñatey att̃o ye'ñalletyesa arr patsro e'ñe att̃ecma cohuen yesherb̃a'yen. Ñam̃a yechyen allpon derechos att̃och e'ñech cohueno'tsa'yeney arr patsro. Ñam̃a allohuen
+    att̃ecma yechyen alloch yoct̃ape' chyen cohuen ñam̃a yeñotyen yeyoc̈hro ñeñt ̃e'ne pocte' enten acheñenesha' ñam̃a ñeñt ̃ama pocteye' enteneto. Yeñoteñ añ poctetsa e'ñe yemo'nasheñ
+    yep̃annena ama't ora allohuen allpon acheñenesha' ñeñt ̃añe patsro'tsa'yeney.
+:   lang: ame
+    lang_639_3: ame
+    lang_full: ame-Latn-US
+    lang_bcp_udhr: ame
+    name_udhr: Yaneshaʼ
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ame
+የሰው፡ልጅ፡ሁሉ፡ሲወለድ፡ነጻና፡በክብርና፡በመብትም፡እኩልነት፡ያለው፡ነው።፡የተፈጥሮ፡ማስተዋልና፡ሕሊና፡ስላለው፡አንዱ፡ሌላውን፡በወንድማማችነት፡መንፈስ፡መመልከት፡ይገባዋል።:
+    lang: am
+    lang_639_3: amh
+    lang_full: am-Ethi-ET
+    lang_bcp_udhr: am
+    name_udhr: Amharic
+    script: Ethi
+    source: https://unicode.org/udhr/
+    udhr_key: amh
+? Chiyu mahufuchay tu tamlaw, maemin pingdeng ichunyan a kngli. Iraay chaira lishing a naay a naay a harateng, pimaulahsha u harateng nu kaka shafa.
+:   lang: ami
+    lang_639_3: ami
+    lang_full: ami-Latn-US
+    lang_bcp_udhr: ami
+    name_udhr: Amis
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ami
+? Aya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik
+    o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.
+:   lang: amr
+    lang_639_3: amr
+    lang_full: amr-Latn-US
+    lang_bcp_udhr: amr
+    name_udhr: Amarakaeri
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: amr
+يولد جميع الناس أحرارًا متساوين في الكرامة والحقوق. وقد وهبوا عقلاً وضميرًا وعليهم أن يعامل بعضهم بعضًا بروح الإخاء.:
+    lang: ar
+    lang_639_3: arb
+    lang_full: arb-Arab-EG
+    lang_bcp_udhr: ar
+    name_udhr: Arabic, Standard
+    script: Arab
+    source: https://unicode.org/udhr/
+    udhr_key: arb
+? Pueyano pa quishacari, puetunu pajaniyajanaa mariyata miishiya maninia, maja sooshiya tamonu. Puetunu pueyajanaari niishitiajaraca, jiuujiaaracanio pueyacua pa taraajenura. Naarate
+    maninia pa jiyanootioore juhua pa tapueyocuaca.
+:   lang: arl
+    lang_639_3: arl
+    lang_full: arl-Latn-US
+    lang_bcp_udhr: arl
+    name_udhr: Arabela
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: arl
+? Kom pu mogence kisuzuam mvlekey, kom cegeygvn, logkogeygvn ka piwkegeygvn, nieygvn kimvn fey mew mvley tañi yamniewael ka epuñpvle kejuwael egvn.
+:   lang: arn
+    lang_639_3: arn
+    lang_full: arn-Latn-CL
+    lang_bcp_udhr: arn
+    name_udhr: Mapudungun
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: arn
+? Tolos seres humanos nacen llibres y iguales en dignidá y drechos y, pola mor de la razón y la conciencia de so, han comportase hermaniblemente los unos colos otros.
+:   lang: ast
+    lang_639_3: ast
+    lang_full: ast-Latn-ES
+    lang_bcp_udhr: ast
+    name_udhr: Asturian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ast
+? |-
+    Tomamo waomo ekame wee anamay inani tomemo kewengi beye tomamo
+    neemompa noynga impa aye anobay impa wadani inanite wakeki beye
+    angampa.
+:   lang: auc
+    lang_639_3: auc
+    lang_full: auc-Latn-US
+    lang_bcp_udhr: auc
+    name_udhr: Waorani
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: auc
+? Ta la proussouna neisson lieura moé parira pà dïnessà mai dret. Son charjada de razou moé de cousiensà mai lhu fau arjî entremeî lha bei n'eime de freiressà.
+:   lang: oc
+    lang_639_3: oci
+    lang_full: oc-Latn-FR
+    lang_bcp_udhr: oc
+    name_udhr: Occitan (Auvergnat)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: auv
+? Taqpach jaqejh khuskat uñjatatäpjhewa munañapansa, lurañapansa, amuyasiñapansa, ukatwa jilani sullkanípjhaspas ukham uñjasipjhañapawa.
+:   lang: ay
+    lang_639_3: ayr
+    lang_full: ay-Latn-BO
+    lang_bcp_udhr: ay
+    name_udhr: Aymara, Central
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ayr
+? Бүтүн инсанлар  ләјагәт вә һүгугларына ҝөрә азад вә бәрабәр доғулурлар. Онларын шүурлары вә виҹданлары вар вә бир-бирләринә мүнасибәтдә гардашлыг руһунда давранмалыдырлар.
+:   lang: az
+    lang_639_3: azj
+    lang_full: azj-Cyrl-AZ
+    lang_bcp_udhr: az-Cyrl
+    name_udhr: Azerbaijani, North (Cyrillic)
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: azj_cyrl
+? Bütün insanlar ləyaqət və hüquqlarına görə azad və bərabər doğulurlar. Onların şüurları və vicdanları var və bir-birlərinə münasibətdə qardaşlıq ruhunda davranmalıdırlar.
+:   lang: az
+    lang_639_3: azj
+    lang_full: az-Latn-AZ
+    lang_bcp_udhr: az-Latn
+    name_udhr: Azerbaijani, North (Latin)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: azj_latn
+? Hadamaden bɛɛ danmakɛɲɛnen bɛ bange, danbe ni josira la. Hakili ni taasi b’u bɛɛ la, wa u ka kan ka badenɲasira de waleya u ni ɲɔgɔn cɛ.
+:   lang: bm
+    lang_639_3: bam
+    lang_full: bm-Latn-ML
+    lang_bcp_udhr: bm
+    name_udhr: Bamanankan
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bam
+? Sami manusane sane nyruwadi wantah merdeka tur maduwe kautamaan lan hak-hak sane pateh. Sami kalugrain papineh lan idep tur mangdane pada masawitra melarapan semangat pakulawargaan.
+:   lang: ban
+    lang_639_3: ban
+    lang_full: ban-Latn-ID
+    lang_bcp_udhr: ban
+    name_udhr: Bali
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ban
+? Pe nâ mvé gú puen nyütu pô te mbe kú ghét ngam pua ngúenengúe mbe te wûme nsebe pua pa mféékêt. Pen â ntúm te mbe kú rem ngam pua fabshe ngam, a nshi njîr’ap ne yi
+    nshâne ngétne nga shap pô te wupme pontâ.
+:   lang: bax
+    lang_639_3: bax
+    lang_full: bax-Latn-CM
+    lang_bcp_udhr: bax
+    name_udhr: Bamun
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bax
+? Ba tɔmbu kpuro marawa ba tii mɔ, ba nɛ, girima ka saria sɔɔ. Ba ra bwisiku, ba dasabu mɔ, ma n weene ba n waasinɛ mɛrobisiru sɔɔ.
+:   lang: bba
+    lang_639_3: bba
+    lang_full: bba-Latn-ZZ
+    lang_bcp_udhr: bba
+    name_udhr: Baatonum
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bba
+? Sran mun be ngba, kɛ be wu be ɔ, be ngba be sɛ, fɔndi nun, sran-mmala nun. Be si akundanbu, be si su ɔ fata kɛ sran mun be tran'n, be tran aniaan nun tranlɛ.
+:   lang: bci
+    lang_639_3: bci
+    lang_full: bci-Latn-CI
+    lang_bcp_udhr: bci
+    name_udhr: Baoulé
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bci
+? An gabos na tawo ipinangaking may katalinkasan asin parantay sa dignidad asin derechos. Sinda gabos tinawan nin pag-isip asin conciencia kaya dapat na makipag-iriba sa lambang saro
+    bilang mga magturugang.
+:   lang: bik
+    lang_639_3: bcl
+    lang_full: bik-Latn-PH
+    lang_bcp_udhr: bik
+    name_udhr: Bicolano, Central
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bcl
+? Усе людзі нараджаюцца свабоднымі і роўнымі ў сваёй годнасці і правах. Яны надзелены розумам і сумленнем і павінны ставіцца адзін да аднаго ў духу брацтва.
+:   lang: be
+    lang_639_3: bel
+    lang_full: be-Cyrl-BY
+    lang_bcp_udhr: be
+    name_udhr: Belarusan
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: bel
+? Abantu bonse bafyalwa abalubuka nokulingana mu mucinshi nensambu. Balikwata amano nokutontonkanya, eico bafwile ukulacita ifintu ku banabo mu mutima wa bwananyina.
+:   lang: bem
+    lang_639_3: bem
+    lang_full: bem-Latn-ZM
+    lang_bcp_udhr: bem
+    name_udhr: Bemba
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bem
+? সমস্ত মানুষ স্বাধীনভাবে সমান মর্যাদা এবং অধিকার নিয়ে জন্মগ্রহণ করে। তাঁদের বিবেক এবং বুদ্ধি আছে; সুতরাং সকলেরই একে অপরের প্রতি ভ্রাতৃত্বসুলভ মনোভাব নিয়ে আচরণ করা উচিত।
+:   lang: bn
+    lang_639_3: ben
+    lang_full: bn-Beng-BD
+    lang_bcp_udhr: bn
+    name_udhr: Bengali
+    script: Beng
+    source: https://unicode.org/udhr/
+    udhr_key: ben
+? Ŋutu liŋ a yuŋwe kana, jojo i toďiri ko ďekesi ko ti se tokitaki ko ‘börik ko mulökötyo lo toluŋaseran. Se a ďoka ko denet na kulya na’but ko narok.
+:   lang: bfa
+    lang_639_3: bfa
+    lang_full: bfa-Latn-US
+    lang_bcp_udhr: bfa
+    name_udhr: Bari
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bfa
+? सबहि लोकानि आजादे जम्मेला आओर ओखिनियो के बराबर सम्मान आओर अधिकार प्राप्त हवे। ओखिनियो के पास समझ-बूझ आओर अंत:करण के आवाज होखता आओर हुनको के दोसरा के साथ भाईचारा के बेवहार करे के होखला।
+:   lang: bho
+    lang_639_3: bho
+    lang_full: bho-Deva-IN
+    lang_bcp_udhr: bho
+    name_udhr: Bhojpuri
+    script: Deva
+    source: https://unicode.org/udhr/
+    udhr_key: bho
+? Emwan ne agbon hia ne a biere, a bie iran noyan-egbe iran kevbe wee, umwon-mwen o ree etin hia ne o kheke iran khin. A ye ewaen kevbe ekhoe ne o maa wu iran, ne iran gha yin da egbe
+    vbe orhion oghe eten-okpa.
+:   lang: bin
+    lang_639_3: bin
+    lang_full: bin-Latn-NG
+    lang_bcp_udhr: bin
+    name_udhr: Edo
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bin
+? Evri man mo woman i bon fri mo ikwol long respek mo ol raet. Oli gat risen mo tingting mo oli mas tritim wanwan long olgeta olsem ol brata mo sista.
+:   lang: bi
+    lang_639_3: bis
+    lang_full: bi-Latn-VU
+    lang_bcp_udhr: bi
+    name_udhr: Bislama
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bis
+? ꪹꪕꪸꪉ ꪀꪱ ꪋꪴ ꫛ ꪎꪲꪉ ꪮꪮꪀ ꪣꪱ ꪻꪠ ꪁꪷ ꪻꪬ ꪼꪒ ꪕꪳ ꪕꪱꪉ ꪀꪾꪚ ꪹꪋꪷꪉ ꪝꪸꪉ ꪕꪮꪥ ꪩꪾ ꫛ ꪶꪔꪙ ꪠꪴ - ꪋꪴ ꪬꪺ ꫛ ꪻꪠ ꪁꪷ ꪻꪬ ꪣꪲ ꪁꪫꪸꪙ ꪎꪱꪉ ꪶꪎꪣ ꪩꪺꪉ ꪹꪥꪸꪒ ꫛ ꪀꪾꪚ ꪹꪥꪸꪒ ꪻꪊ ꪚꪴꪙ ꪀꪾꪚ ꪼꪒ ꪹꪚꪷꪉ ꪒꪲ ꪀꪾꪚ ꪫꪸꪀ ꪭꪰꪀ ꪵꪝꪉ ꪹꪏꪉ ꪹꪭꪙ ꪒꪸꪫ.
+:   lang: blt
+    lang_639_3: blt
+    lang_full: blt-Tavt-VN
+    lang_bcp_udhr: blt
+    name_udhr: Tai Dam
+    script: Tavt
+    source: https://unicode.org/udhr/
+    udhr_key: blt
+? Cuat lenx cuat dol bongb deul ndax dex douf muax zif youx, nyaob shout zunb yinx tab ndas dos id, dax zis ib suk. Nil buab daf lol jaox muax lid xinf hlub hout tab liangx xinb shab
+    nzhuk, yinf gaib keuk suk gud dix mol lol nit jinb shenx lol shib daf shib hlad.
+:   lang: hnj
+    lang_639_3: hnj
+    lang_full: hnj-Latn-LA
+    lang_bcp_udhr: hnj
+    name_udhr: Hmong Njua
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: blu
+? Pámeere ííñújɨri meíjcyame tsá múhójɨ́sɨ́ pañé ɨ́cubáhrádú meíjcyáítyuróne. Pámeere tsahdúré imí meíjcyame mewájyújcatsíñe mépɨ́áábójcatsíiyá tsaatéké éhdɨ́Ȉ́válletúmé éhne múu mépañétúéné
+    nahbémuma meíjcyadu.
+:   lang: boa
+    lang_639_3: boa
+    lang_full: boa-Latn-US
+    lang_bcp_udhr: boa
+    name_udhr: Bora
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: boa
+? འགྲོ་བ་མིའི་རིགས་རྒྱུད་ཡོངས་ལ་སྐྱེས་ཙམ་ཉིད་ནས་ཆེ་མཐོངས་དང༌། ཐོབ་ཐངགི་རང་དབང་འདྲ་མཉམ་དུ་ཡོད་ལ། ཁོང་ཚོར་རང་བྱུང་གི་བློ་རྩལ་དང་བསམ་ཚུལ་བཟང་པོ་འདོན་པའི་འོས་བབས་ཀྱང་ཡོད། དེ་བཞིན་ཕན་ཚུན་གཅིག་གིས་གཅིག་ལ་བུ་སྤུན་གྱི་འདུ་ཤེས་འཛིན་པའི་བྱ་སྤྱོད་ཀྱང་ལག་ལེན་བསྟར་དགོས་པ་ཡིན༎
+:   lang: bo
+    lang_639_3: bod
+    lang_full: bo-Tibt-CN
+    lang_bcp_udhr: bo
+    name_udhr: Tibetan, Central
+    script: Tibt
+    source: https://unicode.org/udhr/
+    udhr_key: bod
+? Сва људска биђа рађају се слободна и једнака у достојанству и правима. Она су обдарена разумом и свијешђу и треба да једно према другоме поступају у духу братства.
+:   lang: bs
+    lang_639_3: bos
+    lang_full: bs-Cyrl-BA
+    lang_bcp_udhr: bs-Cyrl
+    name_udhr: Bosnian (Cyrillic)
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: bos_cyrl
+? Sva ljudska bića rađaju se slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena razumom i sviješću i treba da jedno prema drugome postupaju u duhu bratstva.
+:   lang: hr
+    lang_639_3: hrv
+    lang_full: hr-Latn-HR
+    lang_bcp_udhr: hr
+    name_udhr: Croatian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hrv
+? Dieub ha par en o dellezegezh hag o gwirioù eo ganet an holl dud. Poell ha skiant zo dezho ha dleout a reont bevañ an eil gant egile en ur spered a genvreudeuriezh.
+:   lang: br
+    lang_639_3: bre
+    lang_full: br-Latn-FR
+    lang_bcp_udhr: br
+    name_udhr: Breton
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bre
+? Abiali bod bese, tege ai sesala, bene etie dzia a mis memvende y'enyiñ, dzom dzia etu fili nkóbó, fili ntsogan, fili mboan. Ve abiali te, mod ose ayem dze ene abe, dze ene mbeñ asu
+    e mod mbog antoa ai mfi na enyiñ ewulu mezen mene sosoo.
+:   lang: bum
+    lang_639_3: bum
+    lang_full: bum-Latn-CM
+    lang_bcp_udhr: bum
+    name_udhr: Bulu
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: btb
+? Ɓinadamu djabi nitirahinyi an-nafasi, reu bokeu miraŋa amin’ni usheu ndreka haki. Reu teraka ndreka ãkili ndreka hikima, amin’ni zenyi, reu nikulazimu nisi tweraŋa nin-fihavaŋa reu
+    sambi reu.
+:   lang: buc
+    lang_639_3: buc
+    lang_full: buc-Latn-YT
+    lang_bcp_udhr: buc
+    name_udhr: Bushi
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: buc
+? Sininna rupa tau ri jajiangngi rilinoe nappunnai manengngi riasengnge alebbireng . Nappunai riasengnge akkaleng, nappunai riasengnge ati marennni na sibole bolena pada sipakatau pada
+    massalasureng.
+:   lang: bug
+    lang_639_3: bug
+    lang_full: bug-Latn-ID
+    lang_bcp_udhr: bug
+    name_udhr: Bugis
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: bug
+? Всички хора се раждат свободни и равни по достойнство и права. Те са надарени с разум и съвест и следва да се отнасят помежду си в дух на братство.
+:   lang: bg
+    lang_639_3: bul
+    lang_full: bg-Cyrl-BG
+    lang_bcp_udhr: bg
+    name_udhr: Bulgarian
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: bul
+? Sun gürigia nasíruati yuti lun, lidan úarani, lawiwanduní libágari kai le aubai labúsienra, gatu giñe lanagun lungua buidu hadan líbegu.
+:   lang: cab
+    lang_639_3: cab
+    lang_full: cab-Latn-US
+    lang_bcp_udhr: cab
+    name_udhr: Garifuna
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cab
+? Konojel ri winaqi' kan kalaxib'en pe ri kolotajïk, ri junan kiq'ij, ri junan kejqalen, junan kich'ojib'al pa kik'aslen, xa achi'el k'a ri kik'ojlen, ri kinojib'al kichajin xa tik'amun
+    k'a chi nimaläj konojel xtikajo' ki'.
+:   lang: cak
+    lang_639_3: cak
+    lang_full: cak-Latn-US
+    lang_bcp_udhr: cak
+    name_udhr: Kaqchikel, Central
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cak
+? Tots els éssers humans neixen lliures i iguals en dignitat i en drets. Són dotats de raó i de consciència, i han de comportar-se fraternalment els uns amb els altres.
+:   lang: ca
+    lang_639_3: cat
+    lang_full: ca-Latn-ES
+    lang_bcp_udhr: ca
+    name_udhr: Catalan-Valencian-Balear
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cat
+? Naaju chachilla bain mu' chachilla bain na kayatu tichiba bulla jutyu naakendya'ba kenu deechu taa na kayamu deju, tsenminya,naaju juñu bain ne tsaave ti', uukavinu jutyu naa, tideechu
+    juuchi bain, mubain mubain tsaren dejuve, tsenmin shilli pensangenu pude deju'. mitya, tsenr)1in ura' kendu bain ura' kendyu' bain mide' mitya muba mu bain veta' veta' ura' keewaawaa
+    kenuu dejuve.
+:   lang: cbi
+    lang_639_3: cbi
+    lang_full: cbi-Latn-US
+    lang_bcp_udhr: cbi
+    name_udhr: Chachi
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cbi
+? Ui uni cara 'iti icë axbi ca bëtsi unibë gobiernonën iscëx sënën ití icën. Ui cara ain tita ain papa 'iaxa quixun sinanquinma ca gobiernonën sinancëx ax bëtsibë sënën 'icën. Camaxunbi
+    ca sinanti 'unanin. Camaxunbi ca añu ñu ati cara asábi 'icën, añu ñu 'ati cara 'aisama 'icë quixun 'unanti 'icën. Usa 'ain ca camaxbi ain xucënbë 'icësaribiti nuiananti 'icën.
+:   lang: cbr
+    lang_639_3: cbr
+    lang_full: cbr-Latn-US
+    lang_bcp_udhr: cbr
+    name_udhr: Cashibo-Cacataibo
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cbr
+Yudabu dasibi jabiaskadi akin, xinantidubuki. Javen taea jau jaibunamenunbunven.:
+    lang: cbs
+    lang_639_3: cbs
+    lang_full: cbs-Latn-US
+    lang_bcp_udhr: cbs
+    name_udhr: Cashinahua
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cbs
+? Ya'ipi piyapinpoa' capini noya ninosorocaso' ya'huërin. Ya'ipinpoa' yonquirëhua'. Noya nicacaso' nitotërëhua'. Napoaton iyanpoa pochin ninosorocaso' ya 'huërin.
+:   lang: cbt
+    lang_639_3: cbt
+    lang_full: cbt-Latn-US
+    lang_bcp_udhr: cbt
+    name_udhr: Chayahuita
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cbt
+? Iy tpotsini ichigoroni kis tamam zadkini, vatam tpotsiniva. Vatam ichigoroni magini tarova; ashiriya chinakaniya. Ashirocha, zovalliatsich tamaparia-ashiros sanpata chinagtsa atiniya.
+:   lang: cbu
+    lang_639_3: cbu
+    lang_full: cbu-Latn-US
+    lang_bcp_udhr: cbu
+    name_udhr: Candoshi-Shapra
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cbu
+? ' 𑄝𑄬𑄇𑄴 𑄟𑄚𑄪𑄌𑄴 𑄚𑄨𑄢𑄨𑄞𑄨𑄣𑄨 𑄥𑄧𑄁 𑄃𑄨𑄌𑄴𑄎𑄮𑄖𑄴 𑄃𑄳𑄃 𑄃𑄇𑄴𑄇𑄥𑄁 𑄚𑄨𑄚𑄬𑄭 𑄎𑄧𑄚𑄴𑄟𑄚𑄴𑅁 𑄖𑄢𑄢𑄴 𑄃𑄬𑄘 𑄃𑄳𑄃 𑄝𑄪𑄖𑄴𑄙𑄨 𑄃𑄊𑄬; 𑄥𑄬𑄚𑄧𑄖𑄳𑄠𑄴 𑄝𑄬𑄇𑄴𑄅𑄚𑄧𑄢𑄴 𑄃𑄬𑄇𑄴𑄎𑄧𑄚𑄴 𑄃𑄢𑄬𑄇𑄴 𑄎𑄧𑄚𑄧𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄉𑄧𑄟𑄴 𑄘𑄮𑄣𑄴 𑄌𑄨𑄘𑄳𑄠𑄬 𑄚𑄨𑄚𑄬𑄭 𑄌𑄧𑄣𑄚 𑄅𑄪𑄌𑄨𑄖𑄴𑅁'
+:   lang: ccp
+    lang_639_3: ccp
+    lang_full: ccp-Cakm-BD
+    lang_bcp_udhr: ccp
+    name_udhr: Chakma
+    script: Cakm
+    source: https://unicode.org/udhr/
+    udhr_key: ccp
+? Boux boux ma daengz lajmbwn couh miz cwyouz, cinhyenz caeuq genzli bouxboux Bingzdaengj. gyoengq vunz miz lijsing caeuq liengzsim, wngdang daih gyoengq de lumj beixnuengx ityiengh.
+:   lang: za
+    lang_639_3: zyb
+    lang_full: za-Latn-CN
+    lang_bcp_udhr: za
+    name_udhr: Zhuang, Yongbei
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ccx
+? Ang tanang katawhan gipakatawo nga may kagawasan ug managsama sa kabililhon. Sila gigasahan sa salabutan ug tanlag og mag-ilhanay isip managsoon sa usa'g-usa diha sa diwa sa ospiritu.
+:   lang: ceb
+    lang_639_3: ceb
+    lang_full: ceb-Latn-PH
+    lang_bcp_udhr: ceb
+    name_udhr: Cebuano
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ceb
+? Všichni lidé rodí se svobodní a sobě rovní co do důstojnosti a práv. Jsou nadáni rozumem a svědomím a mají spolu jednat v duchu bratrství.
+:   lang: cs
+    lang_639_3: ces
+    lang_full: cs-Latn-CZ
+    lang_bcp_udhr: cs
+    name_udhr: Czech
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ces
+? Todo taotao siha man mafanago libertao yan pareho gi dignidad yan derecho siha, man manae siha hinaso yan consiencia yan debe de ufatinas contra uno yan otro gi un espiritun chumelo.
+:   lang: ch
+    lang_639_3: cha
+    lang_full: ch-Latn-GU
+    lang_bcp_udhr: ch
+    name_udhr: Chamorro
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cha
+La juu dsa lu siä –Dsa kö ñi ba dsa, nía kö ni' ba na lu' dsa e dsa tï é li jnia' roö'.:
+    lang: chj
+    lang_639_3: chj
+    lang_full: chj-Latn-US
+    lang_bcp_udhr: chj
+    name_udhr: Chinantec, Ojitlán
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: chj
+? Esap wor och mettoch epwe appeti aramas seni fansoun ar uputiu non ar tufich me rait. Ar ekiek epwe mecheres o esap pet ren och sakkun mettoch pun ir repwe nonnomfengen non kinamwe
+    o pwipwi annim.
+:   lang: chk
+    lang_639_3: chk
+    lang_full: chk-Latn-FM
+    lang_bcp_udhr: chk
+    name_udhr: Chuukese
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: chk
+? Ꮒꭶꮣ ꭰꮒᏼꮻ ꭴꮎꮥꮕꭲ ꭴꮎꮪꮣꮄꮣ ꭰꮄ ꭱꮷꮃꭽꮙ ꮎꭲ ꭰꮲꮙꮩꮧ ꭰꮄ ꭴꮒꮂ ꭲᏻꮎꮫꮧꭲ. Ꮎꮝꭹꮎꮓ ꭴꮅꮝꭺꮈꮤꮕꭹ ꭴꮰꮿꮝꮧ ꮕᏸꮅꮫꭹ ꭰꮄ ꭰꮣꮕꮦꮯꮣꮝꮧ ꭰꮄ ꭱꮅꮝꮧ ꮟᏼꮻꭽ ꮒꮪꮎꮣꮫꮎꮥꭼꭹ ꮎ ꮧꮎꮣꮕꮯ ꭰꮣꮕꮩ ꭼꮧ.
+:   lang: chr
+    lang_639_3: chr
+    lang_full: chr-Cher-US
+    lang_bcp_udhr: chr
+    name_udhr: Cherokee (cased)
+    script: Cher
+    source: https://unicode.org/udhr/
+    udhr_key: chr_cased
+? ᏂᎦᏓ ᎠᏂᏴᏫ ᎤᎾᏕᏅᎢ ᎤᎾᏚᏓᎴᏓ ᎠᎴ ᎡᏧᎳᎭᏉ ᎾᎢ ᎠᏢᏉᏙᏗ ᎠᎴ ᎤᏂᎲ ᎢᏳᎾᏛᏗᎢ. ᎾᏍᎩᎾᏃ ᎤᎵᏍᎪᎸᏔᏅᎩ ᎤᏠᏯᏍᏗ ᏅᏰᎵᏛᎩ ᎠᎴ ᎠᏓᏅᏖᏟᏓᏍᏗ ᎠᎴ ᎡᎵᏍᏗ ᏏᏴᏫᎭ ᏂᏚᎾᏓᏛᎾᏕᎬᎩ Ꮎ ᏗᎾᏓᏅᏟ ᎠᏓᏅᏙ ᎬᏗ.
+:   lang: chr
+    lang_639_3: chr
+    lang_full: chr-Cher-US
+    lang_bcp_udhr: chr
+    name_udhr: Cherokee (uppercase)
+    script: Cher
+    source: https://unicode.org/udhr/
+    udhr_key: chr_uppercase
+? Himmaka' nittakookano hattak yokasht toksalicha'nikat ki'yo. Hattak mó̱makat ittíllawwi bíyyi'kacha nanna mó̱maka̱ ittibaachaffa'hitok.
+:   lang: cic
+    lang_639_3: cic
+    lang_full: cic-Latn-US
+    lang_bcp_udhr: cic
+    name_udhr: Chickasaw
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cic
+? Mwese yoze masemuka katela ukulungunga ulengunga ulemu nyi vumbi eswe ci mwikha. Eswe kalingile kupwa nyi usambe nyi mangana nyi kuhasa kulimika nyumwe nyi mukwo nyi kulita nyi mbunge
+    ya ulemu wa utu.
+:   lang: cjk
+    lang_639_3: cjk
+    lang_full: cjk-Latn-US
+    lang_bcp_udhr: cjk
+    name_udhr: Chokwe
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cjk
+? Athu eswe kakusemuka ngwe akwo, ku vumbi nyi hakusakula.Kali nyi mana,mba mahasa kulinga umwu hali mukwo nyi espiritu ya kuli kuasa.
+:   lang: cjk
+    lang_639_3: cjk
+    lang_full: cjk-Latn-US
+    lang_bcp_udhr: cjk
+    name_udhr: Chokwe (Angola)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cjk_AO
+? Парчын кижи, по чарыққа туғчадып, тең, пош туғча. Кижилер сағыштығ, ақтығ туғчалар, кижилерге пашқа кижилербе арғыштаныштарға керек.
+:   lang: cjs
+    lang_639_3: cjs
+    lang_full: cjs-Cyrl-RU
+    lang_bcp_udhr: cjs
+    name_udhr: Shor
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: cjs
+人人生而自由，在尊严和权利上一律平等。他们赋有理性和良心，并应以弟兄关系的精神相对待。:
+    lang: cjy
+    lang_639_3: cjy
+    lang_full: cjy-Hans-CN
+    lang_bcp_udhr: cjy
+    name_udhr: Chinese, Jinyu
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: cjy
+? Hemû mirov azad û di weqar û mafan de wekhev tên dinyayê. Ew xwedî hiş û şuûr in û divê li hember hev bi zihniyeteke bratiyê bilivin.
+:   lang: ku
+    lang_639_3: kmr
+    lang_full: ku-Latn-TR
+    lang_bcp_udhr: ku
+    name_udhr: Kurdish, Northern
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kmr
+人人生而自由,在尊严和权利上一律平等。他们赋有理性和良心,并应以兄弟关系的精神相对待。:
+    lang: zh
+    lang_639_3: cmn
+    lang_full: zh-Hans-CN
+    lang_bcp_udhr: zh
+    name_udhr: Chinese, Mandarin (Simplified)
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: cmn_hans
+人人生而自由，挨尊严和权利上一刬平等。他们趁理性和良心，并应以一个座儿的精神相对待。:
+    lang: zh
+    lang_639_3: cmn
+    lang_full: zh-Hans-CN
+    lang_bcp_udhr: zh
+    name_udhr: Chinese, Mandarin (Beijing)
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: cmn_hans_beijing
+人人生而自由，在尊严和权利上一律是平等的。他们赋有理性和良心，并应以兄弟关系的精神相互对待。:
+    lang: zh
+    lang_639_3: cmn
+    lang_full: zh-Hans-CN
+    lang_bcp_udhr: zh
+    name_udhr: Chinese, Mandarin (Guiyang)
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: cmn_hans_guiyang
+人人生而自由，在尊严和权利之上一律平等。他们赋有理性和良心，并应以哥们弟兄的精神相对待。:
+    lang: zh
+    lang_639_3: cmn
+    lang_full: zh-Hans-CN
+    lang_bcp_udhr: zh
+    name_udhr: Chinese, Mandarin (Harbin)
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: cmn_hans_harbin
+大家生而自由，在尊严告权利上头一律平等。他们赋有理性告良心，并该派以兄弟关系的精神相对待。:
+    lang: zh
+    lang_639_3: cmn
+    lang_full: zh-Hans-CN
+    lang_bcp_udhr: zh
+    name_udhr: Chinese, Mandarin (Nanjing)
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: cmn_hans_nanjing
+人个顶个生而自由，在尊严和权利上般儿般儿大。他们趁理性和良心，并应以兄弟关系的精神相对待。:
+    lang: zh
+    lang_639_3: cmn
+    lang_full: zh-Hans-CN
+    lang_bcp_udhr: zh
+    name_udhr: Chinese, Mandarin (Tianjin)
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: cmn_hans_tianjin
+人人生而自由，在尊嚴和權利上一律平等。他們賦有理性和良心，並應以兄弟關係的精神相對待。:
+    lang: zh
+    lang_639_3: cmn
+    lang_full: zh-Hant-TW
+    lang_bcp_udhr: zh-Hant
+    name_udhr: Chinese, Mandarin (Traditional)
+    script: Hant
+    source: https://unicode.org/udhr/
+    udhr_key: cmn_hant
+? Mi vialte hna cu zalong te, ai tluk te le upat tihzah awktlak le thiltikhawhnak tinvo a ngei in a chuak mi kan si dih. Minung cu a chia a tha thleidang khomi ruahnak le theihthiamnak
+    ziaza tha a ngeimi kan si caah pakhat le pakhat dawtnak he i pehtlaihnak le i hawikawmhnak ngeih ding kan si.
+:   lang: cnh
+    lang_639_3: cnh
+    lang_full: cnh-Latn-US
+    lang_bcp_udhr: cnh
+    name_udhr: Chin, Haka
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cnh
+? 'Aquempetavacaajeita maaroni atiri. Timatsi aquenqueshirejeitantari maaroni, timatsi amejeitari, ayojeiti paitarica ocameetsati antajeitiri: te oncameetsateji intsaneapitsajeiteero
+    itsipapee. Te oncameetsateji imperanajeitee, te oncameetsateji iroashinoncaajeitee, irointi ocameetsati aacameetsatavacaajeitea.'
+:   lang: cni
+    lang_639_3: cni
+    lang_full: cni-Latn-US
+    lang_bcp_udhr: cni
+    name_udhr: Asháninka
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cni
+? Sva ljudska bića rađaju se slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena razumom i savješću i jedni prema drugima treba da postupaju u duhu bratstva.
+:   lang: cnr
+    lang_639_3: cnr
+    lang_full: sr-ME-Latn-ME
+    lang_bcp_udhr: cnr
+    name_udhr: Montenegrin
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cnr
+? Piyanle tsa'chila, mankarijun, junshi manta tan, in tobi jaminlajoyoe, titi mi, tenka kano min, junshi, tsa'chila tala, sen jono min.
+:   lang: cof
+    lang_639_3: cof
+    lang_full: cof-Latn-US
+    lang_bcp_udhr: cof
+    name_udhr: Colorado
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cof
+? Nascinu tutti l’omi libari è pari di dignità è di diritti. Pussedinu a raghjoni è a cuscenza è li tocca ad agiscia trà elli di modu fraternu.
+:   lang: co
+    lang_639_3: cos
+    lang_full: co-Latn-FR
+    lang_bcp_udhr: co
+    name_udhr: Corsican
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cos
+? Aquejetavacaajiaca maasano caquinte. Chooca aquenquejantaca maasano, chooca amejigaca, atsajiaque taaca opajitapae ocameetsataque antajiguica. Tee oncameetsateji iromperaperanajicaji,
+    tee oncameetsateji irogashinoncajajiacaji. Jero cameetsatatsica aavacaj aiaquempa.
+:   lang: cot
+    lang_639_3: cot
+    lang_full: cot-Latn-US
+    lang_bcp_udhr: cot
+    name_udhr: Caquinte
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cot
+? 'Maaroni atziripayeeni, ovaquera intzimapaaque, eero ocantzi iñaashitacaavaitaityaari iromperanataityaari. Eejatzi oquemitari iroñaaca te apantyaaro amanitashireteri atziri ancanteri:
+    "Te pirjiperote eeroca, iriima irinta iriitaque ñaaperori". Eejatzi oquemitari te oncameethate intzime aparoni atziri antayetashityaarone caari ishinetaacairi pashine irantero. Tema
+    maaroni ayotziro ampampithashirvaayeta, ayotziro tsicarica otzimayetzi cameethatatsiri anteri o tsicarica otzimi caariperotatsiri, irootaque ocovaperotantari iroñaaca entacotavacaayetya
+    anquemitacaantanaquero arentzitavacaatyeeyaami ocaaquiini.'
+:   lang: cpu
+    lang_639_3: cpu
+    lang_full: cpu-Latn-US
+    lang_bcp_udhr: cpu
+    name_udhr: Ashéninka, Pichis
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cpu
+? Bütün insanlar serbestlik, menlik ve uquqlarda musaviy olıp dünyağa keleler. Olar aqıl ve vicdan saibidirler ve biri-birilerinen qardaşçasına munasebette bulunmalıdırlar
+:   lang: crh
+    lang_639_3: crh
+    lang_full: crh-Latn-UA
+    lang_bcp_udhr: crh
+    name_udhr: Crimean Tatar
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: crh
+? Nou tou imen nou’n ne dan laliberte ek legalite, dan nou dignite ek nou bann drwa. Nou tou nou annan kapasite pou rezonnen, e fodre nou azir anver lezot avek en lespri fraternel.
+:   lang: crs
+    lang_639_3: crs
+    lang_full: crs-Latn-SC
+    lang_bcp_udhr: crs
+    name_udhr: Seselwa Creole French
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: crs
+Lej†̎ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i s†̍' jmo' nö sala̱ ne sasno.:
+    lang: csa
+    lang_639_3: csa
+    lang_full: csa-Latn-US
+    lang_bcp_udhr: csa
+    name_udhr: Chinantec, Chiltepec
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: csa
+? ᒥᓯᐌ ᐃᓂᓂᐤ ᑎᐯᓂᒥᑎᓱᐎᓂᐠ ᐁᔑ ᓂᑕᐎᑭᐟ ᓀᐢᑕ ᐯᔭᑾᐣ ᑭᒋ ᐃᔑ ᑲᓇᐗᐸᒥᑯᐎᓯᐟ ᑭᐢᑌᓂᒥᑎᓱᐎᓂᐠ ᓀᐢᑕ ᒥᓂᑯᐎᓯᐎᓇ᙮ ᐁ ᐸᑭᑎᓇᒪᒋᐠ ᑲᑫᑕᐌᓂᑕᒧᐎᓂᓂᐤ ᓀᐢᑕ ᒥᑐᓀᓂᒋᑲᓂᓂᐤ ᓀᐢᑕ ᐎᒋᑴᓯᑐᐎᓂᐠ ᑭᒋ ᐃᔑ ᑲᓇᐗᐸᒥᑐᒋᐠ᙮
+:   lang: csw
+    lang_639_3: csw
+    lang_full: csw-Cans-CA
+    lang_bcp_udhr: csw
+    name_udhr: Cree, Swampy
+    script: Cans
+    source: https://unicode.org/udhr/
+    udhr_key: csw
+? Mihingte khempeuh in thupitak leh thuneihna tawh suakta tak leh akibang in kipiang ciat ahi hi. Asia leh apha khentel thei thungaihsutna nei ciat uh ahihman in khat leh khat sanggam
+    unau lungsim tawh kithuah khop ding hi.
+:   lang: ctd
+    lang_639_3: ctd
+    lang_full: ctd-Latn-MM
+    lang_bcp_udhr: ctd
+    name_udhr: Chin, Tedim
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ctd
+? Genir pawb yn rhydd ac yn gydradd â’i gilydd mewn urddas a hawliau. Fe’u cynysgaeddir â rheswm a chydwybod, a dylai pawb ymddwyn y naill at y llall mewn ysbryd cymodlon.
+:   lang: cy
+    lang_639_3: cym
+    lang_full: cy-Latn-GB
+    lang_bcp_udhr: cy
+    name_udhr: Welsh
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: cym
+? Sal' la sala. Bɛhig' be sokam sanimi, din pa la amii. Suhizɔbo be sokam sani; ka nambɔɣu beni. Suhubɔhibo mi bi lan kɔŋ yigunaadam kam sani. Dinzuɣu dimbɔŋɔ zaa wuhiya ka dama di tu
+    kamaata ka ti zaa yu tab' hali ni ti puuni.
+:   lang: dag
+    lang_639_3: dag
+    lang_full: dag-Latn-ZZ
+    lang_bcp_udhr: dag
+    name_udhr: Dagbani
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: dag
+? Alle mennesker er født frie og lige i værdighed og rettigheder. De er udstyret med fornuft og samvittighed, og de bør handle mod hverandre i en broderskabets ånd.
+:   lang: da
+    lang_639_3: dan
+    lang_full: da-Latn-DK
+    lang_bcp_udhr: da
+    name_udhr: Danish
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: dan
+? Aduniya kuna n gu ibuna damayo hɛi nɔ dei-dei nn daama nna n burucinitɛrɛ fɔ, n lasabu nna laakari ya nam nn mɔ huro cɛrɛ kuna nyanze tɛrɛ bɔŋɔɔ.
+:   lang: ddn
+    lang_639_3: ddn
+    lang_full: ddn-Latn-ZZ
+    lang_bcp_udhr: ddn
+    name_udhr: Dendi
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ddn
+? Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen.
+:   lang: de
+    lang_639_3: deu
+    lang_full: de-Latn-DE
+    lang_bcp_udhr: de-1996
+    name_udhr: German, Standard (1996)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: deu_1996
+? Nengsaala zaa ba nang dɔge so la o menga, ka o ne o taaba zaa sengtaa noba emmo ane yɛlɛsoobo sobic poɔ. Ba dɔgɛɛ ba zaa ne yɛng ane yɛlɛ-iruu k'a da seng ka ba erɛ yɛlɛ korɔ taa a
+    nga yɔɔmine.
+:   lang: dga
+    lang_639_3: dga
+    lang_full: dga-Latn-ZZ
+    lang_bcp_udhr: dga
+    name_udhr: Dagaare, Southern
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: dga
+? Raan thök eben aye dhëëth ka lau nhöm kua thöŋ nhiim eyithiic, kua thɛ̈kic, kua ci yëknhiethku puou, ku bik cëŋ ka ke ye mith etik.
+:   lang: dip
+    lang_639_3: dip
+    lang_full: dip-Latn-US
+    lang_bcp_udhr: dip
+    name_udhr: Dinka, Northeastern
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: dip
+? ހުރިހާ އިންސާނުންވެސް ދުނިޔެއަށް އުފަންވަނީ، މިނިވަންކަމުގައި، ހަމަހަމަ ޙައްޤުތަކަކާއެކު، ހަމަހަމަ ދަރަޖައެއްގައި ކަމޭހިތެވިގެންވާ ބައެއްގެ ގޮތުގައެވެ. ހެޔޮ ވިސްނުމާއި، ހެޔޮބުއްދީގެ
+    ބާރު އެމީހުންނަށް ލިބިގެންވެއެވެ. އަދި އެކަކު އަނެކަކާމެދު އެމީހުން މުޢާމަލާތް ކުރަންވާނީ، އުޚުއްވަތްތެރިކަމުގެ ރޫޙެއްގައެވެ.
+:   lang: dv
+    lang_639_3: div
+    lang_full: dv-Thaa-MV
+    lang_bcp_udhr: dv
+    name_udhr: Maldivian
+    script: Thaa
+    source: https://unicode.org/udhr/
+    udhr_key: div
+Bukanak búrom nan kuwolimi kurere kererer di waafaw búrom. Kubabaj poop búyejet di karampenoor.:
+    lang: dyo
+    lang_639_3: dyo
+    lang_full: dyo-Latn-SN
+    lang_bcp_udhr: dyo
+    name_udhr: Jola-Fonyi
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: dyo
+? Wólo’ lá, hádamaden’ bɛɛ ye hɔrɔn ye, bɛɛ ká kán lànbe ní hákɛyaw Mɔgɔ bɛɛ ye hákilitigi ye, bɛɛ ye hákilima ye ; ò là, ù ká kán kà ɲgɔn mína ní bádenya ye.
+:   lang: dyu
+    lang_639_3: dyu
+    lang_full: dyu-Latn-BF
+    lang_bcp_udhr: dyu
+    name_udhr: Jula
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: dyu
+? འགྲོ་བ་མི་ཚུ་ག་ར་དལ་དབང་གི་ཐོག་ལས་སྐྱེས་ཏེ་ཡོདཔ་ལས་ ག་ར་ལུ་བརྩི་མཐོང་དང་ཐོབ་དབང་འདྲ་མཉམ་སྦེ་ཡོད། མི་ཚུ་ག་ར་སྨྲ་ཤེས་དོན་གོ་བའི་མཚན་ཉིད་དང་ལྡནམ་ལས་ ག་ར་གིས་ལཱ་ག་ཅི་ར་འབད་རུང་ གཅིག་གིས་གཅིག་ལུ་སྤུན་ཆའི་འདུ་ཤེས་བསྐྱེད་ཐོག་ལས་ལཱ་འབད་དགོ།
+:   lang: dz
+    lang_639_3: dzo
+    lang_full: dz-Tibt-BT
+    lang_bcp_udhr: dz
+    name_udhr: Dzongkha
+    script: Tibt
+    source: https://unicode.org/udhr/
+    udhr_key: dzo
+? Όλοι οι άνθρωποι γεννιούνται ελεύθεροι και ίσοι στην αξιοπρέπεια και τα δικαιώματα. Είναι προικισμένοι με λογική και συνείδηση, και οφείλουν να συμπεριφέρονται μεταξύ τους με πνεύμα
+    αδελφοσύνης.
+:   lang: el
+    lang_639_3: ell
+    lang_full: el-Grek-GR
+    lang_bcp_udhr: el-monoton
+    name_udhr: Greek (monotonic)
+    script: Grek
+    source: https://unicode.org/udhr/
+    udhr_key: ell_monotonic
+? Ὅλοι οἱ ἄνθρωποι γεννιοῦνται ἐλεύθεροι καὶ ἴσοι στὴν ἀξιοπρέπεια καὶ τὰ δικαιώματα. Εἶναι προικισμένοι μὲ λογικὴ καὶ συνείδηση, καὶ ὀφείλουν νὰ συμπεριφέρονται μεταξύ τους μὲ πνεῦμα
+    ἀδελφοσύνης.
+:   lang: el
+    lang_639_3: ell
+    lang_full: el-Grek-GR
+    lang_bcp_udhr: el-polyton
+    name_udhr: Greek (polytonic)
+    script: Grek
+    source: https://unicode.org/udhr/
+    udhr_key: ell_polytonic
+? Adamadennu bɛɛ sɔdɔnɲa kakan, hɔrɔya dɔ, fabadenɲa dɔ ani sariya ta fan dɔ. Hankili ni sɔnɔmɛ ye alu bɛɛ ma, a kakan wo dɔ alu ye bakelenɲa sila lataaman alu ɲɔɔn tɛ.
+:   lang: man
+    lang_639_3: emk
+    lang_full: emk-Latn-GM
+    lang_bcp_udhr: man
+    name_udhr: Maninkakan, Eastern
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: emk
+? Tot j essèri umèn i nàs lébri e cumpagn in dignità e dirét. Lou i è dutid ad rasoun e ad cuscinza e i à da operè, ognun ti cunfrunt at ch'j ilt, sa sentimint ad fratelènza.
+:   lang: rgn
+    lang_639_3: rgn
+    lang_full: rgn-Latn-IT
+    lang_bcp_udhr: rgn
+    name_udhr: Romagnolo
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: eml
+? All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+:   lang: en
+    lang_639_3: eng
+    lang_full: en-Latn-US
+    lang_bcp_udhr: en
+    name_udhr: English
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: eng
+? Ĉiuj homoj estas denaske liberaj kaj egalaj laŭ digno kaj rajtoj. Ili posedas racion kaj konsciencon, kaj devus konduti unu al alia en spirito de frateco.
+:   lang: eo
+    lang_639_3: epo
+    lang_full: eo-Latn-001
+    lang_bcp_udhr: eo
+    name_udhr: Esperanto
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: epo
+? Ojjaña esejja ojjaña oyaja yojjaya cuayani quiapame oyajayojjaya quiapame ojjaña eseya quiapame quia tai jjashauabataiquiani ecueya epejji jayo jjaya ojjaña jajji ojjañajaassi eseyajayojja.
+:   lang: ese
+    lang_639_3: ese
+    lang_full: ese-Latn-US
+    lang_bcp_udhr: ese
+    name_udhr: Ese Ejja
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ese
+? Kõik inimesed sünnivad vabadena ja võrdsetena oma väärikuselt ja õigustelt. Neile on antud mõistus ja südametunnistus ja nende suhtumist üksteisesse peab kandma vendluse vaim.
+:   lang: et
+    lang_639_3: ekk
+    lang_full: et-Latn-EE
+    lang_bcp_udhr: et
+    name_udhr: Estonian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: est
+? Gizon-emakume guztiak aske jaiotzen dira, duintasun eta eskubide berberak dituztela; eta ezaguera eta kontzientzia dutenez gero, elkarren artean senide legez jokatu beharra dute.
+:   lang: eu
+    lang_639_3: eus
+    lang_full: eu-Latn-ES
+    lang_bcp_udhr: eu
+    name_udhr: Basque
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: eus
+? Бэйил бокэтчур омэн хилкич нян урумкэр балдаритно, теми ноҥардук эгдьэн ҥи‐да ачча. Бэйил бөкэтчур мэн долан акагчимур биннэтын.
+:   lang: eve
+    lang_639_3: eve
+    lang_full: eve-Cyrl-RU
+    lang_bcp_udhr: eve
+    name_udhr: Even
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: eve
+? Упкат илэл ты̄нмукирди, урэ̄лди мэ̄нңи са̄рича̄ди балдыдяра. Нуңартын дялитви, һалдяндыви биси, мэмэгӣлвэр аяралды̄дяна тэдет о̄мамачитын.
+:   lang: evn
+    lang_639_3: evn
+    lang_full: evn-Cyrl-RU
+    lang_bcp_udhr: evn
+    name_udhr: Evenki
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: evn
+? Wodzi amegbetɔwo katã ablɔɖeviwoe eye wodzena bubu kple gomekpɔkpɔ sɔsɔe. Susu kple dzitsinya le wo dometɔ ɖesiaɖe si eyata wodze be woanɔ anyi le ɖekawɔwɔ blibo me.
+:   lang: ee
+    lang_639_3: ewe
+    lang_full: ee-Latn-GH
+    lang_bcp_udhr: ee
+    name_udhr: Éwé
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ewe
+? Øll menniskju eru fødd fræls og jøvn til virðingar og mannarættindi. Tey hava skil og samvitsku og eiga at fara hvørt um annað í bróðuranda.
+:   lang: fo
+    lang_639_3: fao
+    lang_full: fo-Latn-FO
+    lang_bcp_udhr: fo
+    name_udhr: Faroese
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fao
+? Era sucu ena galala na tamata yadua, era tautauvata ena nodra dokai kei na nodra dodonu. E tiko na nodra vakasama kei na nodra lewaeloma, sa dodonu mera veidokadokai ena yalo ni veitacini.
+:   lang: fj
+    lang_639_3: fij
+    lang_full: fj-Latn-FJ
+    lang_bcp_udhr: fj
+    name_udhr: Fijian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fij
+? Kaikki ihmiset syntyvät vapaina ja tasavertaisina arvoltaan ja oikeuksiltaan. Heille on annettu järki ja omatunto, ja heidän on toimittava toisiaan kohtaan veljeyden hengessä.
+:   lang: fi
+    lang_639_3: fin
+    lang_full: fi-Latn-FI
+    lang_bcp_udhr: fi
+    name_udhr: Finnish
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fin
+? Kaikki ihmiset synnythään vaphaina, ja heilä kaikila oon sama ihmisarvo ja samat ihmisoikkeuet. Het oon saanheet järjen ja omatunnon, ja het piethään elläät toinen toisen kans niin
+    ko veljet keskenhään.
+:   lang: fkv
+    lang_639_3: fkv
+    lang_full: fkv-Latn-US
+    lang_bcp_udhr: fkv
+    name_udhr: Finnish, Kven
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fkv
+? Mikip in bangrep ii zalen nak le sunlawih nak thawn, bangrep in covo nei in, asuak mi kan si. Anmah in hleidan thei nak fim nak le nuncan neih thei nak ruah nak nei ii, pakhat le pakhat
+    duh dawt nak, pawl awk nak nei ding asi.
+:   lang: cfm
+    lang_639_3: cfm
+    lang_full: cfm-Latn-US
+    lang_bcp_udhr: cfm
+    name_udhr: Chin, Falam
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: flm
+? Acɛ, susu kpo sisi ɖokpo ɔ kpo wɛ gbɛtɔ bi ɖo ɖò gbɛwiwa tɔn hwenu; ye ɖo linkpɔn bɔ ayi yetɔn mɛ kpe lo bɔ ye ɖo na do alɔ yeɖee ɖi nɔvinɔvi ɖɔhun.
+:   lang: fon
+    lang_639_3: fon
+    lang_full: fon-Latn-BJ
+    lang_bcp_udhr: fon
+    name_udhr: Fon
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fon
+? Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.
+:   lang: fr
+    lang_639_3: fra
+    lang_full: fr-Latn-FR
+    lang_bcp_udhr: fr
+    name_udhr: French
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fra
+? Alle minsken wurde frij en gelyk yn weardigens en rjochten berne. Hja hawwe ferstân en gewisse meikrigen en hearre har foar inoar oer yn in geast fan bruorskip te hâlden en te dragen.
+:   lang: fy
+    lang_639_3: fry
+    lang_full: fy-Latn-NL
+    lang_bcp_udhr: fy
+    name_udhr: Frisian, Western
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fri
+? NEDDHANKE EN FOW DYIBINTE NO HETTII NO FOTA E DHI FOW, E NDIMU E HANDANDHI. BHE DYIBINDINTE E HAGGHIL E FAAMU ; HIBHE HAANI DYOGONDIRDE E NDER HAGGHIL NEENEGOOTAANKAAKU.
+:   lang: fuf
+    lang_639_3: fuf
+    lang_full: fuf-Latn-GN
+    lang_bcp_udhr: fuf
+    name_udhr: Pular
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fuf
+? 𞤋𞤲𞥆𞤢𞤥𞤢 𞤢𞥄𞤣𞤫𞥅𞤶𞤭 𞤬𞤮𞤬 𞤨𞤮𞤼𞤭، 𞤲'𞤣𞤭𞤥𞤯𞤭𞤣𞤭 𞤫 𞤶𞤭𞤦𞤭𞤲𞤢𞤲𞥆𞤣𞤫 𞤼𞤮 𞤦𞤢𞤲𞥆𞤺𞤫 𞤸𞤢𞤳𞥆𞤫𞥅𞤶𞤭. 𞤉𞤩𞤫 𞤲'𞤺𞤮𞥅𞤣𞤭 𞤥𞤭𞥅𞤶𞤮 𞤫 𞤸𞤢𞤳𞥆𞤭𞤤𞤢𞤲𞤼𞤢𞥄𞤺𞤢𞤤 𞤫𞤼𞤫 𞤫𞤩𞤫 𞤨𞤮𞤼𞤭 𞤸𞤵𞥅𞤬𞤮 𞤲'𞤣𞤭𞤪𞤣𞤫 𞤫 𞤲'𞤣𞤫𞤪 𞤩 𞤭𞤴𞤲𞤺𞤵𞤴𞤵𞤥𞥆𞤢𞥄𞤺𞤵.
+:   lang: fuf
+    lang_639_3: fuf
+    lang_full: fuf-Adlm-GN
+    lang_bcp_udhr: fuf-Adlm
+    name_udhr: Pular (Adlam)
+    script: Adlm
+    source: https://unicode.org/udhr/
+    udhr_key: fuf_adlm
+? Ducj i oms a nassin libars e compagns come dignitât e derits. A an sintiment e cussience e bisugne che si tratin un culaltri come fradis.
+:   lang: fur
+    lang_639_3: fur
+    lang_full: fur-Latn-IT
+    lang_bcp_udhr: fur
+    name_udhr: Friulian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fur
+? Innama aadeeji fof poti, ndimɗidi e jibinannde to bannge hakkeeji. Eɓe ngoodi miijo e hakkilantaagal ete eɓe poti huufo ndirde e nder ɓ iynguyummaagu.
+:   lang: fuv
+    lang_639_3: fuv
+    lang_full: fuv-Latn-NG
+    lang_bcp_udhr: fuv
+    name_udhr: Fulfulde, Nigerian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fuv
+? Ɓi-aadama fuu dimo danyete/jibinte o fotan be koomoye e neɗɗaaku be hakkeeji. ɓe ndokkaaɓe hakkiilo ngaandi nden bo ɓe kuutindiray hakkunde maɓɓe nder yiɗyiɗɗirki mbandiraagu.
+:   lang: fuv
+    lang_639_3: fuv
+    lang_full: fuv-Latn-NG
+    lang_bcp_udhr: fuv
+    name_udhr: Fulfulde, Nigerian (2)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fuv2
+? kwa-sí nyéttiŋ baajtólá kereli nás nisila na ta̱gɨdɨŋ arrá ka̱ɨŋ, Naŋ-sí ugola na kilmaŋá arrá ka̱ɨŋ namá in lóŋ áláŋ sǔrŋâ-sí kí jaiŋa in kéél ná sǔrŋâ suurꞌíŋ bârŋa.
+:   lang: fvr
+    lang_639_3: fvr
+    lang_full: fvr-Latn-SD
+    lang_bcp_udhr: fvr
+    name_udhr: Fur
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: fvr
+? Afɔ gbɔmɔ fɛɛ gbɔmɔ yɛ agbojee mli, kɛ hegbɛ ko ni damɔ ŋɛlɛ koome nɔ. Gbɔmɛi fɛɛ yɛ jwɛŋmɔ kɛ henilee, ni no hewɔ lɛ esa akɛ amɛhe ahi shi yɛ nyɛmi suɔmɔ mli.
+:   lang: gaa
+    lang_639_3: gaa
+    lang_full: gaa-Latn-GH
+    lang_bcp_udhr: gaa
+    name_udhr: Ga
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: gaa
+? Insannar hepsi duuêrlar serbest hem birtakım kendi kıymetindä hem haklarında. Onnara verilmiş akıl hem üz da läazım biri-birinä davransınnar kardaşlık ruhuna uygun.
+:   lang: gag
+    lang_639_3: gag
+    lang_full: gag-Latn-MD
+    lang_bcp_udhr: gag
+    name_udhr: Gagauz
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: gag
+人人生而自由，在志向跟权利上一律平等。渠们赋有理性跟良心，并理当以弟兄义气相对待。:
+    lang: gan
+    lang_639_3: gan
+    lang_full: gan-Hans-CN
+    lang_bcp_udhr: gan
+    name_udhr: Chinese, Gan
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: gan
+? Namooti hundinuu birmaduu ta'anii mirgaa fi ulfinaanis wal-qixxee ta'anii dhalatan. Sammuu fi qalbii ittiin yaadan waan uumamaan kennameef, hafuura obbolummaatiin walii-wajjin jiraachuu
+    qabu.
+:   lang: om
+    lang_639_3: gaz
+    lang_full: om-Latn-ET
+    lang_bcp_udhr: om
+    name_udhr: Oromo, Borana-Arsi-Guji
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: gax
+? Bu kurwe dimedi kikɛ mobe kumu so, nɛ mobe, eyilikpa, kesheŋ nɛ kashinteŋ maŋ kɔr eko peyɛ to. Nyinpela sa dimedi kikɛ lakal nɛ mfɛra fanɛ bu chena abarso kelepo so.
+:   lang: gjn
+    lang_639_3: gjn
+    lang_full: gjn-Latn-ZZ
+    lang_bcp_udhr: gjn
+    name_udhr: Gonja
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: gjn
+? Nukan gele kaa pələ kaa tanɔn, yiliɓa nu kəle maawiyə pələ da tɔɔi gaa ɲei yɛnɛyii hu kɛpələ kaalɔ tanɔn; di kɛmɛni a nukan ŋaa ɓə gɛɛ hwəkɛli wɛlikɛmaa ə lɔ di luwai.
+:   lang: gkp
+    lang_639_3: gkp
+    lang_full: gkp-Latn-ZZ
+    lang_bcp_udhr: gkp
+    name_udhr: Kpelle, Guinea
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: gkp
+? Tha gach uile dhuine air a bhreth saor agus co-ionnan ann an urram 's ann an còirichean. Tha iad air am breth le reusan is le cogais agus mar sin bu chòir dhaibh a bhith beò nam measg
+    fhein ann an spiorad bràthaireil,
+:   lang: gd
+    lang_639_3: gla
+    lang_full: gd-Latn-GB
+    lang_bcp_udhr: gd
+    name_udhr: Gaelic, Scottish
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: gla
+? Хэмту найсал гипалин, мэнэ гэбудиэри, правосалдиари эмуту балдичи. Нёанчи муруӈку, дэрэлку, диа диавари а-нэу-мэт бодомари тагилайчи.
+:   lang: gld
+    lang_639_3: gld
+    lang_full: gld-Cyrl-RU
+    lang_bcp_udhr: gld
+    name_udhr: Nanai
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: gld
+? Saoláitear na daoine uile saor agus comhionann ina ndínit agus ina gcearta. Tá bauidh an réasúin agus an choinsiasa acu agus dlíd iad féin d'iompar de mheon bhrthreachais i leith a
+    chéile.
+:   lang: ga
+    lang_639_3: gle
+    lang_full: ga-Latn-IE
+    lang_bcp_udhr: ga
+    name_udhr: Gaelic, Irish
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: gle
+? Tódolos seres humanos nacen libres e iguais en dignidade e dereitos e, dotados como están de razón e conciencia, díbense comportar fraternalmente uns cos outros.
+:   lang: gl
+    lang_639_3: glg
+    lang_full: gl-Latn-ES
+    lang_bcp_udhr: gl
+    name_udhr: Galician
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: glg
+? Ta dy chooilley ghooinney ruggit seyr as corrym rish dy chooilley ghooinney elley ayns ooashley as ayns cairys. Ta resoon as cooinsheanse stowit orroo as lhisagh ad dellal rish y cheilley
+    lesh spyrryd braaragh.
+:   lang: gv
+    lang_639_3: glv
+    lang_full: gv-Latn-IM
+    lang_bcp_udhr: gv
+    name_udhr: Manx
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: glv
+? Àlli Mensche kùmme mìt de gliche Wìrde ùn Rachte ùff d’Walt. Sie hàn àlli Vernùnft ùn Gewìsse ùn selle mìt Brìederlichkeit de àndere gejjenìwwer hàndle.
+:   lang: gsw
+    lang_639_3: gsw
+    lang_full: gsw-Latn-CH
+    lang_bcp_udhr: gsw
+    name_udhr: Alemannisch (Elsassisch)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: gsw1
+? Naa wayuukana jemeishi süpüla taashi süma wanawa sülu'u nakua'ipa, aka müin yaa epijainjana sünain anajiranawaa a'in nama napüshi.
+:   lang: guc
+    lang_639_3: guc
+    lang_full: guc-Latn-CO
+    lang_bcp_udhr: guc
+    name_udhr: Wayuu
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: guc
+? Mayma yvypóra ou ko yvy ári iñapytlʼyre ha eteĩcha dignidad ha derecho jeguerekópe; ha ikatu rupi oikuaa añetéva ha añeteʼyva, iporãva ha ivaíva, tekotevẽ pehenguéicha oiko oñondivekuéra.
+:   lang: gn
+    lang_639_3: gug
+    lang_full: gn-Latn-PY
+    lang_bcp_udhr: gn
+    name_udhr: Guaraní, Paraguayan
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: gug
+? પ્રતિષ્ઠા અને અધિકારોની દૃષ્ટિએ સર્વ માનવો જન્મથી સ્વતંત્ર અને સમાન હોય છે. તેમનામાં વિચારશક્તિ અને અંતઃકરણ હોય છે અને તેમણે પરસ્પર બંધુત્વની ભાવનાથી વર્તવું જોઇએ.
+:   lang: gu
+    lang_639_3: guj
+    lang_full: gu-Gujr-IN
+    lang_bcp_udhr: gu
+    name_udhr: Gujarati
+    script: Gujr
+    source: https://unicode.org/udhr/
+    udhr_key: guj
+? Kõmi thë pë rë përiprawë rë piyëkëi, he usukuwë thë pë keprou ai thë ã rëamaihã no ã heparohowë, totihitawë thë pë riã rẽ thaiwehei hami, thë pë puhi tao kãi përihiwëha, thë pë puhi
+    kãi katehewëha hawë kama thë pë mashi shĩro përihimopë.
+:   lang: guu
+    lang_639_3: guu
+    lang_full: guu-Latn-US
+    lang_bcp_udhr: guu
+    name_udhr: Yanomamö
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: guu
+? Opakatu ava yoro’a nda’ei tembigwaigwa oyoyatupri, sekotupri, vaëra, imboeteisara, oikatu ipi’a yemoñeta, imbaekua, ndiyai yurekorairai ñepëi pëi ambua rese.
+:   lang: gyr
+    lang_639_3: gyr
+    lang_full: gyr-Latn-US
+    lang_bcp_udhr: gyr
+    name_udhr: Guarayu
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: gyr
+人人生而自由，在尊严同权利上一律平等。佢丁人赋有理性同好心田，并应以兄弟关系个精神相对待。:
+    lang: hak
+    lang_639_3: hak
+    lang_full: hak-Hans-CN
+    lang_bcp_udhr: hak
+    name_udhr: Chinese, Hakka
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: hak
+? Tout moun fèt lib, egal ego pou diyite kou wè dwa. Nou gen la rezon ak la konsyans epi nou fèt pou nou aji youn ak lot ak yon lespri fwatènite.
+:   lang: ht
+    lang_639_3: hat
+    lang_full: ht-Latn-HT
+    lang_bcp_udhr: ht
+    name_udhr: Haitian Creole French (Kreyol)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hat_kreyol
+? Tout moun sou tè a fèt tou lib. Tout gen menm valè (nan je lasosyete), tout moun gen menm dwa devan Lalwa. Tout moun fèt ak yon bonsans, tout fèt ak yon konsyans epi youn fèt pou trete
+    lòt tankou frè ak sè.
+:   lang: ht
+    lang_639_3: hat
+    lang_full: ht-Latn-HT
+    lang_bcp_udhr: ht
+    name_udhr: Haitian Creole French (Popular)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hat_popular
+? Su dai ƴan‐adam, ana haifuwarsu ne duka ƴantattu, kuma kowannensu na da mutunci da hakkoki daidai da na kowa. Suna da hankali da tunani, saboda haka duk abin da za su aikata wa juna,
+    ya kamata su yi shi a cikin ƴan‐uwanci.
+:   lang: ha
+    lang_639_3: hau
+    lang_full: ha-Latn-NG
+    lang_bcp_udhr: ha-NE
+    name_udhr: Hausa (Niger)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hau_NE
+? Su dai ‘yan-adam, ana haifuwarsu ne duka ‘yantattu, kuma kowannensu na da mutunci da hakkoki daidai da na kowa. Suna da hankali da tunani, saboda haka duk abin da za su aikata wa juna,
+    ya kamata su yi shi a cikin ‘yan-uwanci.
+:   lang: ha
+    lang_639_3: hau
+    lang_full: ha-Latn-NG
+    lang_bcp_udhr: ha-NG
+    name_udhr: Hausa (Nigeria)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hau_NG
+? Duk ‘yan’adan ana haihuwarsu ne a matsayin ‘yantattun ‘ya’ya, kuma mutuncinsu da haqqoqinsu daidai yake da na kowa. Suna da tunani da cikakken hankali, saboda haka ake son duk mu’amalar
+    da za su yi, ta kasance akwai ‘yan’uwantaka a tsakani.
+:   lang: ha
+    lang_639_3: hau
+    lang_full: ha-Latn-NG
+    lang_bcp_udhr: ha
+    name_udhr: Hausa
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hau_3
+? Hānau kū’oko’a ‘ia nā kānaka apau loa, a ua kau like ka hanohano a me nā pono kīvila ma luna o kākou pākahi. Ua ku’u mai ka no’ono’o pono a me ka ‘ike pono ma luna o kākou, no laila,
+    e aloha kākou kekahi i kekahi.
+:   lang: haw
+    lang_639_3: haw
+    lang_full: haw-Latn-US
+    lang_bcp_udhr: haw
+    name_udhr: Hawaiian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: haw
+? Laix laix diangl dangt lol sob dab yangx ghax maix zit yef, niangb diot gid zenb nieef haib gid quaif lit gid nongd jus diel pinf denx. Nenx dol maix laib lix xent haib jox hvib vut,
+    nenx dol nongt liek bed ut id xit deit dait.
+:   lang: hmn
+    lang_639_3: hea
+    lang_full: hea-Latn-US
+    lang_bcp_udhr: hmn
+    name_udhr: Hmong, Northern Qiandong
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hea
+? כל בני אדם נולדו בני חורין ושווים בערכם ובזכויותיהם. כולם חוננו בתבונה ובמצפון, לפיכך חובה עליהם לנהוג איש ברעהו ברוח של אחוה.
+:   lang: he
+    lang_639_3: heb
+    lang_full: he-Hebr-IL
+    lang_bcp_udhr: he
+    name_udhr: Hebrew
+    script: Hebr
+    source: https://unicode.org/udhr/
+    udhr_key: heb
+? Ang tanan nga tao ginbun-ag nga hilway kag may pag-alalangay sa dungog kag katarungan. Sila ginhatagan sang pagpamat-od kag konsensya kag nagakadapat nga magbinuligay sa kahulugan
+    sang pag-inuturay.
+:   lang: hil
+    lang_639_3: hil
+    lang_full: hil-Latn-PH
+    lang_bcp_udhr: hil
+    name_udhr: Hiligaynon
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hil
+? सभी मनुष्यों को गौरव और अधिकारों के मामले में जन्मजात स्वतन्त्रता और समानता प्राप्त है । उन्हें बुद्धि और अन्तरात्मा की देन प्राप्त है और परस्पर उन्हें भाईचारे के भाव से बर्ताव करना
+    चाहिए ।
+:   lang: hi
+    lang_639_3: hin
+    lang_full: hi-Deva-IN
+    lang_bcp_udhr: hi
+    name_udhr: Hindi
+    script: Deva
+    source: https://unicode.org/udhr/
+    udhr_key: hin
+? Thlangboeih he rhimomna, vanpitna, yalpona hamhmoel ka tawn thlang la cuun la ng’om u. Thlanghing he athae-then paekboe thaina neh yakming thaina moeiboe ka tawn thlang la n’om u dong
+    ah khat neh khat lungvat na neh thloehlan voekhlak u thae ham om.
+:   lang: hlt
+    lang_639_3: hlt
+    lang_full: hlt-Latn-US
+    lang_bcp_udhr: hlt
+    name_udhr: Chin, Matu
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hlt
+? Leb leb nis zib youl nangs, mex ad sheit nangd zend yanl nhangs njanl lib. Mix mex lix xinb gaot liangt send, leb leb lies nhangs ghob nab ghob geud nangd.
+:   lang: hms
+    lang_639_3: hms
+    lang_full: hms-Latn-US
+    lang_bcp_udhr: hms
+    name_udhr: Hmong, Southern Qiandong
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hms
+? Agbetɔwo kpata le jijimɛa, ɖo vosinɔnɔ, nyi gbèsɔɛ́mɛ́wó le nujɔnunnyi ku goɖoejisewo, amɛbusewo mɛ. Tagbɔ le woa si, eye wɔnawo sɔdoda woanɔnɔwo gbɔa la nyi nɔ́visilélé.
+:   lang: hna
+    lang_639_3: hna
+    lang_full: hna-Latn-US
+    lang_bcp_udhr: hna
+    name_udhr: Mina
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hna
+? Aqsol liq yoqdeivq yoqpyuq bo, meeqyaovq ssolnei colpyuq qiq kov dei. Davqtavcolssaq neenyuq bel neema meeq ya siq, laongaoq meilnaol nadul meil e gaq ssol hhyul hha bavqduv nia.
+:   lang: hni
+    lang_639_3: hni
+    lang_full: hni-Latn-US
+    lang_bcp_udhr: hni
+    name_udhr: Hani
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hni
+? Sab djanne aadjádi aur barabar paidaa bhailèn, iddjat aur hak mê. Ohi djanne ke lage sab ke samadj-boedj aur hierdaai hai aur doesare se sab soemmat sè, djaane-maane ke chaahin.
+:   lang: hns
+    lang_639_3: hns
+    lang_full: hns-Latn-US
+    lang_bcp_udhr: hns
+    name_udhr: Hindustani, Sarnami
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hns
+? Wšitcy čłowjekojo su wot naroda swobodni a su jenacy po dostojnosći a prawach. Woni su z rozumom a swědomjom wobdarjeni a maja mjezsobu w duchu bratrowstwa wobchadźeć.
+:   lang: hsb
+    lang_639_3: hsb
+    lang_full: hsb-Latn-DE
+    lang_bcp_udhr: hsb
+    name_udhr: Sorbian, Upper
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hsb
+? Kuentsal nap wah-chínal tee ti chabal jayechek-i antip wah-chínal, bá tamá maxak a pulik maxak in exlal, jununul aní ni chap aní jaxtam ko-yal kip le-naxín aní ki k-ana ti ba.
+:   lang: hus
+    lang_639_3: hus
+    lang_full: hus-Latn-US
+    lang_bcp_udhr: hus
+    name_udhr: Huastec (Sierra de Otontepec)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hsf
+人人生而自由，在尊严和权利上一律平等。他们赋有理性和良心，在得以兄弟关系的精神相对待。:
+    lang: hsn
+    lang_639_3: hsn
+    lang_full: hsn-Hans-CN
+    lang_bcp_udhr: hsn
+    name_udhr: Chinese, Xiang
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: hsn
+? Minden. emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben testvéri szellemben kell hogy viseltessenek.
+:   lang: hu
+    lang_639_3: hun
+    lang_full: hu-Latn-HU
+    lang_bcp_udhr: hu
+    name_udhr: Hungarian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hun
+Ejtal an kw'ajiiltsik u wa'chinal kweteem ani chu'udh k'al an chu'uxtalaab ani yajat ka k'aak'naaxin juun ani juun.:
+    lang: hus
+    lang_639_3: hus
+    lang_full: hus-Latn-US
+    lang_bcp_udhr: hus
+    name_udhr: Huastec (Veracruz)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hus
+? Nana caɨ comuillamona dama caɨ abido itɨcaɨ. Caɨ comuillamona jɨaɨmɨe anamo iñedɨcaɨ. Nana daje facaiconi itɨcaɨ. Abɨ uiñuanona comuidɨcaɨ. Danɨ coninɨrie caɨ nabairilla.
+:   lang: huu
+    lang_639_3: huu
+    lang_full: huu-Latn-US
+    lang_bcp_udhr: huu
+    name_udhr: Huitoto, Murui
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: huu
+? Patal an inik ani an uxum u wa'tsinal walkadh abal jununúl kin bats'uw an alwa'taláb ani ka pidhan in éy jant'ini' in tomnál; in kwa'al in tsalpádh ani in k'ayá' abal kin k'anidha'
+    in juntal.
+:   lang: hus
+    lang_639_3: hus
+    lang_full: hus-Latn-US
+    lang_bcp_udhr: hus
+    name_udhr: Huastec (San Luís Potosí)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: hva
+? Բոլոր մարդիկ ծնվում են ազատ ու հավասար իրենց արժանապատվությամբ ու իրավունքներով։ Նրանք ունեն բանականություն ու խիղճ և միմյանց պետք է եղբայրաբար վերաբերվեն։
+:   lang: hy
+    lang_639_3: hye
+    lang_full: hy-Armn-AM
+    lang_bcp_udhr: hy
+    name_udhr: Armenian
+    script: Armn
+    source: https://unicode.org/udhr/
+    udhr_key: hye
+? Kpukpuru owo emana nte amanison, enyun enyene ukem ukem uku ye unen. Eyoho mmo ye ukeme ndikere nkpo, ndinyun nyene esit, ke ntre, mmo enyene ndiman nkpo mbana kiet eken ke esit ndito
+    eka.
+:   lang: ibb
+    lang_639_3: ibb
+    lang_full: ibb-Latn-NG
+    lang_bcp_udhr: ibb
+    name_udhr: Ibibio
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ibb
+? A mụrụ mmadụ nile n'ohere nakwa nha anya ugwu na ikike. E nyere ha uche na mmụọ ime ihe ziri ezi nke na ha kwesiri ịkpaso ibe ha agwa n'obi nwanne na nwanne.
+:   lang: ig
+    lang_639_3: ibo
+    lang_full: ig-Latn-NG
+    lang_bcp_udhr: ig
+    name_udhr: Igbo
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ibo
+? Omna homi naskas libera ed egala relate digneso e yuri. Li es dotita per raciono e koncienco e devas agar vers l'una l'altra en spirito di frateso.
+:   lang: io
+    lang_639_3: ido
+    lang_full: io-Latn-001
+    lang_bcp_udhr: io
+    name_udhr: Ido
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ido
+? Ęgę ni modudu acę kęcę nya bęcę ęhehi aa ,hibi ęgͻ ma acę duu jonjilę ipu kocęgba nͻcę cęgba męml’ojonjilę ipu ͻdah ni yabͻ ͻcę nya. Odudu acę kwu ђwule ml’ohili otu męml’ocai kęla
+    jͻcę ͻha ni yipu ͻtu ͻcę aa, higbͻ ma ͻcę higbo yͻda męml’ ͻmpa gunu lę bͻinę nu ma.
+:   lang: idu
+    lang_639_3: idu
+    lang_full: idu-Latn-ZZ
+    lang_bcp_udhr: idu
+    name_udhr: Idoma
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: idu
+ꊿꂷꃅꄿꐨꐥ，ꌅꅍꀂꏽꐯꒈꃅꐥꌐ。ꊿꊇꉪꍆꌋꆀꁨꉌꑌꐥ，ꄷꀋꁨꂛꊨꅫꃀꃅꐥꄡꑟ。:
+    lang: ii
+    lang_639_3: iii
+    lang_full: ii-Yiii-CN
+    lang_bcp_udhr: ii
+    name_udhr: Nuosu
+    script: Yiii
+    source: https://unicode.org/udhr/
+    udhr_key: iii
+? Kim’ owoumo se, keni bara ki na, pa zimi, ose keni bara kemi. Kim’se ye iroro, mani ikiou nana, enini kim’se dudu tari teme nana weri iyenri.
+:   lang: ijs
+    lang_639_3: ijs
+    lang_full: ijs-Latn-US
+    lang_bcp_udhr: ijs
+    name_udhr: Ijo, Southeast
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ijs
+? ᐃᓅᔪᓕᒫᑦ ᐊᓂᖅᑎᕆᔪᓕᒫᑦ ᐃᓅᓚᐅᕐᒪᑕ ᐃᓱᒪᕐᓱᕐᖢᑎᒃ ᐊᒻᒪᓗ ᐊᔾᔨᐅᖃᑎᒌᒃᖢᑎᒃ ᓂᕐᓱᐊᖑᓂᒃᑯᑦ ᐊᒻᒪᓗ ᐱᔪᓐᓇᐃᑎᑎᒍᑦ. ᐃᓱᖃᖅᑐᖁᑎᖃᕐᑎᑕᐅᕙᓕᕐᐳᑦ ᐱᔾᔪᑎᖃᕐᓂᒃᑯᑦ ᖃᑕᙳᑎᒌᑦᑎᐊᕆᐊᖃᕐᓂᒃᑯᓪᓗ.
+:   lang: iu
+    lang_639_3: ike
+    lang_full: iu-Cans-CA
+    lang_bcp_udhr: iu
+    name_udhr: Inuktitut, Eastern Canadian
+    script: Cans
+    source: https://unicode.org/udhr/
+    udhr_key: ike
+? Amin nga tao nga sibibiag ket naiyanak a siwawayawaya ken addaan iti agpapada nga dayaw ken kalintegan. Naikkanda ti panagikalintegan ken konsensya a nasken ti panagtitinnulong iti
+    meysa ken meysa iti espiritu nga nainkak-absatan.
+:   lang: ilo
+    lang_639_3: ilo
+    lang_full: ilo-Latn-PH
+    lang_bcp_udhr: ilo
+    name_udhr: Ilocano
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ilo
+? Tote le esseres human nasce libere e equal in dignitate e in derectos. Illes es dotate de ration e de conscientia e debe ager le unes verso le alteres in un spirito de fraternitate.
+:   lang: ia
+    lang_639_3: ina
+    lang_full: ia-Latn-001
+    lang_bcp_udhr: ia
+    name_udhr: Interlingua
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ina
+? Semua orang dilahirkan merdeka dan mempunyai martabat dan hak-hak yang sama. Mereka dikaruniai akal dan hati nurani dan hendaknya bergaul satu sama lain dalam semangat persaudaraan.
+:   lang: id
+    lang_639_3: ind
+    lang_full: id-Latn-ID
+    lang_bcp_udhr: id
+    name_udhr: Indonesian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ind
+? Hver maður er borinn frjáls og jafn öðrum að virðingu og réttindum. Menn eru gæddir vitsmunum og samvizku, og ber þeim að breyta bróðurlega hverjum við annan.
+:   lang: is
+    lang_639_3: isl
+    lang_full: is-Latn-IS
+    lang_bcp_udhr: is
+    name_udhr: Icelandic
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: isl
+? Tutti gli esseri umani nascono liberi ed eguali in dignità e diritti. Essi sono dotati di ragione e di coscienza e devono agire gli uni verso gli altri in spirito di fratellanza.
+:   lang: it
+    lang_639_3: ita
+    lang_full: it-Latn-IT
+    lang_bcp_udhr: it
+    name_udhr: Italian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ita
+? Saben uwong kalairake kanthi mardika lan darbe martabat lan hak-hak kang padha. Kabeh pinaringan akal lan kalbu sarta kaajab pasrawungan anggone memitran siji lan sijine kanthi jiwo
+    sumadulur.
+:   lang: jv
+    lang_639_3: jav
+    lang_full: jv-Latn-ID
+    lang_bcp_udhr: jv
+    name_udhr: Javanese (Latin)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: jav
+? ꧋ꦱꦧꦼꦤ꧀ꦲꦸꦮꦺꦴꦁꦏꦭꦲꦶꦂꦫꦏꦺꦏꦤ꧀ꦛꦶꦩꦂꦢꦶꦏꦭꦤ꧀ꦢꦂꦧꦺꦩꦂꦠꦧꦠ꧀ꦭꦤ꧀ꦲꦏ꧀ꦲꦏ꧀ꦏꦁꦥꦝ꧉​ꦏꦧꦺꦃꦥꦶꦤꦫꦶꦁꦔꦤ꧀ꦲꦏꦭ꧀ꦭꦤ꧀ꦏꦭ꧀ꦧꦸꦱꦂꦠꦏꦲꦗꦧ꧀ꦥꦱꦿꦮꦸꦁꦔꦤ꧀ꦲꦁꦒꦺꦴꦤ꧀ꦤꦺꦩꦼꦩꦶꦠꦿꦤ꧀ꦱꦶꦗꦶꦭꦤ꧀ꦱꦶꦗꦶꦤꦺꦏꦤ꧀ꦛꦶꦗꦶꦮꦺꦴꦱꦸꦩꦢꦸꦭꦸꦂ꧉​
+:   lang: jv
+    lang_639_3: jav
+    lang_full: jv-Java-ID
+    lang_bcp_udhr: jv-Java
+    name_udhr: Javanese (Javanese)
+    script: Java
+    source: https://unicode.org/udhr/
+    udhr_key: jav_java
+? Aents yajá nunkanam akínia asamtaish, metekrak ainiaji. Tumasha ni chichamenka tuke amiktin aíniawai. Ni iniakmamuri, ní chichamejaituke aniakmamsar chichakartin aíniawai. Tuma asamtai
+    aents mash nekawar, penker metekrak, nuamtak wará warat shiir pujusarmi tusar aárma awai.
+:   lang: jiv
+    lang_639_3: jiv
+    lang_full: jiv-Latn-US
+    lang_bcp_udhr: jiv
+    name_udhr: Shuar
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: jiv
+すべての人間は、生まれながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。:
+    lang: ja
+    lang_639_3: jpn
+    lang_full: ja-Jpan-JP
+    lang_bcp_udhr: ja
+    name_udhr: Japanese
+    script: Jpan
+    source: https://unicode.org/udhr/
+    udhr_key: jpn
+すべての人間は、生まれながらにして自由やし、かつ、尊厳と権利とについて平等や。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しな。:
+    lang: ja
+    lang_639_3: jpn
+    lang_full: ja-Jpan-JP
+    lang_bcp_udhr: ja
+    name_udhr: Japanese (Osaka)
+    script: Jpan
+    source: https://unicode.org/udhr/
+    udhr_key: jpn_osaka
+全部の人間は、生まれながらにして自由であり、かつ、尊厳と権利と について平等である。人間は、理性と良心とを授けられており、互いに同 胞の精神をもって行動しなければならない。:
+    lang: ja
+    lang_639_3: jpn
+    lang_full: ja-Jpan-JP
+    lang_bcp_udhr: ja
+    name_udhr: Japanese (Tokyo)
+    script: Jpan
+    source: https://unicode.org/udhr/
+    udhr_key: jpn_tokyo
+? Ҳәмме адамлар өз қәдир-қымбаты және ҳуқықларында еркин ҳәм тең болып туўылады. Оларға ақыл ҳәм ҳүждан берилген болып, бир-бирине туўысқанлық руўхындағы қатнаста болыўы тийис.
+:   lang: kaa
+    lang_639_3: kaa
+    lang_full: kaa-Cyrl-UZ
+    lang_bcp_udhr: kaa
+    name_udhr: Karakalpak
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: kaa
+? Inuit tamarmik inunngorput nammineersinnaassuseqarlutik assigiimmillu ataqqinassuseqarlutillu pisinnaatitaaffeqarlutik. Solaqassusermik tarnillu nalunngissusianik pilersugaapput, imminnullu
+    iliorfigeqatigiittariaqaraluarput qatanngutigiittut peqatigiinnerup anersaavani.
+:   lang: kl
+    lang_639_3: kal
+    lang_full: kl-Latn-GL
+    lang_bcp_udhr: kl
+    name_udhr: Inuktitut, Greenlandic
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kal
+? ಎಲ್ಲಾ ಮಾನವರೂ ಸ್ವತಂತ್ರರಾಗಿಯೇ ಜನಿಸಿದ್ದಾರೆ. ಹಾಗೂ ಘನತೆ ಮತ್ತು ಹಕ್ಕುಗಳಲ್ಲಿ ಸಮಾನರಾಗಿದ್ದಾರೆ. ವಿವೇಕ ಮತ್ತು ಅಂತಃಕರಣಗಳನ್ನು ಪಡೆದವರಾದ್ದರಿಂದ ಅವರು ಪರಸ್ಪರ ಸಹೋದರ ಭಾವದಿಂದ ವರ್ತಿಸಬೇಕು.
+:   lang: kn
+    lang_639_3: kan
+    lang_full: kn-Knda-IN
+    lang_bcp_udhr: kn
+    name_udhr: Kannada
+    script: Knda
+    source: https://unicode.org/udhr/
+    udhr_key: kan
+? ყოველი ადამიანი იბადება თავისუფალი და თანასწორი თავისი ღირსებითა და უფლებებით. მათ მინიჭებული აქვთ გონება და სინდისი და ერთმანეთის მიმართ უნდა ექცეოდნენ ძმობის სულისკვეთებით.
+:   lang: ka
+    lang_639_3: kat
+    lang_full: ka-Geor-GE
+    lang_bcp_udhr: ka
+    name_udhr: Georgian
+    script: Geor
+    source: https://unicode.org/udhr/
+    udhr_key: kat
+? Барлық адамдар тумысынан азат және қадір‐қасиеті мен кұқықтары тең болып дүниеге келеді. Адамдарға ақыл‐парасат, ар‐ождан берілген, сондықтан олар бір‐бірімен туыстық, бауырмалдық
+    қарым‐қатынас жасаулары тиіс.
+:   lang: kk
+    lang_639_3: kaz
+    lang_full: kk-Cyrl-KZ
+    lang_bcp_udhr: kk
+    name_udhr: Kazakh
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: kaz
+? Цӏыху псори щхьэхуиту, я щӏыхьымрэ я хуэфащэхэмрэкӏэ зэхуэдэу къалъхур. Акъылрэ зэхэщӏыкӏ гъуазэрэ яӏэщи, зыр зым зэкъуэш зэхащІэ яку дэлъу зэхущытын хуейхэщ.
+:   lang: kbd
+    lang_639_3: kbd
+    lang_full: kbd-Cyrl-RU
+    lang_bcp_udhr: kbd
+    name_udhr: Kabardian
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: kbd
+? Palʊlʊʊ ɛyaaa nɛ pa-tɩ yɔɔ wɛʊ kpaagbaa nɛ pɛwɛɛ kɩmaŋ wala ɛsɩndaa. Palʊlʊʊ-wɛ nɛ pɔ-lɔŋ nɛ pa-maɣzɩm; mbʊ yekina nɛ pɔsɔɔlɩ ɖama se pɛkɛ ɛyaa pa-tɩŋgɛ.
+:   lang: kbp
+    lang_639_3: kbp
+    lang_full: kbp-Latn-ZZ
+    lang_bcp_udhr: kbp
+    name_udhr: Kabiyé
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kbp
+Vanu vohevohe vaidile n’chilambo valendene. Vanijaliwa ulimala vene. Pavele vanu pave na ulongo.:
+    lang: kde
+    lang_639_3: kde
+    lang_full: kde-Latn-TZ
+    lang_bcp_udhr: kde
+    name_udhr: Makonde
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kde
+? Bánlʊrʊ́ʊ ɩrʊ́ báa weení na kezéńbíídi gɛ bɩka bɛdɛ́ɛ ɖɔɔzɩ́tɩ na yíkowá kɛgɛ́ɛ ɖéyí-ɖéyí gɛ. Bɔwɛná laakárɩ na ɩrʊ́tɩ bɩka bɩɩbɔ́ɔ́zɩ bɔcɔɔná ɖamá koobíre cɔwʊrɛ.
+:   lang: kdh
+    lang_639_3: kdh
+    lang_full: kdh-Latn-TG
+    lang_bcp_udhr: kdh
+    name_udhr: Tem
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kdh
+? Tudo ser humano na ês mundo nacê libri e igual na sê dignidade e na sês drêto. Na sês razon e na sês concénça, tudo arguem debê porcêdê pa co tudo guenti na sprito di fraternidadi.
+:   lang: kea
+    lang_639_3: kea
+    lang_full: kea-Latn-CV
+    lang_bcp_udhr: kea
+    name_udhr: Kabuverdianu
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kea
+? Chijunil li poyanam juntaq'eet wankil xloq'al naq nake'yo'la, ut kama' ak reheb' naq wan xna'leb'eb ut nake'reek'a rib', tento naq te'xk'am rib' sa' usilal chirib'ilrib'eb'.
+:   lang: kek
+    lang_639_3: kek
+    lang_full: kek-Latn-US
+    lang_bcp_udhr: kek
+    name_udhr: Q'eqchi'
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kek
+? Ïa ki bynriew baroh la kha laitluid bad ki ïaryngkat ha ka burom bad ki hok. Ha ki la bsiap da ka bor pyrkhat bad ka jingïatiplem bad ha ka mynsiem jingsngew shipara ki dei ban ïatrei
+    bynrap lang.
+:   lang: kha
+    lang_639_3: kha
+    lang_full: kha-Latn-IN
+    lang_bcp_udhr: kha
+    name_udhr: Khasi
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kha
+? Хүн бүр төрж мэндлэхэд эрх чөлөөтэй, адилхан нэр төртэй, ижил эрхтэй байдаг. Оюун ухаан, нандин чанар заяасан хүн гэгч өөр хоорондоо ахан дүүгийн үзэл санаагаар харьцах учиртай.
+:   lang: mn
+    lang_639_3: khk
+    lang_full: mn-Cyrl-MN
+    lang_bcp_udhr: mn-Cyrl
+    name_udhr: Mongolian, Halh (Cyrillic)
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: khk
+? មនុស្សទាំងអស់ កើតមកមានសេរីភាព និងសមភាព ក្នុងផ្នែកសេចក្ដីថ្លៃថ្នូរនិងសិទ្ធិ។ មនុស្ស មានវិចារណញ្ញាណនិងសតិសម្បជញ្ញៈជាប់ពីកំណើត ហើយគប្បីប្រព្រឹត្ដចំពោះគ្នាទៅវិញទៅមក ក្នុង ស្មារតីភាតរភាពជាបងប្អូន។
+:   lang: km
+    lang_639_3: khm
+    lang_full: km-Khmr-KH
+    lang_bcp_udhr: km
+    name_udhr: Khmer, Central
+    script: Khmr
+    source: https://unicode.org/udhr/
+    udhr_key: khm
+? Abantu bose bavuka aliko bakwiye agaciro no kwubahwa kimwe. Bose bavukana ubwenge n'umutima, bagomba kugilirana kivandimwe.
+:   lang: rw
+    lang_639_3: kin
+    lang_full: rw-Latn-RW
+    lang_bcp_udhr: rw
+    name_udhr: Rwanda
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kin
+? Бардык адамдар өз беделинде жана укуктарында эркин жана тең укуктуу болуп жаралат. Алардын аң‐сезими менен абийири бар жана бири‐бирине бир туугандык мамилекылууга тийиш.
+:   lang: ky
+    lang_639_3: kir
+    lang_full: ky-Cyrl-KG
+    lang_bcp_udhr: ky
+    name_udhr: Kirghiz
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: kir
+? Полған на кізі пос паза тиң тјріпче паза тиң постың синін пілінгенін паза тјрелерініңде полча. Олардың сағынғаны паза арығ сағыс  пар паза харындастар чіли тудынарға киректер.
+:   lang: kjh
+    lang_639_3: kjh
+    lang_full: kjh-Cyrl-RU
+    lang_bcp_udhr: kjh
+    name_udhr: Khakas
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: kjh
+? ᨾᨶᩩᩔ᩼ᨴ᩠ᨦᩢᩉᩖᩣ᩠ᨿᨠᩮ᩠ᨯᩨᨾᩣᨾᩦᨻ᩠ᨦᩈᩁᩓᩢᨹ᩠ᨿ᩵ᨦᨻ᩠ᨿᨦᨠ᩠ᨶᩢ ᨶᩱᨠᩥᨲ᩠ᨲᩥᩈ᩠ᨠᩢ ᩓᩢᩈᩥᨴ᩠ᨵᩥ ᨲ᩵ᩣ᩠ᨦᨣᩳ᩶ᨣᩢᨾᩦᨾᨶᩮᩣᨵᨾ᩠ᨾ᩼ᩓᩢ ᨣ᩠ᩅᩁᨷᨭᩥᨷ᩠ᨲᩢᨲᩳ᩵ᨠ᩠ᨶᩢᨯᩢ᩠ᩅ᩠ᨿᨣ᩠ᩅᩣ᩠ᨾᨹ᩠ᨿ᩵ᨦᨻ᩠ᨿᨦᨠ᩠ᨶᩢ
+:   lang: kkh
+    lang_639_3: kkh
+    lang_full: kkh-Lana-TH
+    lang_bcp_udhr: kkh-Lana
+    name_udhr: Khün
+    script: Lana
+    source: https://unicode.org/udhr/
+    udhr_key: kkh_lana
+? O athu woso avwala abhuluka ni kusokela mu kijingu ni mu itekelu. Ene ala ni ulungilu ni kilunji ni atokala kulaya kumoxi nya akwa mu mixima ya undandu.
+:   lang: kmb
+    lang_639_3: kmb
+    lang_full: kmb-Latn-AO
+    lang_bcp_udhr: kmb
+    name_udhr: Mbundu
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kmb
+? Adamgana woso kambe katambo ye daraja-a hakkiwa-ason kalkalye. Hankal-a nazaru-asoro kəzəpkə ye suro hal nəmharamiben kamazasoga letaiyin ye.
+:   lang: kr
+    lang_639_3: knc
+    lang_full: knc-Latn-ZZ
+    lang_bcp_udhr: kr
+    name_udhr: Kanuri, Central
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: knc
+? Bantu nyonso, na mbutukulu kevwandaka na kimpwanza ya bawu, ngenda mpe baluve ya mutindu mosi. Mayela na mbanzulu je na bawu, ni yawu yina bafwana kusalasana na bumpangi.
+:   lang: ktu
+    lang_639_3: ktu
+    lang_full: ktu-Latn-US
+    lang_bcp_udhr: ktu
+    name_udhr: Kituba
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ktu
+? Bizingi bioso bisiwu ti batu bambutukanga mu kidedi ki buzitu ayi kibumswa. Bizingi-bene, batu, badi diela ayi tsi-ntima, bafwene kuzingila mbatzi-na-mbatzi-yandi mu mtima bukhomba.
+:   lang: kg
+    lang_639_3: kng
+    lang_full: kg-Latn-CD
+    lang_bcp_udhr: kg-AO
+    name_udhr: Koongo (Angola)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kng_AO
+? Быдӧс отирыс чужӧны вольнӧйезӧн да ӧткоддезӧн  достоинствоын да правоэзын. Нылӧ сетӧм мывкыд да совесть овны ӧтамӧдныскӧт кыдз воннэзлӧ.
+:   lang: koi
+    lang_639_3: koi
+    lang_full: koi-Cyrl-RU
+    lang_bcp_udhr: koi
+    name_udhr: Komi-Permyak
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: koi
+? Abandu omububuthiranwa bakabuthawa ibanawithe obuthoki nobuholho obulingirirene, mobahangikwa ibanawithe amenge, neryo ibakathoka erighabania abathya ekibuya nekisandire. Nokweryo
+    buli muyima atholere eryanza munyikiwe ngababuthenwe.
+:   lang: koo
+    lang_639_3: koo
+    lang_full: koo-Latn-US
+    lang_bcp_udhr: koo
+    name_udhr: Konjo
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: koo
+모든 인간은 태어날 때부터 자유로우며 그 존엄과 권리에 있어 동등하다. 인간은 천부적으로 이성과 양심을 부여받았으며 서로 형제애의 정신으로 행동하여야 한다.:
+    lang: ko
+    lang_639_3: kor
+    lang_full: ko-Hang-KR
+    lang_bcp_udhr: ko
+    name_udhr: Korean
+    script: Hang
+    source: https://unicode.org/udhr/
+    udhr_key: kor
+? Bonse bantu basemwa bakasuluka kabiji baesakena pamo mubuneme. Baji na maana a kulanguluka kabiji bobila bantu bakwabo byubilo bakwibasekesha.
+:   lang: kqn
+    lang_639_3: kqn
+    lang_full: kqn-Latn-US
+    lang_bcp_udhr: kqn
+    name_udhr: Kaonde
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kqn
+? wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o tOngdo ni, bEtu nOn yiyando a kullo, o kon ni naan tu dua mim maalyan kalapilOyEyi ni.
+:   lang: kqs
+    lang_639_3: kqs
+    lang_full: kqs-Latn-ZZ
+    lang_bcp_udhr: kqs
+    name_udhr: Kissi, Northern
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kqs
+? ɛvribɔdi bɔn fri ɛn gɛt in yon rayt, nɔn wan nɔ pas in kɔmpin. Wi ɔl ebul fɔ tink ɛn fɛnɔt wetin rayt ɛn rɔŋ pantap dat wi fɔ sabi aw fɔ liv lɛk wan big famili.
+:   lang: kri
+    lang_639_3: kri
+    lang_full: kri-Latn-SL
+    lang_bcp_udhr: kri
+    name_udhr: Krio
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kri
+? |-
+    Kai rahvas roittahes vällinny da taza-arvozinnu omas arvos da oigevuksis.
+    Jogahizele heis on annettu mieli da omatundo da heil vältämättäh
+    pidäy olla keskenäh, kui vellil.
+:   lang: krl
+    lang_639_3: krl
+    lang_full: krl-Latn-RU
+    lang_bcp_udhr: krl
+    name_udhr: Karelian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: krl
+'[?]':
+    lang: kwi
+    lang_639_3: kwi
+    lang_full: kwi-Latn-US
+    lang_bcp_udhr: kwi
+    name_udhr: Awa-Cuaiquer
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: kwi
+? Todos los umanos nasen libres i iguales en dinyidad i derechos i, komo estan ekipados de razon i konsensia, deven komportarsen kon ermandad los unos kon los otros.
+:   lang: lad
+    lang_639_3: lad
+    lang_full: lad-Latn-IL
+    lang_bcp_udhr: lad
+    name_udhr: Ladino
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lad
+? ມະນຸດເກີດມາມີສິດເສລີພາບ ແລະ ສະເໝີໜ້າກັນໃນທາງກຽດຕິສັກ ແລະ ທາງສິດດ້ວຍມະນຸດມີສະຕິສຳປັດຊັນຍະ(ຮູ້ດີຮູ້ຊົ່ວ)ແລະມີມະໂນທຳຈື່ງຕ້ອງປະພຶດຕົນຕໍ່ກັນໃນທາງພີ່ນ້ອງ.
+:   lang: lo
+    lang_639_3: lao
+    lang_full: lo-Laoo-LA
+    lang_bcp_udhr: lo
+    name_udhr: Lao
+    script: Laoo
+    source: https://unicode.org/udhr/
+    udhr_key: lao
+? Omnes homines dignitate et iure liberi et pares nascuntur, rationis et conscientiae participes sunt, quibus inter se concordiae studio est agendum.
+:   lang: la
+    lang_639_3: lat
+    lang_full: la-Latn-VA
+    lang_bcp_udhr: la
+    name_udhr: Latin
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lat
+? Omnes homines liberi aequique dignitate atque juribus nascuntur. Ratione conscientiaque praediti sunt et alii erga alios cum fraternitate se gerere debent.
+:   lang: la
+    lang_639_3: lat
+    lang_full: la-Latn-VA
+    lang_bcp_udhr: la
+    name_udhr: Latin (1)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lat_1
+? Visi cilvēki piedzimst brīvi un vienlīdzīgi savā pašcieņā un tiesībās. Viņi ir apveltīti ar saprātu un sirdsapziņu, un viņiem jāizturas citam pret citu brālības garā.
+:   lang: lv
+    lang_639_3: lvs
+    lang_full: lv-Latn-LV
+    lang_bcp_udhr: lv
+    name_udhr: Latvian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lav
+? Biya-mɛti fooma be kiyo ka kuyankaŋ iŋ kasɛmbɛ mɛnɛ in ka yiki. Bindɛ kiŋ ba niyɔ in masimɔkɔ, maka yiina wo ka hu wɛndi yande.
+:   lang: lia
+    lang_639_3: lia
+    lang_full: lia-Latn-ZZ
+    lang_bcp_udhr: lia
+    name_udhr: Limba, West-Central
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lia
+? Tutte e personn-e nascian libere e pæge in dignitæ e driti. Son dotæ de raxon e coscensa e gh’an da agî l’unn-a verso l’atra inte ’n spirito de fradelansa.
+:   lang: lij
+    lang_639_3: lij
+    lang_full: lij-Latn-IT
+    lang_bcp_udhr: lij
+    name_udhr: Ligurian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lij
+? Bato nyonso na mbotama bazali nzomi pe bakokani na limemya pe makoki. Bazali na mayele pe basengeli kofanda na bondeko okati na bango.
+:   lang: ln
+    lang_639_3: lin
+    lang_full: ln-Latn-CD
+    lang_bcp_udhr: ln
+    name_udhr: Lingala
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lin
+? Bato nyɔ́nsɔ na mbótama bazalí nsɔ́mí mpé bakókání na limɛmya mpé makokí. Bazalí na mayɛ́lɛ mpé basengélí kovánda na bondeko o káti na bangó.
+:   lang: ln
+    lang_639_3: lin
+    lang_full: ln-Latn-CD
+    lang_bcp_udhr: ln
+    name_udhr: Lingala (tones)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lin_tones
+? Visi žmonės gimsta laisvi ir lygūs savo orumu ir teisėmis. Jiems suteiktas protas ir sąžinė ir jie turi elgtis vienas kito atžvilgiu kaip broliai.
+:   lang: lt
+    lang_639_3: lit
+    lang_full: lt-Latn-LT
+    lang_bcp_udhr: lt
+    name_udhr: Lithuanian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lit
+? Dötes les porsones nasc lëdies y cun la medema dignité y i medemi dërć. Ares à na rajun y na cosciënza y mëss s’incuntè öna cun l’atra te n spirit de fraternité.
+:   lang: lld
+    lang_639_3: lld
+    lang_full: lld-Latn-US
+    lang_bcp_udhr: lld
+    name_udhr: Ladin
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lld
+? Totes los èssers umans naisson liures e egals en dignitat e en dreches. Son dotats de rason e de consciéncia e se devon comportar los unes amb los autres dins un esperit de fraternitat.
+:   lang: oc
+    lang_639_3: oci
+    lang_full: oc-Latn-FR
+    lang_bcp_udhr: oc
+    name_udhr: Occitan (Languedocien)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lnc
+? Á dzə̀ə́ wir dzə̀m réŋréŋ fó ghvəm wùn à fó ghày, á yo’ dzə̀ə́ wir msòŋ ji kwàn. Wìr dzə̀m k̀m k fómo woo fó kwà’tì wùn à fó vifii, a wù kér fó a yiì e wùmò’ woo wír moo fə́r və.
+:   lang: lns
+    lang_639_3: lns
+    lang_full: lns-Latn-ZZ
+    lang_bcp_udhr: lns
+    name_udhr: Lamnso'
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lns
+? Teehuu sʋnɔ n ther ɛɛ nɩɩ bʋnɔ wa n do deeaʔ sɩ wʋ n makha samɩnɩ na nà hʋ tɩnɛpar rà. Thangba ti yɛr à pɛ yɛr jɩɩr nà fɩlwɛ sɩ a teena waan fʋkha omkhaa.
+:   lang: lob
+    lang_639_3: lob
+    lang_full: lob-Latn-US
+    lang_bcp_udhr: lob
+    name_udhr: Lobi
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lob
+? |-
+    lsiuni aati dang iko ahodc hade ihaniere erre boo ve isi orrijori dang to
+    nelotulo. Owoni isi iko negigilita bwo ve iko ataja. Ongida isi ihanie
+    awatek hosi ihwo elarak.
+:   lang: lot
+    lang_639_3: lot
+    lang_full: lot-Latn-US
+    lang_bcp_udhr: lot
+    name_udhr: Otuho
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lot
+? Batu kaufela ba pepilwe inge ba lukuluhile ni liswanelo ze swana. Ba ba ni swanelo ya ku nahana mi ba swanela ku ba ni likezo za buzwale ku mutu yo mung'wi.
+:   lang: loz
+    lang_639_3: loz
+    lang_full: loz-Latn-ZM
+    lang_bcp_udhr: loz
+    name_udhr: Lozi
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: loz
+? All Mënsch kënnt fräi a mat deer selwechter Dignitéit an dene selwechte Rechter op d'Welt. Jiddereen huet säi Verstand a säi Gewësse krut an soll an engem Geescht vu Bridderlechkeet
+    denen anere géintiwwer handelen.
+:   lang: lb
+    lang_639_3: ltz
+    lang_full: lb-Latn-LU
+    lang_bcp_udhr: lb
+    name_udhr: Luxembourgeois
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ltz
+? Bantu bonsu badi baledibwa badikadile ne badi ne makokeshi amwe. Badi ne lungenyi lwa bumuntu ne kondo ka moyo, badi ne bwa kwenzelangana malu mu buwetu.
+:   lang: lua
+    lang_639_3: lua
+    lang_full: lua-Latn-CD
+    lang_bcp_udhr: lua
+    name_udhr: Luba-Kasai
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lua
+? Vatu vosena vasemuka yapwa hohamwe nakweseka mukuyoya chavo. Vatwama nachiyoyelo chalusesa chajingolo chakuzanga kulivwashana muchiyoyelo chavo.
+:   lang: lue
+    lang_639_3: lue
+    lang_full: lue-Latn-US
+    lang_bcp_udhr: lue
+    name_udhr: Luvale
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lue
+? Abantu bazaalibwa nga balina eddembe n'obuyinza ebyenkanankana, batondebwa nga balina amagezi era nga basobola okwawula ekirungi n'ekibi bwebatyo, buli omu agwana okuyisa munne nga
+    muganda we.
+:   lang: lg
+    lang_639_3: lug
+    lang_full: lg-Latn-UG
+    lang_bcp_udhr: lg
+    name_udhr: Ganda
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lug
+? Muntu wejima wasemuka walukbuka wesekana hamu ni akwawu mukumulemesha. Wenkewa kutong'ojoka nikuzatila hamu nimukwawu muntu muwunta'a.
+:   lang: lun
+    lang_639_3: lun
+    lang_full: lun-Latn-US
+    lang_bcp_udhr: lun
+    name_udhr: Lunda
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lun
+? Mi zawng zawng hi zalêna piang kan ni a, zahawmna leh dikna chanvoah intluk tlâng vek kan ni. Chhia leh tha hriatna fîm neia siam kan nih avangin kan mihring puite chungah inunauna
+    thinlung kan pu tlat tur a ni.
+:   lang: lus
+    lang_639_3: lus
+    lang_full: lus-Latn-US
+    lang_bcp_udhr: lus
+    name_udhr: Mizo
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: lus
+? Sadajana oreng lahir mardika e sarenge drajat klaban hak-hak se dha-padha. Sadajana eparenge akal sareng nurani ban kodu areng-sareng akanca kadi taretan.
+:   lang: mad
+    lang_639_3: mad
+    lang_full: mad-Latn-ID
+    lang_bcp_udhr: mad
+    name_udhr: Madura
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mad
+? सब लोग आजादे जन्म लेब हई तथा सब के बराबरे सम्मान और अधिकार हइ। हुनखो के पास समझ-बूझ और अंत:करण के आवाज होब हई। और हुनका दोसरो के साथ भाईचारा के व्यवहार करे पड़ हई।
+:   lang: mag
+    lang_639_3: mag
+    lang_full: mag-Deva-IN
+    lang_bcp_udhr: mag
+    name_udhr: Magahi
+    script: Deva
+    source: https://unicode.org/udhr/
+    udhr_key: mag
+? Armij otemjej rej rujlok ilo anemkwoj im jonon utiej eo im maron ko air wot juon. Emwij lelok non ir maron in bukot non ir make im bareinwot boklikot kin men ko rej tomaki im bwe jerbal
+    non dron ilo juon jitobon jimpenjatin.
+:   lang: mh
+    lang_639_3: mah
+    lang_full: mh-Latn-MH
+    lang_bcp_udhr: mh
+    name_udhr: Marshallese
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mah
+? सभ मानव जन्मतः स्वतन्त्र अछि तथा गरिमा आʼ अधिकारमे समान अछि। सभकेँ अपन–अपन बुद्धि आʼ विवेक छैक आओर सभकेँ एक दोसराक प्रति सौहार्दपूर्ण व्यवहार करबाक चाही।
+:   lang: mai
+    lang_639_3: mai
+    lang_full: mai-Deva-IN
+    lang_bcp_udhr: mai
+    name_udhr: Maithili
+    script: Deva
+    source: https://unicode.org/udhr/
+    udhr_key: mai
+? മനുഷ്യരെല്ലാവരും തുല്യാവകാശങ്ങളോടും അന്തസ്സോടും സ്വാതന്ത്ര്യത്തോടുംകൂടി ജനിച്ചിട്ടുള്ളവരാണ്‌. അന്യോന്യം ഭ്രാതൃഭാവത്തോടെ പെരുമാറുവാനാണ്‌ മനുഷ്യന്നു വിവേകബുദ്ധിയും മനസ്സാക്ഷിയും സിദ്ധമായിരിക്കുന്നത്‌.
+:   lang: ml
+    lang_639_3: mal
+    lang_full: ml-Mlym-IN
+    lang_bcp_udhr: ml
+    name_udhr: Malayalam
+    script: Mlym
+    source: https://unicode.org/udhr/
+    udhr_key: mal_chillus
+? Kyaqiilqe winaq nchi itz'aj tuj kopib'il, juunx kychuwiinqal b'ix kyokleen, kyja'tzan tuj tb'aanal xiinv'il tu'n kyanq'iin tuj b'ank'u'j kyxool.
+:   lang: mam
+    lang_639_3: mam
+    lang_full: mam-Latn-US
+    lang_bcp_udhr: mam
+    name_udhr: Mam, Northern
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mam
+? सर्व मानवी व्यक्ति जन्मतःच स्वतंत्र आहेत व त्यांना समान प्रतिष्ठा व समान अधिकार आहेत. त्यांना विचारशक्ति व सदसविद्वेकबुद्धि लाभलेली आहे. व त्यांनी एकमेकांशी बंधुत्याच्या भावनेने आचरण
+    करावे.
+:   lang: mr
+    lang_639_3: mar
+    lang_full: mr-Deva-IN
+    lang_bcp_udhr: mr
+    name_udhr: Marathi
+    script: Deva
+    source: https://unicode.org/udhr/
+    udhr_key: mar
+Texe yo nte̱'e̱ chjetrjoji, angezeji ximi xo'oji ñeje k'inchiji, nesta ra ngara na jo'o k'o dyaja e nte̱'e̱.:
+    lang: maz
+    lang_639_3: maz
+    lang_full: maz-Latn-MX
+    lang_bcp_udhr: maz
+    name_udhr: Mazahua Central
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: maz
+? Nantifin naanno rasisin cainnifoquin. Tsoan mato iscahuatiroma cuscan, -Manfin uhuunnacoinquin. Ahuua tsacatama rarama shara ninonfo ishon. Nantififain aton mapo shinantirofoquin.
+    Ato nomuranrin chaca iyamarain sharamainqui icashon. Ascanrifiantan nantifin manifoti yorahuan tanannon icashu.
+:   lang: mcd
+    lang_639_3: mcd
+    lang_full: mcd-Latn-US
+    lang_bcp_udhr: mcd
+    name_udhr: Sharanahua
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mcd
+? Chidon tishaido yec matses abitedimbo bëdamboec isnanac bëdambo ictsiash. Chieshnanac icsambo ictsiash. Abitedimbo bëdamboec tabadac bëdambo ictsiash. Shubu abentsëcquidën tabadac
+    birnboec abitedi tabadac bëdambo ictsiash - quequin chuipanëdash nidaid abitedinoësh cho-choquidon.
+:   lang: mcf
+    lang_639_3: mcf
+    lang_full: mcf-Latn-US
+    lang_bcp_udhr: mcf
+    name_udhr: Matsés
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mcf
+? Numuvuisia Kpɛlɛɛ ta ti le tɛ yɛ nduwɔ ya hu, tao ti nuvuu yei kɛɛ ti lɔnyi maa hɛwungɔ. Kiiya kɛɛ hindaluahu gɔɔla a yɛlɔ ti hun. Fale mahoungɔ ti ti nyɔnyɔhu hoi kia ndeegaa.
+:   lang: men
+    lang_639_3: men
+    lang_full: men-Latn-SL
+    lang_bcp_udhr: men
+    name_udhr: Mende
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: men
+? Nifoi kul maal yendu buam po i, k b yudand yen b yiko-nba biɛ ja. B mɔg maalm g ban yal g ŋan, g biɛ baa bu yen lieb naataann n ninŋ i.
+:   lang: mfq
+    lang_639_3: mfq
+    lang_full: mfq-Latn-ZZ
+    lang_bcp_udhr: mfq
+    name_udhr: Moba
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mfq
+Msit mimajulnu’k weskwijinu’ltijik alsumsultijik aqq newte’ tett wkpimte’tmut aqq koqwajo’taqnn wejkul’aqmititl.:
+    lang: mic
+    lang_639_3: mic
+    lang_full: mic-Latn-US
+    lang_bcp_udhr: mic
+    name_udhr: Micmac
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mic
+? Sadonyo manusia dilahiakan mardeka dan punyo martabat sarato hak-hak nan samo. Mareka dikaruniai aka jo hati nurani, supayo satu samo lain bagaul sarupo urang badunsanak.
+:   lang: min
+    lang_639_3: min
+    lang_full: min-Latn-ID
+    lang_bcp_udhr: min
+    name_udhr: Minangkabau
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: min
+? Upla sut ba kulkanka lakara, airaitka nanira bara pri, sin, aikuki, baku takisa. Bamna sins laka bri baku, lukanka bain pri baku aimuihni lakara, pana pana tabaikan kaiasa.
+:   lang: miq
+    lang_639_3: miq
+    lang_full: miq-Latn-US
+    lang_bcp_udhr: miq
+    name_udhr: Mískito
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: miq
+? Сите човечки суштества се раѓаат слободни и еднакви по достоинство и права. Тие се обдарени со разум и совест и треба да се однесуваат еден кон друг во духот на општо човечката припадност.
+:   lang: mk
+    lang_639_3: mkd
+    lang_full: mk-Cyrl-MK
+    lang_bcp_udhr: mk
+    name_udhr: Macedonian
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: mkd
+? Il-bnedmin kollha jitwieldu ħielsa u ugwali fid-dinjità u d-drittijiet. Huma mogħnija bir-raġuni u bil-kuxjenza u għandhom iġibu ruħhom ma’ xulxin bi spirtu ta’ aħwa.
+:   lang: mt
+    lang_639_3: mlt
+    lang_full: mt-Latn-MT
+    lang_bcp_udhr: mt
+    name_udhr: Maltese
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mlt
+? سموا مأنسي دلاهيركن بيبس دان سامرات دري سڬي كموليأن دان حق٢. مريك ممڤوڽاي ڤميكيرن دان ڤراسأن هاتي دان هندقله برتيندق د انتارا ساتو سام لائن دڠن سماڠت ڤرساودارأن.
+:   lang: zlm
+    lang_639_3: zlm
+    lang_full: zlm-Arab-TG
+    lang_bcp_udhr: zlm-Arab
+    name_udhr: Malay (Arabic)
+    script: Arab
+    source: https://unicode.org/udhr/
+    udhr_key: mly_arab
+? Semua manusia dilahirkan bebas dan samarata dari segi kemuliaan dan hak-hak. Mereka mempunyai pemikiran dan perasaan hati dan hendaklah bertindak di antara satu sama lain dengan semangat
+    persaudaraan.
+:   lang: zlm
+    lang_639_3: zlm
+    lang_full: zlm-Latn-TG
+    lang_bcp_udhr: zlm-Latn
+    name_udhr: Malay (Latin)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mly_latn
+? မၞိဟ်ဂမၠိုၚ် အိုဿီုတအ်ဝွံ စနူသၠးတိတ် နူဂဝ်ဂၞဴ ဒှ်မၞိဟ်သၠးပွးအိုတ်တုဲ အခေါၚ်အရာ ကေုာံ သိက္ခာမၞိဟ်တအ် တုပ် သၟဟ်ရ။ မၞိဟ်တအ်ဂှ် နွံကဵုဓရ်စၚ်ခြၚ်ကေုာံ သမ္တီညာဏ် ဓဝ်ပါ်ပဲါ ခိုဟ်ပရေံနွံတုဲ
+    ညးမွဲ ကေုာံ ညးမွဲ ထေက်ကဵု သ္ဒးဒ္ဂေတ်ဗက် ဆက်ဆောံညးသ္ကအ် နစိုတ်ဓာတ်ကောံဒေံအရေ။
+:   lang: mnw
+    lang_639_3: mnw
+    lang_full: mnw-Mymr-MM
+    lang_bcp_udhr: mnw
+    name_udhr: Mon
+    script: Mymr
+    source: https://unicode.org/udhr/
+    udhr_key: mnw
+? Leđa pređ lalǝŋǝnia lëbǝrëinialo na lǝɽǝwaṯo eŋen ŋǝđamia na eŋen pređ iŋi ŋǝrcađaṯo ṯa leđa alǝfiđi. Lënŋulu pređ lananëinu đǝnaca đame ɽetǝɽeto na ara gǝŋǝra ŋenŋanṯa alǝɽǝwađaṯe
+    alamǝđaiđe bǝɽan usilaga gǝŋǝlǝŋǝnia na gǝŋorba.
+:   lang: mor
+    lang_639_3: mor
+    lang_full: mor-Latn-US
+    lang_bcp_udhr: mor
+    name_udhr: Moro
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mor
+? Ninsaalbã fãa sã n doge, ned fãa so a menga, ned pa rogd n yaa yamb ye, nebã fãa zema taab b yel-segdɩ la b burkĩndlem wɛɛngẽ. Nebã fãa tara yam la tagsgo, ned fãa togame n vɩɩnd
+    ne a to saam-biir pʊgẽ.
+:   lang: mos
+    lang_639_3: mos
+    lang_full: mos-Latn-BF
+    lang_bcp_udhr: mos
+    name_udhr: Mòoré
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mos
+? Ko te katoa o nga tangata i te whanaungatanga mai e watea ana i nga here katoa; e tauriterite ana hoki nga mana me nga tika. E whakawhiwhia ana hoki ki a ratou te ngakau whai whakaaro
+    me te hinengaro mohio ki te tika me te he, a e tika ana kia meinga te mahi a tetahi ki tetahi me ma roto atu i te wairua o te noho tahi, ano he teina he tuakana i ringa i te whakaaro
+    kotahi.
+:   lang: mi
+    lang_639_3: mri
+    lang_full: mi-Latn-NZ
+    lang_bcp_udhr: mi
+    name_udhr: Maori
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mri
+? Tum akijpxa xa ve’e jayu kye’ex, ve’em ax jö’n tyukidaakjüva tijaty mëkin; ve’empa axjö’n jä jyööjtykin di yaknaxy, jats oy myujatyöö’tëjk di mëët nayjavajüt.
+:   lang: mto
+    lang_639_3: mto
+    lang_full: mto-Latn-US
+    lang_bcp_udhr: mto
+    name_udhr: Mixe, Totontepec
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mto
+? Totos les esseres humanos nascent libberos et eguales in dignitate e dretos e, dotatos commo stant de racione e conscientia, devent comportarse in germanitate les unos con les altros.
+:   lang: mxi
+    lang_639_3: mxi
+    lang_full: mxi-Latn-US
+    lang_bcp_udhr: mxi
+    name_udhr: Mozarabic
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mxi
+? Taka ma ñayi nguiakoi ñayivi ñatu na ja'a tnu'u ja kusa'a ndeva'ña-i, su'uva kajito va'aña-i, yuka ku ja jiniñu'u ja kukototna-i.
+:   lang: mxv
+    lang_639_3: mxv
+    lang_full: mxv-Latn-US
+    lang_bcp_udhr: mxv
+    name_udhr: Mixtec, Metlatónoc
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mxv
+? လူတိုင်းသည် တူညီ လွတ်လပ်သော ဂုဏ်သိက္ခာဖြင့် လည်းကောင်း၊ တူညီလွတ်လပ်သော အခွင့်အရေးများဖြင့် လည်းကောင်း၊ မွေးဖွားလာသူများ ဖြစ်သည်။ ထိုသူတို့၌ ပိုင်းခြား ဝေဖန်တတ်သော ဉာဏ်နှင့် ကျင့်ဝတ်
+    သိတတ်သော စိတ်တို့ရှိကြ၍ ထိုသူတို့သည် အချင်းချင်း မေတ္တာထား၍ ဆက်ဆံကျင့်သုံးသင့်၏။
+:   lang: my
+    lang_639_3: mya
+    lang_full: my-Mymr-MM
+    lang_bcp_udhr: my
+    name_udhr: Burmese
+    script: Mymr
+    source: https://unicode.org/udhr/
+    udhr_key: mya
+? Nga ndindie xuta ngatsen de’e ko ngondsejen ngatjin-kjua nga xchandinkon nt’a ngondsejen ngatjin kokjin-tokon,kotjinkjua nga takie engajan skuendinkon xkjin.
+:   lang: mzi
+    lang_639_3: mzi
+    lang_full: mzi-Latn-US
+    lang_bcp_udhr: mzi
+    name_udhr: Mazatec, Ixcatlán
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: mzi
+人人生而自由，在尊严合权利上一律平等。因赋有脾胃合道行，并着以兄弟关系的精神相对待。:
+    lang: nan
+    lang_639_3: nan
+    lang_full: nan-Hans-CN
+    lang_bcp_udhr: nan
+    name_udhr: Chinese, Min Nan
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: nan
+? Bilaʼashdaʼii tʼáá ałtsoh yiníkʼehgo bidizhchįh dóó aheełtʼeego ílį́į́go bee baahóchįʼ. Eíí háníʼ dóó hánítshakees hwiihdaasyaʼ eíí binahjį́ʼ ahidiníłnáhgo álíleekʼehgo kʼé bee ahił
+    niidlį́.
+:   lang: nv
+    lang_639_3: nav
+    lang_full: nv-Latn-US
+    lang_bcp_udhr: nv
+    name_udhr: Navajo
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nav
+? Vanu voxe vakasemuka mu cizango co mumo lika mu vulemu co kulimanena. Vakevo vakala na mangana co na mbunge co vana pande kulinga vamo na vakwavo na mbunge ya vuna yina.
+:   lang: nba
+    lang_639_3: nba
+    lang_full: nba-Latn-US
+    lang_bcp_udhr: nba
+    name_udhr: Nyemba
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nba
+? Abantu bonke bazalwa bekhululekile njalo belingana kumalungelo abo. Balesipho sikanembeza, ngakho bamele baphathane ngomoya otshengisa ubuhlobo lobunye.
+:   lang: nr
+    lang_639_3: nbl
+    lang_full: nr-Latn-ZA
+    lang_bcp_udhr: nr
+    name_udhr: Ndebele
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nbl
+? Aantu ayehe oya valwa ye na emanguluko noye na ondilo yi thike pamwe osho wo uuthemba. Oye na omaipulo goondunge neiuvo onkene naa kalathane mombepo yuumwainathana.
+:   lang: ng
+    lang_639_3: ndo
+    lang_full: ng-Latn-NA
+    lang_bcp_udhr: ng
+    name_udhr: Ndonga
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ndo
+? All de Minschen sünd frie un gliek an Wüürd un Rechten baren. Se hebbt Vernunft un een Geweten un se schüllt sik Bröder sien.
+:   lang: nds
+    lang_639_3: nds
+    lang_full: nds-Latn-DE
+    lang_bcp_udhr: nds
+    name_udhr: Saxon, Low
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nds
+? सबै व्यक्ति हरू जन्मजात स्वतन्त्र हुन ती सबैको समान अधिकार र महत्व छ। निजहरूमा विचार शक्ति र सद्धिचार भएकोले निजहरूले आपसमा भातृत्वको भावना बाट व्यवहार गर्नु पर्छ।
+:   lang: ne
+    lang_639_3: npi
+    lang_full: ne-Deva-NP
+    lang_bcp_udhr: ne
+    name_udhr: Nepali
+    script: Deva
+    source: https://unicode.org/udhr/
+    udhr_key: nep
+? Nochi tlakamej uan siuamej kipiaj manoj kuali tlakatisej, nochi san se totlatechpouiltilis uan titlatepanitalojkej, yeka moneki kuali ma timouikakaj, ma timoiknelikaj, ma timotlasojtlakaj
+    uan ma timotlepanitakaj.
+:   lang: nhn
+    lang_639_3: nhn
+    lang_full: nhn-Latn-US
+    lang_bcp_udhr: nhn
+    name_udhr: Nahuatl, Central
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nhn
+? Бәнде” ӈанасанә” ӈәтукәнды” нендя”туо” ӈонә хонсы хелиде” ӈиле мәнәй (правай). Сытыӈ хонды” ӈиле ӈонда ӈонә сяру, дүзытәндыӈ ихүтүӈ нягәә” сүөарусә”.
+:   lang: nio
+    lang_639_3: nio
+    lang_full: nio-Cyrl-RU
+    lang_bcp_udhr: nio
+    name_udhr: Nganasan
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: nio
+? Ko e tau tagata momoui oti kua fanau ai ke he fakatokanoaaga mo e fakatatai oti e tau tutuaga mo e tau tonuhia. Kua moua ai foki e lautolu e kakano mo e manamanatuaga ti kua lata ni
+    ke fakafetui e taha ke he taha ke he agaga fakamatakainaga.
+:   lang: niu
+    lang_639_3: niu
+    lang_full: niu-Latn-NU
+    lang_bcp_udhr: niu
+    name_udhr: Niue
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: niu
+? Meimchir ajak temeten aser tashi kasa nüji nung asor. Parnok dak bilemtettsü shisatsü aser tangatetba kasa agüja aliba jagi külem adianu rongnung tanela ka nung lungjema alitsüla.
+:   lang: njo
+    lang_639_3: njo
+    lang_full: njo-Latn-IN
+    lang_bcp_udhr: njo
+    name_udhr: Naga, Ao
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: njo
+Igooyoo pɛɛ hʋn taa. Bɔ pɛɛ jabaga bɔrɔ. Hɔ ya gʋʋn’n bɔɔ hɛ pɛɛ, hɔ hɛ gusɛgɛ’n.:
+    lang: nku
+    lang_639_3: nku
+    lang_full: nku-Latn-US
+    lang_bcp_udhr: nku
+    name_udhr: Kulango, Bouna
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nku
+? Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Zij zijn begiftigd met verstand en geweten, en behoren zich jegens elkander in een geest van broederschap te gedragen.
+:   lang: nl
+    lang_639_3: nld
+    lang_full: nl-Latn-NL
+    lang_bcp_udhr: nl
+    name_udhr: Dutch
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nld
+? Alle menneske er fødde til fridom og med same menneskeverd og menneskerettar. Dei har fått fornuft og samvit og skal leve med kvarandre som brør.
+:   lang: nn
+    lang_639_3: nno
+    lang_full: nn-Latn-NO
+    lang_bcp_udhr: nn
+    name_udhr: Norwegian, Nynorsk
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nno
+? Alle mennesker er født frie og med samme menneskeverd og menneskerettigheter. De er utstyrt med fornuft og samvittighet og bør handle mot hverandre i brorskapets ånd.
+:   lang: nb
+    lang_639_3: nob
+    lang_full: nb-Latn-NO
+    lang_bcp_udhr: nb
+    name_udhr: Norwegian, Bokmål
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nob
+? Antagaisati matsiguenga ibogaiguë matsiguengasonorl. Aisati icantaigaca. Teni iromerataiguengani. Antagaisati iquengaigui aisati igóiguiro ora caninaro aisati igóiguiro ora te onganinate.
+    Iroro caninataque omagaro matsiguenga iraniacaninataigueri ira basiniati matsiguenga aisati ingantaiguerí ora caninaro.
+:   lang: not
+    lang_639_3: not
+    lang_full: not-Latn-US
+    lang_bcp_udhr: not
+    name_udhr: Nomatsiguenga
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: not
+? Batho ka moka ba belegwe ba lokologile le gona ba na le seriti sa go lekana le ditokelo. Ba filwe monagano le letswalo mme ba swanetše go swarana ka moya wa bana ba mpa.
+:   lang: nso
+    lang_639_3: nso
+    lang_full: nso-Latn-ZA
+    lang_bcp_udhr: nso
+    name_udhr: Sotho, Northern
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nso
+? Anthu onse amabadwa aufulu ndiponso ofanana mu ulemu ndi ufulu wao. Iwowa ndi wodalitsidwa ndi mphamvu zoganiza ndi chikumbumtima ndipo achitirane wina ndi mnzake mwaubale.
+:   lang: ny
+    lang_639_3: nya
+    lang_full: ny-Latn-MW
+    lang_bcp_udhr: ny
+    name_udhr: Nyanja (Chechewa)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nya_chechewa
+? Anthu onse amabadwa mwa ufulu ndiponso olinganga m' makhalidwe ao. Iwo amakhala ndi nzeru za cibadwidwe kotero ayenera kucitirana zabwino wina ndi mnzace.
+:   lang: ny
+    lang_639_3: nya
+    lang_full: ny-Latn-MW
+    lang_bcp_udhr: ny
+    name_udhr: Nyanja (Chinyanja)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nya_chinyanja
+Banhu bose bubyalagwa biyagalulile, n’ikujo haki zilenganelile.:
+    lang: nym
+    lang_639_3: nym
+    lang_full: nym-Latn-TZ
+    lang_bcp_udhr: nym
+    name_udhr: Nyamwezi
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nym
+? Abantu nibazaarwa baine obugabe nobushoborozi ebiri kwingana nibahangwa baine obwengye kandi barikubasa kwahura ekirungi nekibi, nahabwekyo abantu bashemereire kutuura kumwe nkabanya
+    Uganda.
+:   lang: nyn
+    lang_639_3: nyn
+    lang_full: nyn-Latn-UG
+    lang_bcp_udhr: nyn
+    name_udhr: Nyankore
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nyn
+? Menli muala di bɛ ti anwo na eza noko bɛsɛ wɔ dibilɛ nee adenlenyianlɛ nu. Bɛlɛ ndwenlenwo nee adwenle, yemɔti ɔwɔ kɛ bɛkile adiemayɛlɛ bɛmaa bɛ nwo ngoko.
+:   lang: nzi
+    lang_639_3: nzi
+    lang_full: nzi-Latn-GH
+    lang_bcp_udhr: nzi
+    name_udhr: Nzema
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: nzi
+? Чипа̄ли гурунне̄ балӡичи гэвумэ, омотто мэ̄нэ мөрөнӡи, мэ̄нэ доронӡи. Но̄чи идэлу, иркалу, мэ̄нэ мэ̄нӡи на̄дактаӈачи бūчи.
+:   lang: oaa
+    lang_639_3: oaa
+    lang_full: oaa-Cyrl-RU
+    lang_bcp_udhr: oaa
+    name_udhr: Orok
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: oaa
+? Totè lè dzin vinyon ou mondo libro è parê in dinyitâ è in drê. Chon dotâ dè réjon è dè konhyinthe è dêvon chè konportâ lè j’on-lè j’ôtro din on èchpri dè fratèrnitâ.
+:   lang: oc
+    lang_639_3: oci
+    lang_full: oc-Latn-FR
+    lang_bcp_udhr: oc
+    name_udhr: Occitan (Francoprovençal, Fribourg)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: oci_1
+? Tu luz òmò vinyon u mondo, librò, tu tòton pè leû dinyitò è leû drèye. Y’on tu d’émò è dè konhyinhi è i dèvon fè- mouhò dè fratèrnitò aouèy luz òtri.
+:   lang: oc
+    lang_639_3: oci
+    lang_full: oc-Latn-FR
+    lang_bcp_udhr: oc
+    name_udhr: Occitan (Francoprovençal, Savoie)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: oci_2
+? Tî lè z’ître humain vîgnant âo mondo libro et parâi dein la dignitâ et lè drâi. L’ant reçu réson et concheince et dâivant vivre lè z’on avoué lè z’autro quemet se sant frâre et chèra.
+:   lang: oc
+    lang_639_3: oci
+    lang_full: oc-Latn-FR
+    lang_bcp_udhr: oc
+    name_udhr: Occitan (Francoprovençal, Vaud)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: oci_3
+? Tui lè jêtre humain néchon libro è pary in degnetâ é in drouê. Chon reijonâbló è dè counchieince è deivouon âzic lè j’oun vi j’avi di j’âtró in pèr oun espri dè fratèrnitâ
+:   lang: oc
+    lang_639_3: oci
+    lang_full: oc-Latn-FR
+    lang_bcp_udhr: oc
+    name_udhr: Occitan (Francoprovençal, Valais)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: oci_4
+ᑭᑲᓇᐌᓀᓐ ᑲᐱᒪᑎᓯᐗᑦ ᓂᑕᐎᑭᐗᒃ ᑎᐯᓂᒥᑎᓱᐎᓂᒃ ᒥᓇ ᑕᐱᑕ ᑭᒋᐃᓀᑕᑯᓯᐎᓐ ᑲᔦ ᑌᐸᑫᑕᑯᓯᐎᓐ. ᐅᑕᔦᓇᐗ ᒥᑲᐎᐎᓐ ᑲᔦ ᓂᑄᑲᐎᓐ ᒥᓇᐗ ᑕᔥ ᒋᐃᔑᑲᓇᐗᐸᑎᐗᐸᓐ ᐊᒐᑯ ᒥᓄᐎᒋᐎᑎᐎᓂᒃ.:
+    lang: ojb
+    lang_639_3: ojb
+    lang_full: ojb-Cans-CA
+    lang_bcp_udhr: ojb
+    name_udhr: Ojibwa, Northwestern
+    script: Cans
+    source: https://unicode.org/udhr/
+    udhr_key: ojb
+? Piik togol kosigotiik en katiagetapkei koguyet ak imandanyuwan koyuyosin togol kogigigochi ngomnotet ak koperuret en iyon konyolu koyochigei oteptop tupchondit.
+:   lang: oki
+    lang_639_3: oki
+    lang_full: oki-Latn-US
+    lang_bcp_udhr: oki
+    name_udhr: Okiek
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: oki
+? Beyel bambur zhiyu bishi, zhunyan-du bineken chuanli-du bambur pingdeng bishi. Nugartin lishing bineken liangshin bishi, akin nekun guanshi-ngi chingshen-du-in duidai-meet-ki-tin.
+:   lang: orh
+    lang_639_3: orh
+    lang_full: orh-Latn-US
+    lang_bcp_udhr: orh
+    name_udhr: Oroqen
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: orh
+? Адӕймӕгтӕ се 'ппӕт дӕр райгуырынц сӕрибарӕй ӕмӕ ӕмхуызонӕй сӕ барты. Уыдон ӕххӕст сты зонд ӕмӕ намысӕй, ӕмӕ кӕрӕдзийӕн хъуамӕ уой ӕфсымӕрты хуызӕн.
+:   lang: os
+    lang_639_3: oss
+    lang_full: os-Cyrl-GE
+    lang_bcp_udhr: os
+    name_udhr: Osetin
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: oss
+? Gotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.
+:   lang: ote
+    lang_639_3: ote
+    lang_full: ote-Latn-US
+    lang_bcp_udhr: ote
+    name_udhr: Otomi, Mezquital
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ote
+? Ding sablang tau mibait lang malaya at pante-pante king karangalan at karapatan. Ila mipagkaluban lang katuliran at konsensiya ay dapat misaupan king diwang pamikapatiran.
+:   lang: pam
+    lang_639_3: pam
+    lang_full: pam-Latn-PH
+    lang_bcp_udhr: pam
+    name_udhr: Pampangan
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: pam
+? ਸਾਰਾ ਮਨੁੱਖੀ ਪਰਿਵਾਰ ਆਪਣੀ ਮਹਿਮਾ, ਸ਼ਾਨ ਅਤੇ ਹੱਕਾਂ ਦੇ ਪੱਖੋਂ ਜਨਮ ਤੋਂ ਹੀ ਆਜ਼ਾਦ ਹੈ ਅਤੇ ਸੁਤੇ ਸਿੱਧ ਸਾਰੇ ਲੋਕ ਬਰਾਬਰ ਹਨ । ਉਨ੍ਹਾਂ ਸਭਨਾ ਨੂੰ ਤਰਕ ਅਤੇ ਜ਼ਮੀਰ ਦੀ ਸੌਗਾਤ ਮਿਲੀ ਹੋਈ ਹੈ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਭਰਾਤਰੀਭਾਵ
+    ਦੀ ਭਾਵਨਾ ਰਖਦਿਆਂ ਆਪਸ ਵਿਚ ਵਿਚਰਣਾ ਚਾਹੀਦਾ ਹੈ ।
+:   lang: pa
+    lang_639_3: pan
+    lang_full: pa-Guru-IN
+    lang_bcp_udhr: pa
+    name_udhr: Panjabi, Eastern
+    script: Guru
+    source: https://unicode.org/udhr/
+    udhr_key: pan
+? 'Tur ser humano ta nace liber y igual den dignidad y den derecho. Nan ta dota cu rason y cu consenshi y nan mester comporta nan den spirito di fraternidad pa cu otro. '
+:   lang: pap
+    lang_639_3: pap
+    lang_full: pap-Latn-AW
+    lang_bcp_udhr: pap
+    name_udhr: Papiamentu
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: pap
+? A rogui 'l chad el mechell a ngarngii a ilmokl er tir ra diosisiu el llemalt. Ngarngii er tir a uldesuir mete mo meruul el mo rar bebil lokiu a ungil 'l omeruul ra klauchad.
+:   lang: pau
+    lang_639_3: pau
+    lang_full: pau-Latn-PW
+    lang_bcp_udhr: pau
+    name_udhr: Palauan
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: pau
+? Ya'nwe'wewa'te' maa nasapa ha'dacehk hi'pku up'hi', wëtte u'huwa'hi'pta', eena' eena' f'i'zewa' hi'pta', üus hi'pta' d'ik'the hi'pta' naapa'kate. Sa' h'ukaysa üus hi'pcehktha'w sa'
+    pyakhna'we f'i'ze hi'ptha'w.
+:   lang: pbb
+    lang_639_3: pbb
+    lang_full: pbb-Latn-US
+    lang_bcp_udhr: pbb
+    name_udhr: Páez
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: pbb
+? د بشر ټول افراد ازاد نړۍ ته راځي او د حيثيت او د حقوقو له پلوه سره برابر دي۔ ټول د عقل او وجدان خاوندان دي او بايد يو له بل سره د ورورۍ په روحيه سره چلنند کړي۔
+:   lang: ps
+    lang_639_3: pbu
+    lang_full: ps-Arab-AF
+    lang_bcp_udhr: ps
+    name_udhr: Pashto, Northern
+    script: Arab
+    source: https://unicode.org/udhr/
+    udhr_key: pbu
+? Tos lès-omes vinèt å monde lîbes èt égåls po çou qu'èst d' leû dignité èt d' leûs dreûts. Leû re°zon èt leû consyince elzî fe°t on d'vwér di s'kidûre inte di zèle come dès frès
+:   lang: pcd
+    lang_639_3: pcd
+    lang_full: pcd-Latn-FR
+    lang_bcp_udhr: pcd
+    name_udhr: Picard
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: pcd
+? Everi human being, naim dem born free and dem de equal for dignity and di rights wey we get, as human beings, God come give us beta sense wey we de take tink well, well and beta mind,
+    sake for dis, we must to treat each other like broda and sister.
+:   lang: pcm
+    lang_639_3: pcm
+    lang_full: pcm-Latn-NG
+    lang_bcp_udhr: pcm
+    name_udhr: Pidgin, Nigerian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: pcm
+? تمام افراد بشر آزاد بدنیا میایند و از لحاظ حیثیت و حقوق با هم برابرند. همه دارای عقل و وجدان میباشند و باید نسبت بیکدیگر با روح برادری رفتار کنند.
+:   lang: fa
+    lang_639_3: pes
+    lang_full: fa-Arab-IR
+    lang_bcp_udhr: fa
+    name_udhr: Farsi, Western
+    script: Arab
+    source: https://unicode.org/udhr/
+    udhr_key: pes_1
+? تمام افراد بشر آزاد به دنیا می‌آیند و از لحاظ حیثیت و حقوق با هم برابرند. همه دارای عقل و وجدان هستند و باید نسبت به یکدیگر با روح برادری رفتار کنند.
+:   lang: fa
+    lang_639_3: prs
+    lang_full: fa-AF-Arab-EG
+    lang_bcp_udhr: fa-AF
+    name_udhr: Dari
+    script: Arab
+    source: https://unicode.org/udhr/
+    udhr_key: pes_2
+? Evri man en mere olketa born frii en ikwol lo digniti en raits blo olketa. Olketa evriwan olketa garem maeni fo tingting en olketa sapos fo treatim isada wittim spirit blo bradahood.
+:   lang: pis
+    lang_639_3: pis
+    lang_full: pis-Latn-US
+    lang_bcp_udhr: pis
+    name_udhr: Pijin
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: pis
+? Nganana maru tjuta, tjulkura tjuta, manta yurungka parrari nyinapayi tjutanya liipulala nyinanyi, nganana yanangu maru tjuta wiya kuyakuya. Yuwankarrangkuya palya nintingku kulini.
+    Tjanaya palya kutjupa tjutaku tjukarurru nyinanytjaku, walytja tjuta nguwanpa, mingarrtjuwiya. Tjungungku palyangku kurrunpa kutjungku. Wangka ngaangku nganananya tjakultjunanyi
+    rapa ngaranytjaku kutjupa tjuta nguwanpa.
+:   lang: piu
+    lang_639_3: piu
+    lang_full: piu-Latn-US
+    lang_bcp_udhr: piu
+    name_udhr: Pintupi-Luritja
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: piu
+? Teraka afaka sy mitovy zo sy fahamendrehana ny olombelona rehetra. Samy manan-tsaina sy fieritreretana ka tokony hifampitondra am- pirahalahiana.
+:   lang: mg
+    lang_639_3: plt
+    lang_full: mg-Latn-MG
+    lang_bcp_udhr: mg
+    name_udhr: Malagasy, Plateau
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: plt
+? سارے انسان آزاد تے حقوق تے عزت دے لحاظ نال برابر پیدا ہوندے نیں ۔ ۔ اوہ عقل سمجھ تے چنگے مندے دی پچھان تے احساس رکھدے نے ایس واسطے اوہناں نوں اک دوجے نال بھائی چارے والا سلوک کرنا
+    چاہی دا اے ۔ ۔
+:   lang: lah
+    lang_639_3: pnb
+    lang_full: lah-Arab-PK
+    lang_bcp_udhr: lah
+    name_udhr: Panjabi, Western
+    script: Arab
+    source: https://unicode.org/udhr/
+    udhr_key: pnb
+? Wszyscy ludzie rodzą się wolni i równi pod względem swej godności i swych praw. Są oni obdarzeni rozumem i sumieniem i powinni postępować wobec innych w duchu braterstwa.
+:   lang: pl
+    lang_639_3: pol
+    lang_full: pl-Latn-PL
+    lang_bcp_udhr: pl
+    name_udhr: Polish
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: pol
+? Tohn sampa karos ipwiwei nan saledek oh duwepenehte nan arail wasa oh arail pwung. Arail marain oh pehm ih utakerail kahrehda korusie konehng sawaspene nin duwen pirien ehu.
+:   lang: pon
+    lang_639_3: pon
+    lang_full: pon-Latn-FM
+    lang_bcp_udhr: pon
+    name_udhr: Pohnpeian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: pon
+? Todos os seres humanos nascem livres e iguais em dignidade e direitos. São dotados de razão e consciência e devem agir em relação uns aos outros com espírito de fraternidade.
+:   lang: pt
+    lang_639_3: por
+    lang_full: pt-Latn-BR
+    lang_bcp_udhr: pt-BR
+    name_udhr: Portuguese (Brazil)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: por_BR
+? Todos os seres humanos nascem livres e iguais em dignidade e em direitos. Dotados de razão e de consciência, devem agir uns para com os outros em espírito de fraternidade.
+:   lang: pt
+    lang_639_3: por
+    lang_full: pt-Latn-BR
+    lang_bcp_udhr: pt-PT
+    name_udhr: Portuguese (Portugal)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: por_PT
+? Tudu pekaduris ta padidu libri i igual na balur suma na diritus. Suma e dadu kapasidadi di pensa, e tene tambi konsiensia, e dibi di trata ñutru suma ermons.
+:   lang: pov
+    lang_639_3: pov
+    lang_full: pov-Latn-US
+    lang_bcp_udhr: pov
+    name_udhr: Crioulo, Upper Guinea
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: pov
+? Muchi ne tay gen tu weyga nestiwit tamagixti genga tik ekneliat wan ipal wan gichiwtiwit ipal ma munegigan ne se pal ne se.
+:   lang: ppl
+    lang_639_3: ppl
+    lang_full: ppl-Latn-US
+    lang_bcp_udhr: ppl
+    name_udhr: Pipil
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ppl
+? Tóuti lis uman naisson libre. Soun egau pèrla digneta e li dre. An tóuti uno resoun e uno counsciènci. Se dèvon tenifreirenau lis un 'mé lis autre.
+:   lang: oc
+    lang_639_3: oci
+    lang_full: oc-Latn-FR
+    lang_bcp_udhr: oc
+    name_udhr: Occitan
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: prv
+? Konojel ri winaq are taq ke'alaxik pa junaman ya'tal chkech kakechab'ej ronojel ri utzil; utz kakib'ano, kakichomaj, kakib'ij jasa je' ri k'o pa kanima, rumal che ri junam kib'antajik.
+    Rajawaxik xuqe' kakimulij kib' che utzukuxuk ri loq'ob'al pa we uwachulew.
+:   lang: quc
+    lang_639_3: quc
+    lang_full: quc-Latn-GT
+    lang_bcp_udhr: quc
+    name_udhr: K'iche', Central
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: quc
+? Tucuy runacuna quishpirihuán huiñán, pactacunahuampes, pay pura, umahuán, ayahuán chay shucuna shina, chaymantami shuclla shina causangacuna.
+:   lang: qu
+    lang_639_3: que
+    lang_full: qu-Latn-PE
+    lang_bcp_udhr: qu
+    name_udhr: Quechua (Unified Quichua, old Hispanic orthography)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qud
+? |-
+    Tukuy runakunami maypipash kishpirishka, sumaykaypi(dignidad) paktapakta
+    wacharin. Chay wawakunaka sumak yuyaykuna, tiksiyuyay (fundamental),
+    huntami kan; chaymantami runapuraka shukllashina tukushpa, yanaparishpa
+    kawsana kan.
+:   lang: qug
+    lang_639_3: qug
+    lang_full: qug-Latn-EC
+    lang_bcp_udhr: qug
+    name_udhr: Quichua, Chimborazo Highland
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qug
+? Lliw runakunam nacesqanchikmantapacha libre kanchik, lliw derechonchikpipas iguallataqmi kanchik. Yuyayniyoq kasqanchikraykum hawkalla aylluntin hina kawsayta debenchik llapa runakunawan.
+:   lang: quy
+    lang_639_3: quy
+    lang_full: quy-Latn-US
+    lang_bcp_udhr: quy
+    name_udhr: Quechua, Ayacucho
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: quy
+? Llapa runan kay pachapi paqarin qispisqa, "libre" flisqa, allin kausaypi, chaninchasqa kausaypi kananpaq, yuyayniyoq, yachayniyoq runa kasqanman jina. Llapa runamasinwantaqmi wauqentin
+    jina munanakunan.
+:   lang: qu
+    lang_639_3: quz
+    lang_full: qu-Latn-PE
+    lang_bcp_udhr: qu
+    name_udhr: Quechua, Cusco
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: quz
+? Lapan runa kay pachach'u yurin libri kawananpaq, lapanchinuy iwal respetasha kananpaqmi, mana pipis jarupänanpaq, lapanpis iwal yarpach'akuy yach'aqmi, alita mana alita tantiyar kawananpaq.
+    Chaynuy runa masinwan juknin jukninwan kuyanakur kapäkuchun
+:   lang: qva
+    lang_639_3: qva
+    lang_full: qva-Latn-US
+    lang_bcp_udhr: qva
+    name_udhr: Quechua, Ambo-Pasco
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qva
+? Yumbay ollqokuna, warmikuna pullalla kashun leyninchiqkunawan. Manam ni pipapis kriyadunchu kanchiqllapa. Suqninchiq, suqninchiq atinchiqllapa yuyayta "imam alli, imam mana allichu"
+    nishpa. Chayshina kaptin, shumaqta tiyashunllapa suq ayllushinalla.
+:   lang: qvc
+    lang_639_3: qvc
+    lang_full: qvc-Latn-US
+    lang_bcp_udhr: qvc
+    name_udhr: Quechua, Cajamarca
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qvc
+? Lapan runakunapis yurikuyan librimi y wakinkaqkunanaw rispitashqa, mana jarukushqa kayänanpaq. Saynawmi runakunaqa yuriyan shumaq yarpayyuq, alitapis mana alitapis reqiykar y seqay
+    kuyapäkuyyuq. Saymi runakuna ali kawakuyänan jukninwan jukninwanpis.
+:   lang: qvh
+    lang_639_3: qvh
+    lang_full: qvh-Latn-US
+    lang_bcp_udhr: qvh
+    name_udhr: Quechua, Huamalíes-Dos de Mayo Huánuco
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qvh
+? Lapantsikunapis Iibrimi yurishqantsi. Bälintsimi y derëchuntsikunapis wakinkaqkunanoqlapami. Yarpaynintsikunapis kaykanmi runa mayintsikunawan juk wawqinoq kuyanakur kawapäkunantsipaq.
+:   lang: qvm
+    lang_639_3: qvm
+    lang_full: qvm-Latn-US
+    lang_bcp_udhr: qvm
+    name_udhr: Quechua, Margos-Yarowilca-Lauricocha
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qvm
+? Lapan runas kay pachachru nasimun juk rantisha runanuy mana pitas sirbinanpaqmi, alipa rikasha kananpaqmi, washasha kananpaqmi. Lapan runakunas nasipaakamun yarpayniyoqmi naatan tantiyayniyoqmi
+    ima lutanta rurapaakurursi tantiyakunanpaq. Lapan runakunas kawapaakunaman juk wawqenuylam.
+:   lang: qvn
+    lang_639_3: qvn
+    lang_full: qvn-Latn-US
+    lang_bcp_udhr: qvn
+    name_udhr: Quechua, North Junín
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qvn
+? Meyqan nunapis manam pipa sirweqnin nuna kananpaqtsu yurikushqa. I nuna karninmi meyqan nunapis juk láyatsu kayanman derëchunkunachowpis. I yarpachakiyta yacharninmi i allita mana
+    allita shonqonkunachow mákurninmi nunakuna jukninta wiyanakur kayanman.
+:   lang: qwh
+    lang_639_3: qwh
+    lang_full: qwh-Latn-US
+    lang_bcp_udhr: qwh
+    name_udhr: Quechua, Huaylas Ancash
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qwh
+? Tukuy kay pachaman paqarimujkuna libres nasekuntu tukuypunitaj kikin obligacionesniycjllataj, jinakamalla honorniyojtaj atiyniyojtaj, chantaqa razonwantaj concienciawantaj dotasqa
+    kasqankurayku, kawsaqe masipura jina, tukuy uj munakuyllapi kawsakunanku tian.
+:   lang: quh
+    lang_639_3: quh
+    lang_full: quh-Latn-US
+    lang_bcp_udhr: quh
+    name_udhr: Quechua, South Bolivian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qxa
+? Mayqan runapis manam pipa isklabun kananpaqtsu yurishqa. Y runa karninmi llapan runakuna iwal kayanman dirichunkunachawpis. Y yarpayta yacharninmi y allita mana allita shunqunkunachaw
+    makurninmi runakuna huknin hukninta rispitanakur kayanman.
+:   lang: qxn
+    lang_639_3: qxn
+    lang_full: qxn-Latn-US
+    lang_bcp_udhr: qxn
+    name_udhr: Quechua, Northern Conchucos Ancash
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qxn
+? Kanmi derechonchiskuna llapanchispa, nacesqanchismanta. Kantaqmi llapanchispa runa kayninchis. Manan runa kanchu manay derechoyoq. Huk runaq derecho hukpawan kaqllan kan. Kanmi derechonchis
+    llapanchispa allin kawsay libre tiyananchispaq. Llapan runaqpan kan yuyayninchis yachanapaq. Llapanchis kasun llapa runa masinchiskunawan munanakunapaq, huk ayllu hina.
+:   lang: qxu
+    lang_639_3: qxu
+    lang_full: qxu-Latn-US
+    lang_bcp_udhr: qxu
+    name_udhr: Quechua, Arequipa-La Unión
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: qxu
+? Kua anau rangatira ia te tangata katoatoa ma te aiteite i te au tikaanga e te tu ngateitei tiratiratu.  Kua ki ia ratou e te mero kimi ravenga e te akavangakau e kia akono tetai i
+    tetai, i roto i te vaerua piri anga taeake.
+:   lang: rar
+    lang_639_3: rar
+    lang_full: rar-Latn-US
+    lang_bcp_udhr: rar
+    name_udhr: Rarotongan
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: rar
+? Savorre manuśa biandõn meste thaj barabar k-o demnipen aj k-e hakaja. Si len godi aj somzanipen thaj si len te trąden pen jekh karing o aver and-o vogi e phralimnasqoro.
+:   lang: rmn
+    lang_639_3: rmn
+    lang_full: rmn-Latn-US
+    lang_bcp_udhr: rmn
+    name_udhr: Romani, Balkan
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: rmn
+? Sa e manušikane strukture bijandžona tromane thaj jekhutne ko digniteti thaj čapipa. Von si baxtarde em barvale gndaja thaj godžaja thaj trubun jekh avereja te kherjakeren ko vodži
+    pralipaja.
+:   lang: rmn
+    lang_639_3: rmn
+    lang_full: rmn-Latn-US
+    lang_bcp_udhr: rmn
+    name_udhr: Romani, Balkan (1)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: rmn_1
+? Tuti iatsâli umineshtsâ s-fac liberi shi egali la nâmuzea shi-ndrepturli. Eali suntu hârziti cu fichiri shi sinidisi shi lipseashti un cu alantu sh-si poartâ tu duhlu-a frâtsâljiljei.
+:   lang: rup
+    lang_639_3: rup
+    lang_full: rup-Latn-US
+    lang_bcp_udhr: rup
+    name_udhr: Aromanian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: rmy
+? Tuots umans naschan libers ed eguals in dignità e drets. Els sun dotats cun intellet e conscienza e dessan agir tanter per in uin spiert da fraternità.
+:   lang: rm
+    lang_639_3: roh
+    lang_full: rm-Latn-CH
+    lang_bcp_udhr: rm
+    name_udhr: Romansch
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: roh
+? Tuot ils umauns naschan libers ed eguels in dignited ed in drets. Els sun dotos cun radschun e conscienza e dessan agir ün invers l’oter in spiert da fraternited.
+:   lang: rm
+    lang_639_3: roh
+    lang_full: rm-Latn-CH
+    lang_bcp_udhr: rm-puter
+    name_udhr: Romansch (Puter)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: roh_puter
+? Tut ils umans naschan libers ed eguals en dignitad ed en dretgs. Els èn dotads cun raschun e conscienza e duain agir in vers l’auter en spiert da fraternitad.
+:   lang: rm
+    lang_639_3: roh
+    lang_full: rm-Latn-CH
+    lang_bcp_udhr: rm-rumgr
+    name_udhr: Romansch (Grischun)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: roh_rumgr
+? Tot igls carstgangs neschan libers ed eguals an dignitad ed an dretgs. Els èn dotos cun raschung e schientscha e duessan ager l’egn vers l’oter an spiert da fraternitad.
+:   lang: rm
+    lang_639_3: roh
+    lang_full: rm-Latn-CH
+    lang_bcp_udhr: rm-surmiran
+    name_udhr: Romansch (Surmiran)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: roh_surmiran
+? Tut ils humans neschan libers ed eguals en dignitad ed en dretgs. Els ein dotai cun raschun e cunscienzia e duein agir in viers l’auter en spért da fraternitad.
+:   lang: rm
+    lang_639_3: roh
+    lang_full: rm-Latn-CH
+    lang_bcp_udhr: rm-sursilv
+    name_udhr: Romansch (Sursilvan)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: roh_sursilv
+? Tut igls humans neschan libers ad eguals an dignitad ad an dretgs. Els en dotos cun raschùn a cunzienzia a den agir egn anviers l’oter an spiert da fraternitad.
+:   lang: rm
+    lang_639_3: roh
+    lang_full: rm-Latn-CH
+    lang_bcp_udhr: rm-sutsilv
+    name_udhr: Romansch (Sutsilvan)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: roh_sutsilv
+? Tuot ils umans naschan libers ed eguals in dignità ed in drets. Els sun dotats cun radschun e conscienza e dessan agir ün invers l’oter in ün spiert da fraternità.
+:   lang: rm
+    lang_639_3: roh
+    lang_full: rm-Latn-CH
+    lang_bcp_udhr: rm-vallader
+    name_udhr: Romansch (Vallader)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: roh_vallader
+? Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sînt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.
+:   lang: ro
+    lang_639_3: ron
+    lang_full: ro-Latn-RO
+    lang_bcp_udhr: ro
+    name_udhr: Romanian (1953)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ron_1953
+? Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.
+:   lang: ro
+    lang_639_3: ron
+    lang_full: ro-Latn-RO
+    lang_bcp_udhr: ro
+    name_udhr: Romanian (2006)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ron_2006
+? Abantu bose bavuka bishira bakizana kandi bangana mu gateka no mu ngingo zibubahiriza. Bafise ubwenge n'umutima kandi bategerezwa kwubahana nk'abavandimwe.
+:   lang: rn
+    lang_639_3: run
+    lang_full: rn-Latn-BI
+    lang_bcp_udhr: rn
+    name_udhr: Rundi
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: run
+? Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.
+:   lang: ru
+    lang_639_3: rus
+    lang_full: ru-Cyrl-RU
+    lang_bcp_udhr: ru
+    name_udhr: Russian
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: rus
+? Adü âzo kûê yamba, ngâ âla lîngbi terê na lêgë tî nëngö-terê na tî ângangü. Ala kûê awara ndarä na börö-li sï âla lîngbi tî dutï na âmbâ tî âla gï na lêngö söngö.
+:   lang: sg
+    lang_639_3: sag
+    lang_full: sg-Latn-CF
+    lang_bcp_udhr: sg
+    name_udhr: Sango
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: sag
+? Дьон барыта бэйэ суолтатыгар уонна быраабыгар тэҥ буолан төрүүллэр. Кинилэр бары өркөн өйдөөх, суобастаах буолан төрүүллэр, уонна бэйэ бэйэлэригэр тылга кииринигэс быһыылара доҕордоһуу
+    тыыннаах буолуохтаах.
+:   lang: sah
+    lang_639_3: sah
+    lang_full: sah-Cyrl-RU
+    lang_bcp_udhr: sah
+    name_udhr: Yakut
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: sah
+? सर्वे मानवाः स्वतन्त्राः समुत्पन्नाः वर्तन्ते अपि च, गौरवदृशा अधिकारदृशा च समानाः एव वर्तन्ते। एते सर्वे चेतना-तर्क-शक्तिभ्यां सुसम्पन्नाः सन्ति। अपि च, सर्वेऽपि बन्धुत्व-भावनया परस्परं
+    व्यवहरन्तु।
+:   lang: sa
+    lang_639_3: san
+    lang_full: sa-Deva-IN
+    lang_bcp_udhr: sa
+    name_udhr: Sanskrit
+    script: Deva
+    source: https://unicode.org/udhr/
+    udhr_key: san
+? 𑌸𑌰𑍍𑌵𑍇 𑌮𑌾𑌨𑌵𑌾𑌃 𑌸𑍍𑌵𑌤𑌨𑍍𑌤𑍍𑌰𑌾𑌃 𑌸𑌮𑍁𑌤𑍍𑌪𑌨𑍍𑌨𑌾𑌃 𑌵𑌰𑍍𑌤𑌨𑍍𑌤𑍇 𑌅𑌪𑌿 𑌚, 𑌗𑍌𑌰𑌵𑌦𑍃𑌶𑌾 𑌅𑌧𑌿𑌕𑌾𑌰𑌦𑍃𑌶𑌾 𑌚 𑌸𑌮𑌾𑌨𑌾𑌃 𑌏𑌵 𑌵𑌰𑍍𑌤𑌨𑍍𑌤𑍇। 𑌏𑌤𑍇 𑌸𑌰𑍍𑌵𑍇 𑌚𑍇𑌤𑌨𑌾-𑌤𑌰𑍍𑌕-𑌶𑌕𑍍𑌤𑌿𑌭𑍍𑌯𑌾𑌂 𑌸𑍁𑌸𑌮𑍍𑌪𑌨𑍍𑌨𑌾𑌃 𑌸𑌨𑍍𑌤𑌿। 𑌅𑌪𑌿 𑌚, 𑌸𑌰𑍍𑌵𑍇𑌽𑌪𑌿 𑌬𑌨𑍍𑌧𑍁𑌤𑍍𑌵-𑌭𑌾𑌵𑌨𑌯𑌾 𑌪𑌰𑌸𑍍𑌪𑌰𑌂
+    𑌵𑍍𑌯𑌵𑌹𑌰𑌨𑍍𑌤𑍁।
+:   lang: sa
+    lang_639_3: san
+    lang_full: sa-Gran-IN
+    lang_bcp_udhr: sa-Gran
+    name_udhr: Sanskrit (Grantha)
+    script: Gran
+    source: https://unicode.org/udhr/
+    udhr_key: san_gran
+? Aw human sowels is born free and equal in dignity and richts. They are tochered wi mense and conscience and shuld guide theirsels ane til ither in a speirit o britherheid.
+:   lang: sco
+    lang_639_3: sco
+    lang_full: sco-Latn-GB
+    lang_bcp_udhr: sco
+    name_udhr: Scots
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: sco
+? Si'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.
+:   lang: sey
+    lang_639_3: sey
+    lang_full: sey-Latn-US
+    lang_bcp_udhr: sey
+    name_udhr: Secoya
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: sey
+? Dhanhø bëne ba anywølø e path ki bäng, ge pär ki yij bëëdø geki dyërø. gïn-a dwaddi kiper gen yï gen da rumi ki bëëdø mø göög gen ki pyëw akyel ga nyimëgg.
+:   lang: shk
+    lang_639_3: shk
+    lang_full: shk-Latn-ZZ
+    lang_bcp_udhr: shk
+    name_udhr: Shilluk
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: shk
+? ၵူၼ်းၵူႊၵေႃႉၼႆႉ ပဵၼ်ဢၼ်ၵိူတ်ႇမႃးလူၺ်ႈၵုင်ႇမုၼ်ဢၼ်လွတ်ႈလႅဝ်းၽဵင်ႇပဵင်းၵၼ် လႄႈ သုၼ်ႇလႆႈဢၼ် လွတ်ႈလႅဝ်းၽဵင်ႇ ပဵင်းၵၼ်။ ၶဝ်ၼႆႉ မီးၺၢၼ်ႇဢၼ်မေႃထတ်းသၢင် လႄႈ ၸႂ်ဢၼ်ႁူႉၸၵ်းၾိင်ႈတိုဝ်းၵမ် ၼၼ်ႉလႄႈ
+    ထုၵ်ႇဝႆႉၸႂ်ပီႈဢွၵ်ႇ ၼွင်ႉၶႆႇၵၼ်သေ တိတ်းတေႃႇၵၼ်။
+:   lang: shn
+    lang_639_3: shn
+    lang_full: shn-Mymr-MM
+    lang_bcp_udhr: shn
+    name_udhr: Shan
+    script: Mymr
+    source: https://unicode.org/udhr/
+    udhr_key: shn
+? Jatíbi joninra huetsa jonibaon yoiai nincáresti iqui, jahueraquibi jaconmai iamaquin; jainoash jahuen queena jacon jahuéquibo ati jahuequescamabi iqui, tsonbira amayamatima iqui. Jaticashbira
+    jascara aresti jacon shinanya iti jahuequescamabi iqui, jahuequescarainoash picota joni inonbi. Huestiora huestiorabora jahuéqui ati shinanya iqui; jainshon onanribique jahueratoqui
+    jacon iqui jainoash jaconma iqui ishon. Ja copira huetsa jonibires inonbi non jato jaconharesti iqui, non huetsabi non acai quescaaquin.
+:   lang: shp
+    lang_639_3: shp
+    lang_full: shp-Latn-US
+    lang_bcp_udhr: shp
+    name_udhr: Shipibo-Conibo
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: shp
+? සියලු මනුෂ්‍යයෝ නිදහස්ව උපත ලබා ඇත. ගරුත්වයෙන් හා අයිතිවාසිකම්වලින් සමාන වෙති. යුක්ති අයුක්ති පිළිබඳ හැඟීමෙන් හා හෘදය සාක්ෂියෙන් යුත් ඔවුන්, ඔවුනොවුන්ට සැළකිය යුත්තේ සහෝදරත්වය පිළිබඳ
+    හැඟීමෙනි.
+:   lang: si
+    lang_639_3: sin
+    lang_full: si-Sinh-LK
+    lang_bcp_udhr: si
+    name_udhr: Sinhala
+    script: Sinh
+    source: https://unicode.org/udhr/
+    udhr_key: sin
+? سارے انسان ازادا تے حقوق تے عزت دے اعتبار نال ہکو ڄئے پیدا تھیندن ۔ قدرت ولوں انہاں کوں عقل تے سمجھ عطا تھیندی اے ۔ ہیں کیتے ہک ڋوجھے نال بھرپی داسلوک کرڻا چاہی دا اے ۔
+:   lang: skr
+    lang_639_3: skr
+    lang_full: skr-Arab-PK
+    lang_bcp_udhr: skr
+    name_udhr: Seraiki
+    script: Arab
+    source: https://unicode.org/udhr/
+    udhr_key: skr
+? Všetci ľudia sa rodia slobodní a sebe rovní , čo sa týka ich dostojnosti a práv. Sú obdarení rozumom a majú navzájom jednať v bratskom duchu.
+:   lang: sk
+    lang_639_3: slk
+    lang_full: sk-Latn-SK
+    lang_bcp_udhr: sk
+    name_udhr: Slovak
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: slk
+Heme kishler hür der, haysiyet ma haklarde adil der, mantik ma vicdan var, kardeshlikden davraneshge.:
+    lang: slr
+    lang_639_3: slr
+    lang_full: slr-Latn-US
+    lang_bcp_udhr: slr
+    name_udhr: Salar
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: slr
+? Vsi ljudje se rodijo svobodni in imajo enako dostojanstvo in enake pravice. Obdarjeni so z razumom in vestjo in bi morali ravnati drug z drugim kakor bratje.
+:   lang: sl
+    lang_639_3: slv
+    lang_full: sl-Latn-SI
+    lang_bcp_udhr: sl
+    name_udhr: Slovenian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: slv
+? Buot olbmot leat riegádan friddjan ja olmmošárvvu ja olmmošvuoigatvuođaid dáfus. Sii leat jierbmalaš olbmot geain lea oamedovdu ja sii gálggaše leat dego vieljačagat.
+:   lang: se
+    lang_639_3: sme
+    lang_full: se-Latn-NO
+    lang_bcp_udhr: se
+    name_udhr: Saami, North
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: sme
+? O tagata soifua uma ua saoloto lo latou fananau mai, ma e tutusa o latou tulaga aloaia faapea a latou aia tatau. Ua faaeeina atu i a latou le mafaufau lelei ma le loto fuatiaifo ma
+    e tatau ona faatino le agaga faauso i le va o le tasi i le isi,
+:   lang: sm
+    lang_639_3: smo
+    lang_full: sm-Latn-WS
+    lang_bcp_udhr: sm
+    name_udhr: Samoan
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: smo
+? Vanhu vese vanoberekwa vakasununguka uyewo vakaenzana pahunhu nekodzero dzavo. Vanhu vese vanechipo chokufunga nekuziva chakaipa nechakanaka saka vanofanira kubatana nomweya wohusahwira.
+:   lang: sn
+    lang_639_3: sna
+    lang_full: sn-Latn-ZW
+    lang_bcp_udhr: sn
+    name_udhr: Shona
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: sna
+? Haadama renme su saareyen ŋa an na du-kitten ña, an nta sere komaaxu, an do soron su yan yekka dorontaaxu do taqu. Haqilen, wa sere su, a do soro kuttu nan siri terene doome kappalengaaxu
+    kanma.
+:   lang: snk
+    lang_639_3: snk
+    lang_full: snk-Latn-ML
+    lang_bcp_udhr: snk
+    name_udhr: Soninke
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: snk
+? |-
+    Sia'bai̱ aideo'yë goa'ye beoye gu̱i'ne sia'yë'quë maca
+    bai'ye gu̱i'ne quëco baye co̱ni, ja̱je̱ goachase'sëte goa'ju̱i'ñe beoye ñese saiye
+    bai'ji co̱caijë yequë bai̱reje.
+:   lang: snn
+    lang_639_3: snn
+    lang_full: snn-Latn-US
+    lang_bcp_udhr: snn
+    name_udhr: Siona
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: snn
+? Aadanaha dhammaantiis wuxuu dhashaa isagoo xor ah kana siman xagga sharafta iyo xuquuqada Waxaa Alle (Ilaah) siiyay aqoon iyo wacyi, waana in qof la arkaa qofka kale ula dhaqmaa si
+    walaaltinimo ah.
+:   lang: so
+    lang_639_3: som
+    lang_full: so-Latn-SO
+    lang_bcp_udhr: so
+    name_udhr: Somali
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: som
+? Batho bohle ba tswetswe ba lokolohile mme ba lekana ka botho le ditokelo. Ba tswetswe le monahano le letswalo mme ba tlamehile ho phedisana le ba bang ka moya wa boena.
+:   lang: st
+    lang_639_3: sot
+    lang_full: st-Latn-ZA
+    lang_bcp_udhr: st
+    name_udhr: Sotho, Southern
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: sot
+? Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.
+:   lang: es
+    lang_639_3: spa
+    lang_full: es-Latn-ES
+    lang_bcp_udhr: es
+    name_udhr: Spanish
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: spa
+? Totu sos èsseres umanos naschint lìberos e eguales in dinnidade e in deretos. Issos tenent sa resone e sa cussèntzia e depent operare s'unu cun s'àteru cun ispìritu de fraternidade.
+:   lang: sc
+    lang_639_3: src
+    lang_full: sc-Latn-IT
+    lang_bcp_udhr: sc
+    name_udhr: Sardinian, Logudorese
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: src
+? Сва људска бића рађају се слободна и једнака у достојанству и правима. Она су обдарена разумом и свешћу и треба једни према другима да поступају у духу братства.
+:   lang: sr
+    lang_639_3: srp
+    lang_full: sr-Cyrl-RS
+    lang_bcp_udhr: sr-Cyrl
+    name_udhr: Serbian (Cyrillic)
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: srp_cyrl
+? Sva ljudska bića rađaju se slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena razumom i svešću i treba jedni prema drugima da postupaju u duhu bratstva.
+:   lang: sr
+    lang_639_3: srp
+    lang_full: sr-Latn-RS
+    lang_bcp_udhr: sr-Latn
+    name_udhr: Serbian (Latin)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: srp_latn
+? Wiin we naa ñoowaa na adna, den fop mbodu no ke war na oxnu refna na den a jega o ngalaat umpi yiif um, le mbarin o meƭtootaa baa mbaag o ñoow den fop no fog.
+:   lang: srr
+    lang_639_3: srr
+    lang_full: srr-Latn-SN
+    lang_bcp_udhr: srr
+    name_udhr: Serer-Sine
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: srr
+? Bonkhe bantfu batalwa bakhululekile balingana ngalokufananako ngesitfunti nangemalungelo. Baphiwe ingcondvo nekucondza kanye nanembeza ngakoke bafanele batiphatse nekutsi baphatse
+    nalabanye ngemoya webuzalwane.
+:   lang: ss
+    lang_639_3: ssw
+    lang_full: ss-Latn-ZA
+    lang_bcp_udhr: ss
+    name_udhr: Swati
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ssw
+? Banhu bose bakabyalagwa na wiyabi na bakabizaga na makujo na sekge jabo jilenganilile. Banhu bose bakabizaga na masala na buhabuji; hukuyomba balidakilwa gubi na witogwa gidi bana
+    ba myaji umo.
+:   lang: suk
+    lang_639_3: suk
+    lang_full: suk-Latn-TZ
+    lang_bcp_udhr: suk
+    name_udhr: Sukuma
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: suk
+? Sakumna jalma gubrag ka alam dunya teh sifatna merdika jeung boga martabat katut hak-hak anu sarua . Maranehna dibere akal jeung hate nurani, campur-gaul jeung sasamana aya dina sumanget
+    duduluran.
+:   lang: su
+    lang_639_3: sun
+    lang_full: su-Latn-ID
+    lang_bcp_udhr: su
+    name_udhr: Sunda
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: sun
+? Adamadie birin barixinɛ e lan yɛtɛralui kui, yɛtɛ kolonyi nun yɛtɛ suxu kima. Fondoe nun faxamui na e bɛ boresuxu kima bariboreya fanyi kui.
+:   lang: sus
+    lang_639_3: sus
+    lang_full: sus-Latn-GN
+    lang_bcp_udhr: sus
+    name_udhr: Susu
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: sus
+? Wanadamu piya udzalwa huru tsena sawa ha ufahari na ha haki. Na wawo wana ãkili na hisi, esa ilazimu wadzivhinge na wanyao ha fikira ya unanya.
+:   lang: swb
+    lang_639_3: swb
+    lang_full: swb-Latn-YT
+    lang_bcp_udhr: swb
+    name_udhr: Comorian, Maore
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: swb
+? Alla människor äro födda fria och lika i värde och rättigheter. De äro utrustade med förnuft och samvete och böra handla gentemot varandra i en anda av broderskap.
+:   lang: sv
+    lang_639_3: swe
+    lang_full: sv-Latn-SE
+    lang_bcp_udhr: sv
+    name_udhr: Swedish
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: swe
+Watu wote wamezaliwa huru, hadhi na haki zao ni sawa. Wote wamejaliwa akili na dhamiri, hivyo yapasa watendeane kindugu.:
+    lang: sw
+    lang_639_3: swh
+    lang_full: sw-Latn-TZ
+    lang_bcp_udhr: sw
+    name_udhr: Swahili
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: swh
+? E fanauhia te tā'āto'ara'a o te ta'ata-tupu ma te ti'amā e te ti'amanara'a 'aifaito. Ua 'ī te mana'o pa'ari e i te manava e ma te 'a'au taea'e 'oia ta ratou ha'a i rotopū ia ratou
+    iho, e ti'a ai;
+:   lang: ty
+    lang_639_3: tah
+    lang_full: ty-Latn-PF
+    lang_bcp_udhr: ty
+    name_udhr: Tahitian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tah
+? म्होक्कोन (गोदोप) नोन म्हीम केपान्हापा हेन्छे नुन हाङपाङवा (स्वतन्त्र) याङवा हीन्ना । थे म्होक्कोनला (गोदोपला) च्योच्यो याङताम थेन महत्व मुला । थेनीकादेरी सेमबाङ (विचार शक्ति) देन
+    थु-सेमसाङ मुबासे थेनीजुगुसे ह्राङन्हाङरी नुन थेत्माला सेमलेङमोग्याम्से (भवनाबाट) ग्ये लातोबान मुला ।
+:   lang: taj
+    lang_639_3: taj
+    lang_full: taj-Deva-NP
+    lang_bcp_udhr: taj
+    name_udhr: Tamang, Eastern
+    script: Deva
+    source: https://unicode.org/udhr/
+    udhr_key: taj
+? மனிதப் பிறிவியினர் சகலரும் சுதந்திரமாகவே பிறக்கின்றனர்; அவர்கள் மதிப்பிலும், உரிமைகளிலும் சமமானவர்கள், அவர்கள் நியாயத்தையும் மனச்சாட்சியையும் இயற்பண்பாகப் பெற்றவர்கள். அவர்கள் ஒருவருடனொருவர்
+    சகோதர உணர்வுப் பாங்கில் நடந்துகொள்ளல் வேண்டும்.
+:   lang: ta
+    lang_639_3: tam
+    lang_full: ta-Taml-IN
+    lang_bcp_udhr: ta-LK
+    name_udhr: Tamil (Sri Lanka)
+    script: Taml
+    source: https://unicode.org/udhr/
+    udhr_key: tam_LK
+? Барлык кешеләр дә азат һәм үз абруйлары һәм хокуклары ягыннан тиң булып туалар. Аларга акыл һәм вөҗдан бирелгән һәм бер-берсенә карата туганарча [туганнарча] мөнәсәбәттә булырга тиешләр.
+:   lang: tt
+    lang_639_3: tat
+    lang_full: tt-Cyrl-RU
+    lang_bcp_udhr: tt
+    name_udhr: Tatar
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: tat
+? Oniti ti pɛi nɖɛ omɔũ yi kpaatri otɔu, kɛ yɛ̃ oniti ba we, o yi ɖo nnɛ fɛhɔ̃fɛ; o mɔkɛmu mɛcii kɛhã mɛyɛmmɛ. Ti tú nɛ ɖo kenyari ti tɔbɛ mbɛ kɛ yie mii ba nkwuɔ ko otɔu ɖau.
+:   lang: tbz
+    lang_639_3: tbz
+    lang_full: tbz-Latn-ZZ
+    lang_bcp_udhr: tbz
+    name_udhr: Ditammari
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tbz
+? Ngẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.
+:   lang: tca
+    lang_639_3: tca
+    lang_full: tca-Latn-US
+    lang_bcp_udhr: tca
+    name_udhr: Ticuna
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tca
+? ప్రతిపత్తిస్వత్వముల విషయమున మానవులెల్లరును జన్మతః స్వతంత్రులును సమానులును నగుదురు. వారు వివేచన-అంతఃకరణ సంపన్నులగుటచే పరస్పరము భ్రాతృభావముతో వర్తింపవలయును.
+:   lang: te
+    lang_639_3: tel
+    lang_full: te-Telu-IN
+    lang_bcp_udhr: te
+    name_udhr: Telugu
+    script: Telu
+    source: https://unicode.org/udhr/
+    udhr_key: tel
+? A kom aŋfəm akəpet bɛ ŋa athənʌnɛ yi rʌwankom. Ɔwa aŋ ba məmari məthənʌnɛ. Ɔwa aŋ ba məfith yi təchemp. Chiyaŋ, aŋ yi təkə gbasi aŋkos ŋaŋ mɔ kəpa ŋa təkom.
+:   lang: tem
+    lang_639_3: tem
+    lang_full: tem-Latn-SL
+    lang_bcp_udhr: tem
+    name_udhr: Themne
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tem
+? Ema hotu hotu moris hanesan ho dignidade ho direitu. Sira hotu iha hanoin, konsiensia n'e duni tenki hare malu hanesan espiritu maun-alin.
+:   lang: tet
+    lang_639_3: tet
+    lang_full: tet-Latn-TL
+    lang_bcp_udhr: tet
+    name_udhr: Tetun
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tet
+? Тамоми одамон озод ва аз лиҳози шарафу ҳуқуқ ба ҳам баробар ба дунё меоянд. Онҳо соҳиби ақлу виҷдонанд ва бояд бо якдигар муносибати бародарона дошта бошанд.
+:   lang: tg
+    lang_639_3: tgk
+    lang_full: tg-Cyrl-TJ
+    lang_bcp_udhr: tg
+    name_udhr: Tajiki
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: tgk
+? Ang lahat ng tao'y isinilang na malaya at pantay-pantay sa karangalan at mga karapatan. Sila'y pinagkalooban ng katwiran at budhi at dapat magpalagayan ang isa't isa sa diwa ng pagkakapatiran.
+:   lang: tl
+    lang_639_3: tgl
+    lang_full: fil-Latn-PH
+    lang_bcp_udhr: tl
+    name_udhr: Tagalog
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tgl
+? มนุษย์ทั้งหลายเกิดมามีอิสระและเสมอภาคกันในเกียรติศักด[เกียรติศักดิ์]และสิทธิ ต่างมีเหตุผลและมโนธรรม และควรปฏิบัติต่อกันด้วยเจตนารมณ์แห่งภราดรภาพ
+:   lang: th
+    lang_639_3: tha
+    lang_full: th-Thai-TH
+    lang_bcp_udhr: th
+    name_udhr: Thai
+    script: Thai
+    source: https://unicode.org/udhr/
+    udhr_key: tha
+? |
+    มนุษย์ทั้งปวงเกิดมามีอิสระและเสมอภาคกันในศักดิ์ศรีและสิทธิ ต่างในตนมีเหตุผลและมโนธรรม และควรปฏิบัติต่อกันด้วยจิตวิญญาณแห่งภราดรภาพ
+:   lang: th
+    lang_639_3: tha
+    lang_full: th-Thai-TH
+    lang_bcp_udhr: th
+    name_udhr: Thai (2)
+    script: Thai
+    source: https://unicode.org/udhr/
+    udhr_key: tha2
+ብመንፅር ክብርን መሰልን ኩሎም ሰባት እንትውለዱ ነፃን ማዕሪን እዮም፡፡ ምስትውዓልን ሕልናን ዝተዓደሎም ብምዃኖም ንሕድሕዶም ብሕውነታዊ መንፈስ ክተሓላለዩ ኦለዎም፡፡:
+    lang: ti
+    lang_639_3: tir
+    lang_full: ti-Ethi-ET
+    lang_bcp_udhr: ti
+    name_udhr: Tigrigna
+    script: Ethi
+    source: https://unicode.org/udhr/
+    udhr_key: tir
+? I mar maor ken kpan ga, nan ngu a icivir man mbamkpeiyol cii. I na nan mhen man ishima i kaven kwagh; nahan gba keng u nana tema a orgen ken mtem u angbian a angbian.
+:   lang: tiv
+    lang_639_3: tiv
+    lang_full: tiv-Latn-NG
+    lang_bcp_udhr: tiv
+    name_udhr: Tiv
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tiv
+? Həmmə insonon bəştə ləyoğəti iyən həxonro ozod iyən bərobər movardə bedən. Çəvon şuur iyən vicdon hese, əve ki, deyəndı mınasibətədə bənə bıvə rəftor kardəninin.
+:   lang: tly
+    lang_639_3: tly
+    lang_full: tly-Latn-AZ
+    lang_bcp_udhr: tly
+    name_udhr: Talysh
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tly
+? '''Enauac na naaxat shiỹaxauapi na mayipi huesochiguii qataq ''eeta''a''t da l''amaqchic qataq da ''enec qataq ỹataqta ỹaỹate''n naua lataxaco qataq nua no''o''n nvilỹaxaco, qaq ỹoqo''oyi
+    iuen da i ''oonolec ỹataqta itauan ichoxoden ca lỹa'
+:   lang: tob
+    lang_639_3: tob
+    lang_full: tob-Latn-US
+    lang_bcp_udhr: tob
+    name_udhr: Toba
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tob
+? Bantu boonse balazyalwa kabaangulukide alimwi kabeelene alimwi akwaanguluka kucita zyobayanda. Balazyalwa amaanu akuyeeya, aakusala alimwi beelede kulanga bambi mbuli banabokwabo.
+:   lang: toi
+    lang_639_3: toi
+    lang_full: toi-Latn-US
+    lang_bcp_udhr: toi
+    name_udhr: Tonga
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: toi
+? Spetsanal ja swinkil ja lu’um k’inali junxta wax jul schonjel, sok ja sijpanub’ali, ja yuj ojni b’ob’ sk’u’luk ja jas sk’ana-i ja b’as lekilali, ja yuj ja ay sk’ujoli sok ay spensari
+    t’ilan oj yilsb’aje lek sok ja smoj jumasa.
+:   lang: toj
+    lang_639_3: toj
+    lang_full: toj-Latn-US
+    lang_bcp_udhr: toj
+    name_udhr: Tojolabal
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: toj
+? Ko e kotoa ‘o ha’a tangata ‘oku fanau’i mai ‘oku tau’ataina pea tatau ‘i he ngeia mo e ngaahi totonu. Na’e fakanaunau’i kinautolu ‘aki ‘a e ‘atamai mo e konisenisi pea ‘oku totonu
+    ke nau feohi ‘i he laumalie ‘o e nofo fakatautehina.
+:   lang: to
+    lang_639_3: ton
+    lang_full: to-Latn-TO
+    lang_bcp_udhr: to
+    name_udhr: Tongan
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ton
+? Wakg lakch'ixkuwin talakgawan nak ka'unin niti ka'akgch'apawalinit nachuna wakg takg'alhi ixtamaxanatkan chu tu kaminini, je'e wanp'utun xlakata wakg talakpuwanan, talalakgk'atsan
+    liwakg, talakask'ini xlakata wakg natalamakgtaya.
+:   lang: top
+    lang_639_3: top
+    lang_full: top-Latn-US
+    lang_bcp_udhr: top
+    name_udhr: Totonac, Papantla
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: top
+? Yumi olgeta mama karim umi long stap fri na wankain long wei yumi lukim i gutpela na strepela tru. Uumi olgeta igat ting ting bilong wanem samting I rait na rong na mipela olgeta I
+    mas mekim gutpela pasin long ol narapela long tingting bilong brata susa.
+:   lang: tpi
+    lang_639_3: tpi
+    lang_full: tpi-Latn-PG
+    lang_bcp_udhr: tpi
+    name_udhr: Tok Pisin
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tpi
+? Batho botlhe ba tsetswe ba gololosegile le go lekalekana ka seriti le ditshwanelo. Ba abetswe go akanya le maikutlo, mme ba tshwanetse go direlana ka mowa wa bokaulengwe.
+:   lang: tn
+    lang_639_3: tsn
+    lang_full: tn-Latn-ZA
+    lang_bcp_udhr: tn
+    name_udhr: Tswana
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tsn
+? Vanhu hin'kwavu va psaliwili na va khululekìle, funthsi va fana hi lisima ni tinfaneno. Và psaliwili ni nyiko ya ku pimisa ni ku yehleketa; hi kolahu, va fanela ku hanya hi moya wa
+    umbìlu ni unghani.
+:   lang: ts
+    lang_639_3: tso
+    lang_full: ts-Latn-ZA
+    lang_bcp_udhr: ts
+    name_udhr: Tsonga (Mozambique)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tso_MZ
+? Vanhu hinkwavo va tswariwa va tshunxekile naswona va ringanile eka tifanelo na xindzhuti. Va havaxerile miehleketo na tshiriti kumbe ku tiva xo biha ni xta kahle nakambe va fanele
+    va kombana moya wa vukwavo.
+:   lang: ts
+    lang_639_3: tso
+    lang_full: ts-Latn-ZA
+    lang_bcp_udhr: ts
+    name_udhr: Tsonga (Zimbabwe)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tso_ZW
+? Iamendu k'uiripuecha janguarhiparini ka majku jarhati ka jurhimbekuecha jingoni kueraaŋasondikso ka, juajtakuarhisïndiksï ambakiti eratsekua ka kaxumbikua, jatsistiksï eskaksï sesi
+    arhijperaaka.
+:   lang: tsz
+    lang_639_3: tsz
+    lang_full: tsz-Latn-US
+    lang_bcp_udhr: tsz
+    name_udhr: Purepecha
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tsz
+? Хемме адамлар өз мертебеси ве хукуклары боюнча дең ягдайда дүнйә инйәрлер. Олара аң хем выҗдан берлендир ве олар бир‐бирлери билен доганлык рухундакы гарайышда болмалыдырлар.
+:   lang: tk
+    lang_639_3: tuk
+    lang_full: tk-Cyrl-TM
+    lang_bcp_udhr: tk-Cyrl
+    name_udhr: Turkmen (Cyrillic)
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: tuk_cyrl
+? Adamlaryň hemmesi azat dogulýarlar we öz mertebesi hem‐de hukuklary boýunça ilkibaşdan deňdirler. Olara ozal‐başdan aň, ynsap berlendir we biri‐birine özara doganlyk ruhunda çemeleşmek
+    olaryň ýaraşygydyr.
+:   lang: tk
+    lang_639_3: tuk
+    lang_full: tk-Latn-TM
+    lang_bcp_udhr: tk-Latn
+    name_udhr: Turkmen (Latin)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tuk_latn
+? Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.
+:   lang: tr
+    lang_639_3: tur
+    lang_full: tr-Latn-TR
+    lang_bcp_udhr: tr
+    name_udhr: Turkish
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tur
+? Бүгү кижилер хостуг база мөзүзү болгаш эргелери дең кылдыр төрүттүнер. Оларга угаансарыыл болгаш арын-нүүр бердинген болур болгаш олар бот-боттарынга  акы-дуңмалышкы хамаарылганы  көргүзер
+    ужурлуг.
+:   lang: tyv
+    lang_639_3: tyv
+    lang_full: tyv-Cyrl-RU
+    lang_bcp_udhr: tyv
+    name_udhr: Tuva
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: tyv
+? Skotol vinik o ants ta spejel balumile k’olem x-hayan i ko’ol ta sch’ulal i sderechoetik i, skotol k’ux-elan oyike oy srasonik y slekilalik, sventa skuxijik leknóo ta ju jun ju ju
+    vo.
+:   lang: tzo
+    lang_639_3: tzo
+    lang_full: tzo-Latn-US
+    lang_bcp_udhr: tzo
+    name_udhr: Tzotzil (Chamula)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tzc
+? Spisil winiketik te ya xbejk´ajik ta k´inalil ay jrerechotik, mayuk mach´a chukul ya xbejka, ya jnatik stojol te jpisiltik ay snopibal sok sbijil joltik, ja´ me k´ux ya kaibatik ta
+    jujun tul.
+:   lang: tzh
+    lang_639_3: tzh
+    lang_full: tzh-Latn-US
+    lang_bcp_udhr: tzh
+    name_udhr: Tzeltal, Oxchuc
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tzh
+? Imdanen, akken ma llan ttlalen d ilelliyen msawan di lḥweṛma d yizerfan- ghur sen tamsakwit d lâquel u yessefk ad-tili tegmatt gar asen.
+:   lang: tzm
+    lang_639_3: tzm
+    lang_full: tzm-Latn-MA
+    lang_bcp_udhr: tzm
+    name_udhr: Tamazight, Central Atlas
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: tzm
+? Aris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱
+    ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.
+:   lang: udu
+    lang_639_3: udu
+    lang_full: udu-Latn-US
+    lang_bcp_udhr: udu
+    name_udhr: Uduk
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: udu
+? ھەممە ئادەم زانىدىنلا ئەركىن، ئىززەت-ھۆرمەت ۋە ھوقۇقتا باپباراۋەر بولۇپ تۇغۇلغان. ئۇلار ئەقىلغە ۋە ۋىجدانغا ئىگە ھەمدە بىر-بىرىگە قېرىنداشلىق مۇناسىۋىتىگە خاس روھ بىلەن موئامىلە قىلىشى
+    كېرەك.
+:   lang: ug
+    lang_639_3: uig
+    lang_full: ug-Arab-CN
+    lang_bcp_udhr: ug-Arab
+    name_udhr: Uyghur (Arabic)
+    script: Arab
+    source: https://unicode.org/udhr/
+    udhr_key: uig_arab
+? hemme adem zatidinla erkin, izzet-hörmet we hoquqta babbarawer bolup tughulghan. ular eqilghe we wijdan'gha ige hemde bir-birige qérindashliq munasiwitige xas roh bilen muamile qilishi
+    kérek.
+:   lang: ug
+    lang_639_3: uig
+    lang_full: ug-Latn-CN
+    lang_bcp_udhr: ug-Latn
+    name_udhr: Uyghur (Latin)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: uig_latn
+? Всі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.
+:   lang: uk
+    lang_639_3: ukr
+    lang_full: uk-Cyrl-UA
+    lang_bcp_udhr: uk
+    name_udhr: Ukrainian
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: ukr
+? Omanu vosi vacitiwa valipwa kwenda valisoka kovina vyosikwenda komoko. Ovo vakwete esunga kwenda, kwenda olondunge kwenje ovo vatêla okuliteywila kuvamwe kwenda vakwavo vesokolwilo
+    lyocisola.
+:   lang: umb
+    lang_639_3: umb
+    lang_full: umb-Latn-AO
+    lang_bcp_udhr: umb
+    name_udhr: Umbundu
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: umb
+? Ita rijiicha itolere cacha. Aihana jaun, ita belaain, naojoain neuruhine laurilaurichuru nenacaauru aina itolere cachaauru.
+:   lang: ura
+    lang_639_3: ura
+    lang_full: ura-Latn-US
+    lang_bcp_udhr: ura
+    name_udhr: Urarina
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ura
+? تمام انسان آزاد اور حقوق و عزت کے اعتبار سے برابر پیدا ہوئے ہیں۔ انہیں ضمیر اور عقل ودیعت ہوئی ہے۔ اس لئے انہیں ایک دوسرے کے ساتھ بھائی چارے کا سلوک کرنا چاہیئے۔
+:   lang: ur
+    lang_639_3: urd
+    lang_full: ur-Arab-PK
+    lang_bcp_udhr: ur
+    name_udhr: Urdu
+    script: Arab
+    source: https://unicode.org/udhr/
+    udhr_key: urd
+? تمام انسان آزاد اور حقوق و عزت کے اعتبار سے برابر پیدا ہوئے ہیں۔ انہیں ضمیر اور عقل ودیعت ہوئی ہے۔ اس لیے انہیں ایک دوسرے کے ساتھ بھائی چارے کا سلوک کرنا چاہیے۔
+:   lang: ur
+    lang_639_3: urd
+    lang_full: ur-Arab-PK
+    lang_bcp_udhr: ur
+    name_udhr: Urdu (2)
+    script: Arab
+    source: https://unicode.org/udhr/
+    udhr_key: urd_2
+? Барча одамлар эркин, қадр‐қиммат ва ҳуқуқларда тенг бўлиб туғиладилар. Улар ақл ва виждон соҳибидирлар ва бир‐бирларига биродарларча муомала қилишлари зарур.
+:   lang: uz
+    lang_639_3: uzn
+    lang_full: uz-Cyrl-UZ
+    lang_bcp_udhr: uz-Cyrl
+    name_udhr: Uzbek, Northern (Cyrillic)
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: uzn_cyrl
+? Barcha odamlar erkin, qadr‐qimmat va huquqlarda teng boʻlib tugʻiladilar. Ular aql va vijdon sohibidirlar va bir‐birlariga birodarlarcha muomala qilishlari zarur.
+:   lang: uz
+    lang_639_3: uzn
+    lang_full: uz-Latn-UZ
+    lang_bcp_udhr: uz-Latn
+    name_udhr: Uzbek, Northern (Latin)
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: uzn_latn
+? ꕉꕜꕮ ꔔꘋ ꖸ ꔰ ꗋꘋ ꕮꕨ ꔔꘋ ꖸ ꕎ ꕉꖸꕊ ꕴꖃ ꕃꔤꘂ ꗱ, ꕉꖷ ꗪꗡ ꔻꔤ ꗏꗒꗡ ꕎ ꗪ ꕉꖸꕊ ꖏꕎ. ꕉꕡ ꖏ ꗳꕮꕊ ꗏ ꕪ ꗓ ꕉꖷ ꕉꖸ ꕘꕞ ꗪ. ꖏꖷ ꕉꖸꔧ ꖏ ꖸ ꕚꕌꘂ ꗷꔤ ꕞ ꘃꖷ ꘉꔧ ꗠꖻ ꕞ ꖴꘋ ꔳꕩ ꕉꖸ ꗳ.
+:   lang: vai
+    lang_639_3: vai
+    lang_full: vai-Vaii-LR
+    lang_bcp_udhr: vai
+    name_udhr: Vai
+    script: Vaii
+    source: https://unicode.org/udhr/
+    udhr_key: vai
+? Tuti i èsari umani i nase łìbari e conpanji par dinjità e deriti. I ze dotài de rajon e de cosiensa e i ga da conportarse intrà de łori co spìrito de fradełi.
+:   lang: vec
+    lang_639_3: vec
+    lang_full: vec-Latn-IT
+    lang_bcp_udhr: vec
+    name_udhr: Venetian
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: vec
+? Vhathu vhoṱhe vha bebwa vhe na mbofholowo nahone vha tshi lingana siani ḽa tshirunzi na pfanelo. Vhathu vhoṱhe vho ṋewa mihumbulo na mvalo ngauralo vha tea u konou farana sa vhathu
+    vhathihi.
+:   lang: ve
+    lang_639_3: ven
+    lang_full: ve-Latn-ZA
+    lang_bcp_udhr: ve
+    name_udhr: Venda
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ven2
+? Kaik mehed sünduba joudajin i kohtaižin, ühtejiččin ičeze arvokahudes i oiktusiš. Heile om anttud mel’ i huiktusentund i heile tariž kožuda toine toiženke kut vel’l’kundad.
+:   lang: vep
+    lang_639_3: vep
+    lang_full: vep-Latn-RU
+    lang_bcp_udhr: vep
+    name_udhr: Veps
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: vep
+? Tất cả mọi người sinh ra đều được tự do và bình đẳng về nhân phẩm và quyền. Mọi con người đều được tạo hoá ban cho lý trí và lương tâm và cần phải đối xử
+    với nhau trong tình bằng hữu.
+:   lang: vi
+    lang_639_3: vie
+    lang_full: vi-Latn-VN
+    lang_bcp_udhr: vi
+    name_udhr: Vietnamese
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: vie
+畢哿每𠊛生𠚢調得自由吧平等𧗱人品吧權。每𡥵𠊛調得造化頒朱理智吧良心吧勤沛對處𢭲膮𥪝情朋友。:
+    lang: vi
+    lang_639_3: vie
+    lang_full: vi-Hani-VN
+    lang_bcp_udhr: vi-Hani
+    name_udhr: Vietnamese (Han nom)
+    script: Hani
+    source: https://unicode.org/udhr/
+    udhr_key: vie_han
+? Atthu othene aniyaria oolikana ni owilamula moota ontthunaya okhala, variyari v’edignidade ni edireito. Akhalanne esaria ni otthokelela, ahaana akhalasaka othene saya vamurettele.
+:   lang: vmw
+    lang_639_3: vmw
+    lang_full: vmw-Latn-MZ
+    lang_bcp_udhr: vmw
+    name_udhr: Makhuwa
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: vmw
+? Nga an ngatanan nga mga tawo, nahimugso talwas ug katpong ha ira dignidad ug katdungan. Hira natawo dinhi ha tuna mayda konsensya ug isip ug kaangayan gud la nga an ira pagtagad ha
+    tagsatagsa sugad hin magburugto.
+:   lang: war
+    lang_639_3: war
+    lang_full: war-Latn-PH
+    lang_bcp_udhr: war
+    name_udhr: Waray-Waray
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: war
+? Tos lès-omes vinèt-st-å monde lîbes, èt so-l'minme pîd po çou qu'ènn'èst d'leu dignité èt d'leus dreûts. I n'sont nin foû rêzon èt-z-ont-i leû consyince po zèls, çou qu'èlzès deût
+    miner a s'kidûre onk' po l'ôte tot come dès frés.
+:   lang: wa
+    lang_639_3: wln
+    lang_full: wa-Latn-BE
+    lang_bcp_udhr: wa
+    name_udhr: Walloon
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: wln
+? Doomi aadama yépp danuy juddu, yam ci tawfeex ci sag ak sañ-sañ. Nekk na it ku xam dëgg te ànd na ak xelam, te war naa jëflante ak nawleen, te teg ko ci wàllu mbokk.
+:   lang: wo
+    lang_639_3: wol
+    lang_full: wo-Latn-SN
+    lang_bcp_udhr: wo
+    name_udhr: Wolof
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: wol
+人人生而自由，拉尊严脱仔权利上一律平等。伊拉有理性脱仔良心，并应以兄弟关系个精神相对待。:
+    lang: wuu
+    lang_639_3: wuu
+    lang_full: wuu-Hans-CN
+    lang_bcp_udhr: wuu
+    name_udhr: Chinese, Wu
+    script: Hans
+    source: https://unicode.org/udhr/
+    udhr_key: wuu
+Yiriba na bà sikindo dare bà mɛɛri, da seena yirimma mii bà ta da i nɛki bà tɔɔba.:
+    lang: wwa
+    lang_639_3: wwa
+    lang_full: wwa-Latn-ZZ
+    lang_bcp_udhr: wwa
+    name_udhr: Waama
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: wwa
+? Bonke abantu bazalwa bekhululekile belingana ngesidima nangokweemfanelo. Bonke abantu banesiphiwo sesazela nesizathu sokwenza isenzo ongathanda ukuba senziwe kumzalwane wakho.
+:   lang: xh
+    lang_639_3: xho
+    lang_full: xh-Latn-ZA
+    lang_bcp_udhr: xh
+    name_udhr: Xhosa
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: xho
+? Ba loge nɔɔna maama se ba taa ye bedwe mo ba ŋwea de ba chega seini, ye fefeo teira kɔtaa. Wɛ pɛ ba swa de boboŋa mo se ba taa ye nubiu daane ye ba jege da ŋwaŋa.
+:   lang: xsm
+    lang_639_3: xsm
+    lang_full: xsm-Latn-ZZ
+    lang_bcp_udhr: xsm
+    name_udhr: Kasem
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: xsm
+? Ne sarupay nijyami cumudeju darvantyamuy javatyasjiu. Jachipiyadati mirvara samirva, mirvamuy ne samirva. Ramunltiy sarivichanichara samirvariy jityunu vichavay.
+:   lang: yad
+    lang_639_3: yad
+    lang_full: yad-Latn-US
+    lang_bcp_udhr: yad
+    name_udhr: Yagua
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: yad
+? Wandu wosope akasapagwa ni ufulu ni uchimbichimbi wakulandana. Asapagwa ni lunda, niwakupakombola ganisya, m'yoyo kukusosekwa kuti mundu jwalijose am'woneje mundu jwimwe mpela mlongomjakwe.
+:   lang: yao
+    lang_639_3: yao
+    lang_full: yao-Latn-MZ
+    lang_bcp_udhr: yao
+    name_udhr: Yao
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: yao
+? Gubine gidii mani gargeleg nga faileng nibapuf mattʼawen nge rogon. Bay laniyan nipii e nam, ere ngauda ted mattʼaawen e chaa niba chugur ngoded nimod walag dad.
+:   lang: yap
+    lang_639_3: yap
+    lang_full: yap-Latn-FM
+    lang_bcp_udhr: yap
+    name_udhr: Yapese
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: yap
+? יעדער מענטש װערט געבױרן פֿרײַ און גלײַך אין כּבֿוד און רעכט. יעדער װערט באַשאָנקן מיט פֿאַרשטאַנד און געװיסן; יעדער זאָל זיך פֿירן מיט אַ צװײטן אין אַ געמיט פֿון ברודערשאַפֿט.
+:   lang: yi
+    lang_639_3: ydd
+    lang_full: yi-Hebr-001
+    lang_bcp_udhr: yi
+    name_udhr: Yiddish, Eastern
+    script: Hebr
+    source: https://unicode.org/udhr/
+    udhr_key: ydd
+? Көдэҥ тэн - ньидитэ бандьэ параwааньэрэҥ тудэ чуҥдэн ньилдьилэк эннулҥинь-мэдьуолнуни. Көдэҥ энмун чундэ мэ льэй, таатльэр лукундьии ньинэмдьийилпэ дитэ эннуйуол-мораwньэҥи.
+:   lang: ykg
+    lang_639_3: ykg
+    lang_full: ykg-Cyrl-RU
+    lang_bcp_udhr: ykg
+    name_udhr: Yukaghir, Northern
+    script: Cyrl
+    source: https://unicode.org/udhr/
+    udhr_key: ykg
+? Gbogbo ènìyàn ni a bí ní òmìnira; iyì àti è̩tó̩ kò̩ò̩kan sì dó̩gba. Wó̩n ní è̩bùn ti làákàyè àti ti è̩rí‐o̩kàn, ó sì ye̩ kí wo̩n ó máa hùwà sí ara wo̩n gé̩gé̩ bí o̩mo̩ ìyá.
+:   lang: yo
+    lang_639_3: yor
+    lang_full: yo-Latn-NG
+    lang_bcp_udhr: yo
+    name_udhr: Yoruba
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: yor
+? Tuláakal wíinik ku síijil jáalkʼab yetel keet u tsiikul yetel Najmal Sijnalil, beytun xan naʼataʼan sijnalil yetel noʼojaʼanil u tuukuloʼ, kʼaʼabet u bisikuba bey láaktzilil yetel
+    tuláakal u baatzileʼ.
+:   lang: yua
+    lang_639_3: yua
+    lang_full: yua-Latn-MX
+    lang_bcp_udhr: yua
+    name_udhr: Maya, Yucatán
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: yua
+人人生而平等，喺尊严同埋权利上一律平等。佢哋有理性同埋良心，而且应当以兄弟关系嘅精神相对待。:
+    lang: yue
+    lang_639_3: yue
+    lang_full: yue-Hani-HK
+    lang_bcp_udhr: yue
+    name_udhr: Chinese, Yue
+    script: Hani
+    source: https://unicode.org/udhr/
+    udhr_key: yue
+Diti mien ndied xa yent kuan nkie xa nak rieti xa diba xa rola.:
+    lang: zam
+    lang_639_3: zam
+    lang_full: zam-Latn-US
+    lang_bcp_udhr: zam
+    name_udhr: Zapotec, Miahuatlán
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: zam
+? Wo wanadamu piya wo uzalwa na uhuriya na usawa waki undru na uhaki. Wo upwawa ankili na urambuzi hayizo yilazimu warwaliyane hazitrendwa na fikira zaki unanya.
+:   lang: zdj
+    lang_639_3: zdj
+    lang_full: zdj-Latn-KM
+    lang_bcp_udhr: zdj
+    name_udhr: Comorian, Ngazidja
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: zdj
+? ⴰⵔ ⴷ ⵜⵜⵍⴰⵍⴰⵏ ⵎⵉⴷⴷⵏ ⴳⴰⵏ ⵉⵍⴻⵍⵍⵉⵜⵏ ⵎⴳⴰⴷⴷⴰⵏ ⵖ ⵡⴰⴷⴷⵓⵔ ⴷ ⵉⵣⵔⴼⴰⵏ, ⵢⵉⵍⵉ ⴰⴽⵯ ⴷⴰⵔⵙⵏ ⵓⵏⵍⵍⵉ ⴷ ⵓⴼⵔⴰⴽ, ⵉⵍⵍⴰ ⴼⵍⵍⴰ ⵙⵏ ⴰⴷ ⵜⵜⵎⵢⴰⵡⴰⵙⵏ ⵏⴳⵔⴰⵜⵙⵏ ⵙ ⵜⴰⴳⵎⴰⵜ.
+:   lang: zgh
+    lang_639_3: zgh
+    lang_full: zgh-Tfng-MA
+    lang_bcp_udhr: zgh
+    name_udhr: Tamazight, Standard Morocan
+    script: Tfng
+    source: https://unicode.org/udhr/
+    udhr_key: zgh
+? Kawiriaja kayapuina ichaukui ta nuka pucha panicha kupanimajicha cha nuka nishima ikicha kiniana panicha tamanuka kanata ikimajicha.
+:   lang: zro
+    lang_639_3: zro
+    lang_full: zro-Latn-US
+    lang_bcp_udhr: zro
+    name_udhr: Záparo
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: zro
+? Ra'ta ra bu:unny ra:aaly liebr cëhnn te'bloh deree'ch cëhnn dignidaa. Ra:alyne:erih gahll ri:e:eny cëhnn saalyb, chiru' na:a pahr ga:annza'crih loh sa'rih.
+:   lang: ztu
+    lang_639_3: ztu
+    lang_full: ztu-Latn-US
+    lang_bcp_udhr: ztu
+    name_udhr: Zapotec, Güilá
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: ztu
+? Bonke abantu bazalwa bekhululekile belingana ngesithunzi nangamalungelo. Bahlanganiswe wumcabango nangunembeza futhi kufanele baphathane ngomoya wobunye.
+:   lang: zu
+    lang_639_3: zul
+    lang_full: zu-Latn-ZA
+    lang_bcp_udhr: zu
+    name_udhr: Zulu
+    script: Latn
+    source: https://unicode.org/udhr/
+    udhr_key: zul
