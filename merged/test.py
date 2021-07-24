@@ -15,3 +15,5 @@ for text, v in data.items():
 for code, v in dupes.items():
     if v > 1:
         print(code)
+
+print(len(data.keys()))

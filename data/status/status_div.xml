@@ -15,7 +15,9 @@
 
 <history>
 
-  <history-entry date='May 17, 2009'>stage 4: the OHCHR now has a complete 
+  <history-entry date='July 24, 2021'>Converted HTML entities to plain Unicode. Thanks to Adam Twardoch.</history-entry>
+
+  <history-entry date='May 17, 2009'>stage 4: the OHCHR now has a complete
   translation; conversion to XML thanks to Eric Muller.</history-entry>
 
   <history-entry date='February 15, 2008'>stage 1: entered in the
@@ -25,4 +27,3 @@
 </history>
 
 </article>
-  

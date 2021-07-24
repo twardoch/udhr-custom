@@ -14,6 +14,9 @@
 <bridgehead id='history'>History</bridgehead>
 
 <history>
+
+  <history-entry date='July 24, 2021'>Converted HTML entities to plain Unicode. Thanks to Adam Twardoch.</history-entry>
+
   <history-entry date='March 2, 20202'>This translation is no longer available on the OHCHR site. It has been replaced and the new translation is available as [ven2].</history-entry>
 
   <history-entry date='August 17, 2009'>stage 4: XML version contributed
