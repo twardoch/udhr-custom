@@ -15,8 +15,6 @@
 
 <history>
 
-  <history-entry date='July 24, 2021'>Converted HTML entities to plain Unicode. Thanks to Adam Twardoch.</history-entry>
-
   <history-entry date='August 8, 2008'>stage 4.</history-entry>
 
   <history-entry date='August 4, 2008'>stage 2: entered in the index, OHCHR identified as the source.</history-entry>
@@ -24,3 +22,4 @@
 </history>
 
 </article>
+  

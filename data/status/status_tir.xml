@@ -15,8 +15,6 @@
 
 <history>
 
-  <history-entry date='July 24, 2021'>Converted HTML entities to plain Unicode. Thanks to Adam Twardoch.</history-entry>
-
   <history-entry date='September 4, 2006'>stage 4: OHCHR identified as
   the source, complete XML contributed by Adobe
   Systems.</history-entry>
@@ -24,3 +22,4 @@
 </history>
 
 </article>
+  

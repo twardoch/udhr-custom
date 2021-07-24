@@ -15,8 +15,6 @@
 
 <history>
 
-  <history-entry date='July 24, 2021'>Converted HTML entities to plain Unicode. Thanks to Adam Twardoch.</history-entry>
-
   <history-entry date='June 27, 2015'>ISO 639-3 ccx has been retired, as it was a generic name. Switching to the most spoken language in the group, zyb, “Zhuang, Yongbei”.</history-entry>
 
   <history-entry date='September 10, 2006'>[Eric Muller] merged
@@ -30,3 +28,4 @@
 </history>
 
 </article>
+  
