@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <udhrs>
-  <udhr f='eng_brai' iso639-3='eng' iso15924='Brai'  bcp47='en-Brai'   dir='ltr' ohchr=''  stage='4' notes='n' loc=''       demo='y' n='English (Braille)'/>
-  <udhr f='eng_dsrt' iso639-3='eng' iso15924='Dsrt'  bcp47='en-Dsrt'   dir='ltr' ohchr=''  stage='4' notes='n' loc=''       demo='y' n='English (Deseret)'/>
-  <udhr f='eng_shaw' iso639-3='eng' iso15924='Shaw'  bcp47='en-Shaw'   dir='ltr' ohchr=''  stage='4' notes='n' loc=''       demo='y' n='English (Shavian)'/>
-  <udhr f='hmn_hmng' iso639-3='hmn' iso15924='Hmng'  bcp47='hmn-Hmng'   dir='ltr' ohchr=''  stage='4' notes='n' loc=''       demo='y' n='Hmong (Pahawh Hmong)'/>
-  <udhr f='hmn_hmnp' iso639-3='hmn' iso15924='Hmnp'  bcp47='hmn-Hmnp'   dir='ltr' ohchr=''  stage='4' notes='n' loc=''       demo='y' n='Hmong (Nyiakeng Puachue Hmong'/>
-  <udhr f='men_mend' iso639-3='men' iso15924='Mend'  bcp47='men-Mend'   dir='rtl' ohchr=''  stage='4' notes='n' loc=''       demo='y' n='Mende (Mende)'/>
-  <udhr f='rej_rjng' iso639-3='rej' iso15924='Rjng'  bcp47='rej-Rjng'   dir='ltr' ohchr=''  stage='4' notes='n' loc=''       demo='y' n='Rejang'/>
-  <udhr f='rhg_rohg' iso639-3='rhg' iso15924='Rohg'  bcp47='rhg-Rohg'   dir='rtl' ohchr=''  stage='4' notes='n' loc=''       demo='y' n='Rohingya'/>
-  <udhr f='smp_samr' iso639-3='smp' iso15924='Samr'  bcp47='smp-Samr'   dir='rtl' ohchr=''  stage='4' notes='n' loc=''       demo='y' n='Samaritan'/>
-  <udhr f='syl_sylo' iso639-3='syl' iso15924='Sylo'  bcp47='syl-Sylo'   dir='ltr' ohchr=''  stage='4' notes='n' loc=''       demo='y' n='Sylheti (Sylheti Nagri)'/>
+  <udhr f='eng_brai' iso639-3='eng' iso15924='Brai'  bcp47='en-Brai'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='English (Braille)'/>
+  <udhr f='eng_dsrt' iso639-3='eng' iso15924='Dsrt'  bcp47='en-Dsrt'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='English (Deseret)'/>
+  <udhr f='eng_shaw' iso639-3='eng' iso15924='Shaw'  bcp47='en-Shaw'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='English (Shavian)'/>
+  <udhr f='hmn_hmng' iso639-3='hmn' iso15924='Hmng'  bcp47='hmn-Hmng'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='Hmong (Pahawh Hmong)'/>
+  <udhr f='hmn_hmnp' iso639-3='hmn' iso15924='Hmnp'  bcp47='hmn-Hmnp'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='Hmong (Nyiakeng Puachue Hmong'/>
+  <udhr f='men_mend' iso639-3='men' iso15924='Mend'  bcp47='men-Mend'   dir='rtl' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='Mende (Mende)'/>
+  <udhr f='rej_rjng' iso639-3='rej' iso15924='Rjng'  bcp47='rej-Rjng'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='Rejang'/>
+  <udhr f='rhg_rohg' iso639-3='rhg' iso15924='Rohg'  bcp47='rhg-Rohg'   dir='rtl' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='Rohingya'/>
+  <udhr f='smp_samr' iso639-3='smp' iso15924='Samr'  bcp47='smp-Samr'   dir='rtl' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='Samaritan'/>
+  <udhr f='syl_sylo' iso639-3='syl' iso15924='Sylo'  bcp47='syl-Sylo'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='Sylheti (Sylheti Nagri)'/>
+  <udhr f='cmn_nshu' iso639-3='cmn' iso15924='Nshu'  bcp47='zh-Nshu'   dir='ltr' ohchr='' stage='3' notes='n' loc='40.02,116.23' demo='y' n='Chinese, Mandarin (Nushu)' />
 </udhrs>

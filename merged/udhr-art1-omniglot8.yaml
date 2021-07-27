@@ -9354,6 +9354,18 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   script: Hmng
   source: https://r12a.github.io/
   udhr_key: hmn_hmng
+𛅳𛅳𛇏𛇈𛈤𛊢𛇥𛊵𛋍𛇮𛈆𛇟𛆈𛅰𛇟𛇛𛉠𛆶𛇷𛆖𛈶𛉄𛉾𛇮𛉴𛇹𛇥𛋀𛆱𛉂𛆒𛈘𛆱𛉘𛉽𛋙𛉵𛆬𛅻:
+  lang: zh
+  lang_639_3: zho
+  lang_bcp_udhr: zh-Nshu
+  lang_full: zh-Nshu-CN
+  lang_opt: zh-Nshu-CN
+  name_lang: Chinese (Nushu)
+  name_udhr: Chinese, Mandarin (Nushu)
+  script: Nshu
+  source: https://nushuscript.org/
+  territory: CN
+  udhr_key: cmn_nshu
 𞄔𞄄𞄧𞄤𞄃𞄧𞄴𞄅𞄫𞄵𞄘𞄧𞄵𞄉𞄨𞄴 𞄀𞄧𞄲𞄤𞄎𞄪𞄳𞄘𞄬𞄲𞄚𞄄𞄲𞄫𞄃𞄄𞄦𞄰𞄤𞄊𞄦𞄰𞄜𞄤𞄵𞄨𞄋𞄨𞄴 𞄄𞄤𞄳𞄨𞄔𞄨𞄲𞄈𞄤𞄦. 𞄉𞄤𞄳𞄬𞄆𞄤𞄲 𞄑𞄨𞄵𞄉𞄧𞄰𞄉𞄤𞄲𞄃𞄄𞄤𞄲𞄬 𞄃𞄄𞄦𞄰𞄤𞄉𞄧𞄰𞄊𞄦𞄰𞄤 𞄃𞄄𞄦𞄰𞄤 𞄦𞄰𞄉𞄫𞄵𞄘𞄧𞄳𞄤𞄁𞄧𞄱𞄈𞄨𞄲 𞄧𞄤 𞄎𞄪𞄂𞄤𞄱𞄬𞄦𞄰𞄉𞄫𞄵𞄂𞄤𞄱𞄬𞄔𞄨𞄲𞄎𞄪𞄧𞄳 𞄧𞄤𞄎𞄬𞄳𞄃𞄦𞄲.:
   lang: hmn
   lang_639_3: hmn
@@ -9406,15 +9418,3 @@ wanda tu cio ME pilOO o wolOO ni, le waa o ba ndOO cio, o bEElen kenando ni, o t
   source: https://unicode.org/udhr/
   territory: GN
   udhr_key: fuf_adlm
-𛅳𛅳𛇏𛇈𛈤𛊢𛇥𛊵𛋍𛇮𛈆𛇟𛆈𛅰𛇟𛇛𛉠𛆶𛇷𛆖𛈶𛉄𛉾𛇮𛉴𛇹𛇥𛋀𛆱𛉂𛆒𛈘𛆱𛉘𛉽𛋙𛉵𛆬𛅻:
-  lang: zh
-  lang_639_3: zho
-  lang_bcp_udhr: zh-Nshu
-  lang_full: zh-Nshu-CN
-  lang_opt: zh-Nshu-CN
-  name_lang: Chinese (Nushu)
-  name_udhr: Chinese, Mandarin (Nushu)
-  script: Nshu
-  source: https://nushuscript.org/
-  territory: CN
-  udhr_key: cmn_nshu
