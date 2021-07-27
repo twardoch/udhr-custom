@@ -29,7 +29,6 @@ BatakToba:
 Bengali:
   sanskrit: true
   script: Beng
-  skip: true
 Bhaiksuki:
   sanskrit: true
   script: Bhks
@@ -44,7 +43,6 @@ Buhid:
 Burmese:
   sanskrit: true
   script: Mymr
-  skip: true
 Chakma:
   script: Cakm
   skip: true
@@ -61,14 +59,12 @@ Dogra:
 Grantha:
   sanskrit: true
   script: Gran
-  skip: true
 GranthaPandya:
   script: Mlym
   skip: true
 Gujarati:
   sanskrit: true
   script: Gujr
-  skip: true
 GunjalaGondi:
   script: Gong
 Gurmukhi:
@@ -87,13 +83,11 @@ Hiragana:
 Javanese:
   sanskrit: true
   script: Java
-  skip: true
 Kaithi:
   script: Kthi
 Kannada:
   sanskrit: true
   script: Knda
-  skip: true
 Katakana:
   script: Kana
 KhamtiShan:
@@ -128,7 +122,6 @@ LaoPali:
   lang: san
   sanskrit: true
   script: Laoo
-  skip: true
 LaoTham:
   lang: lo
   sanskrit: true
@@ -139,18 +132,15 @@ Lepcha:
 Limbu:
   script: Limb
   nativize: false
-  skip: true
 LueTham:
   lang: khb
   sanskrit: true
   script: Lana
-  skip: true
 Mahajani:
   script: Mahj
 Malayalam:
   sanskrit: true
   script: Mlym
-  skip: true
 Marchen:
   post_options:
     - MarchenSanskritPalatals
@@ -173,7 +163,6 @@ Mon:
 Mongolian:
   sanskrit: true
   script: Mong
-  skip: true
 Mro:
   script: Mroo
 Multani:
@@ -186,7 +175,6 @@ OldPersian:
 Oriya:
   sanskrit: true
   script: Orya
-  skip: true
 PhagsPa:
   sanskrit: true
   script: Phag
@@ -214,7 +202,6 @@ Sinhala:
     - SinhalaPali
   sanskrit: true
   script: Sinh
-  skip: true
 SoraSompeng:
   script: Sora
 Soyombo:
@@ -247,7 +234,6 @@ Tamil:
     - ContextualLLa
   sanskrit: true
   script: Taml
-  skip: true
 TamilBrahmi:
   lang: oty
   parent: Gran
@@ -262,20 +248,17 @@ TamilGrantha:
 Telugu:
   sanskrit: true
   script: Telu
-  skip: true
 Thaana:
   script: Thaa
   skip: true
 Thai:
   sanskrit: true
   script: Thai
-  skip: true
 Tibetan:
   post_options:
     - TibetanSanskritPalatals
   sanskrit: true
   script: Tibt
-  skip: true
 Tirhuta:
   sanskrit: true
   script: Tirh

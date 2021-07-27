@@ -53,6 +53,9 @@
   <udhr f='san_lepc'                iso639-3='san' iso15924='Lepc'  bcp47='sa-Lepc'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Lepcha)'/>
         
 
+  <udhr f='san_limb'                iso639-3='san' iso15924='Limb'  bcp47='sa-Limb'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Limbu)'/>
+        
+
   <udhr f='san_mahj'                iso639-3='san' iso15924='Mahj'  bcp47='sa-Mahj'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Mahajani)'/>
         
 
@@ -68,6 +71,9 @@
   <udhr f='san_modi'                iso639-3='san' iso15924='Modi'  bcp47='sa-Modi'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Modi)'/>
         
 
+  <udhr f='san_mong'                iso639-3='san' iso15924='Mong'  bcp47='sa-Mong'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Mongolian)'/>
+        
+
   <udhr f='san_mroo'                iso639-3='san' iso15924='Mroo'  bcp47='sa-Mroo'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Mro)'/>
         
 
@@ -78,6 +84,9 @@
         
 
   <udhr f='san_xpeo'                iso639-3='san' iso15924='Xpeo'  bcp47='sa-Xpeo'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Old Persian)'/>
+        
+
+  <udhr f='san_orya'                iso639-3='san' iso15924='Orya'  bcp47='sa-Orya'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Odia / Oriya)'/>
         
 
   <udhr f='san_phag'                iso639-3='san' iso15924='Phag'  bcp47='sa-Phag'            dir='rtl' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Phags-pa)'/>
@@ -101,6 +110,9 @@
   <udhr f='san_sidd'                iso639-3='san' iso15924='Sidd'  bcp47='sa-Sidd'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Siddham)'/>
         
 
+  <udhr f='san_sinh'                iso639-3='san' iso15924='Sinh'  bcp47='sa-Sinh'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Sinhala)'/>
+        
+
   <udhr f='san_sora'                iso639-3='san' iso15924='Sora'  bcp47='sa-Sora'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Sora Sompeng)'/>
         
 
@@ -114,6 +126,9 @@
         
 
   <udhr f='san_takr'                iso639-3='san' iso15924='Takr'  bcp47='sa-Takr'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Takri)'/>
+        
+
+  <udhr f='san_brah'                iso639-3='san' iso15924='Brah'  bcp47='sa-Brah'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Brahmi)'/>
         
 
   <udhr f='san_tirh'                iso639-3='san' iso15924='Tirh'  bcp47='sa-Tirh'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Tirhuta)'/>
