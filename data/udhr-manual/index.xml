@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <udhrs>
+  <udhr f='cmn_nshu' iso639-3='cmn' iso15924='Nshu'  bcp47='zh-Nshu'   dir='ltr' ohchr='' stage='3' notes='n' loc='40.02,116.23' demo='y' n='Chinese, Mandarin (Nushu)' />
+  <udhr f='egy_egyp' iso639-3='egy' iso15924='Egyp' bcp47='egy-Egyp' dir='ltr' ohchr='' stage='3' notes='n' loc='' demo='y' n='Egyptian (Ancient, Egyptian hieroglyphs)' />
   <udhr f='eng_brai' iso639-3='eng' iso15924='Brai'  bcp47='en-Brai'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='English (Braille)'/>
   <udhr f='eng_dsrt' iso639-3='eng' iso15924='Dsrt'  bcp47='en-Dsrt'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='English (Deseret)'/>
   <udhr f='eng_shaw' iso639-3='eng' iso15924='Shaw'  bcp47='en-Shaw'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='English (Shavian)'/>
@@ -11,5 +13,4 @@
   <udhr f='rhg_rohg' iso639-3='rhg' iso15924='Rohg'  bcp47='rhg-Rohg'   dir='rtl' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='Rohingya'/>
   <udhr f='smp_samr' iso639-3='smp' iso15924='Samr'  bcp47='smp-Samr'   dir='rtl' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='Samaritan'/>
   <udhr f='syl_sylo' iso639-3='syl' iso15924='Sylo'  bcp47='syl-Sylo'   dir='ltr' ohchr=''  stage='3' notes='n' loc=''       demo='y' n='Sylheti (Sylheti Nagri)'/>
-  <udhr f='cmn_nshu' iso639-3='cmn' iso15924='Nshu'  bcp47='zh-Nshu'   dir='ltr' ohchr='' stage='3' notes='n' loc='40.02,116.23' demo='y' n='Chinese, Mandarin (Nushu)' />
 </udhrs>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--© The Office of the High Commisioner for Human Rights-->
+
+<udhr iso639-3='egy' xml:lang='egy-Egyp' key='egy_egyp' n='Egyptian (Ancient, Egyptian hieroglyphs)' dir='ltr' iso15924='Egyp' xmlns="http://www.unhchr.ch/udhr">
+   <title>𓂋𓐍𓇋𓇋𓅚𓀀𓁐𓏥𓅱𓈙𓃀𓇋𓇋𓏏𓏴𓀁𓁷𓏤𓏪𓉔𓊪𓏛</title>
+   <article number="1">
+      <title>𓋭𓊃𓀁𓏺</title>
+      <para>𓁷𓏤𓎟𓀀𓁐𓏥𓃀𓈖𓌱𓅓𓎛𓅱𓀔𓈖𓌱𓅓𓎛𓇋𓇋𓏏𓁐𓐍𓂋𓋴𓂝𓎛𓋩𓉔𓊪𓏛𓋴𓐠𓄿𓂋𓏏𓌗𓀁𓌷𓂝𓏏𓏭𓏛𓇾𓏏𓅓𓅱𓀀𓁐𓏪𓃀𓌢𓌢𓈖𓈖𓏛</para>
+   </article>
+   <article number="2">
+      <title>𓋭𓊃𓀁𓏺𓏺</title>
+      <para>𓁷𓏤𓎟𓀀𓁐𓏥𓃀𓈖𓆓𓏏𓏤𓀀𓁐𓏥𓁷𓏤𓈖𓏏𓏏𓅱𓈙𓃀𓇋𓇋𓏏𓏴𓀁𓂋𓂋𓍿𓀀𓁐𓏪𓎟𓅱𓎟𓊃𓀀𓏤𓎟𓈟𓏏𓁐𓎟𓊨𓏏𓉐𓂾𓏤𓎟𓇋𓅓𓎟𓐍𓈖𓅯𓀁𓎟𓇥𓂋𓇋𓇋𓈓𓎟𓊹𓂋𓏏𓁐𓎟𓄟𓋴𓐍𓈖𓏏𓉐</para>
+      <para>𓁷𓏤𓎟𓀀𓁐𓏥𓃀𓈖𓆓𓏏𓏤𓀀𓁐𓏥𓁷𓏤𓈖𓏏𓏏𓅱𓈙𓃀𓇋𓇋𓏏𓏴𓀁𓂋𓎟𓏎𓇓𓀛𓎟𓋴𓐍𓏏𓇏𓎟𓇾𓎟𓄋𓊪𓏴𓀁𓀀</para>
+   </article>
+   <article number="3">
+      <title>𓋭𓊃𓀁𓏺𓏺𓏺</title>
+      <para>𓉔𓊪𓏛𓃀𓁷𓏤𓎟𓀀𓁐𓏥𓋴𓂝𓎛𓋩𓅓𓄫𓅱𓀏𓏪𓉔𓊪𓏛𓃀𓁷𓏤𓎟𓀀𓁐𓏥𓈖𓌱𓅓𓎛𓅱𓀔𓈖𓌱𓅓𓎛𓇋𓇋𓏏𓁐</para>
+   </article>
+   <article number="4">
+      <title>𓋭𓊃𓀁𓏺𓏺𓏺𓏺</title>
+      <para>𓉔𓊪𓏛𓃀𓎟𓍛𓀀𓃀𓈖𓌱𓅓𓎛𓅱𓀔𓈖𓌱𓅓𓎛𓇋𓇋𓏏𓁐𓉔𓊪𓏛𓃀𓂢𓌕𓈖𓏏𓏛𓏥𓅓𓍛𓀀</para>
+   </article>
+</udhr>
