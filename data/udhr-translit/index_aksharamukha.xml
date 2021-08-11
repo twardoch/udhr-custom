@@ -2,203 +2,159 @@
 
 <udhrs>
 
-  <udhr f='aii_armi' iso639-3='aii' iso15924='Armi' bcp47='aii-Armi' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Imperial Aramaic)' />
-
-
-  <udhr f='aii_brah' iso639-3='aii' iso15924='Brah' bcp47='aii-Brah' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Brahmi)' />
-
-
-  <udhr f='aii_chrs' iso639-3='aii' iso15924='Chrs' bcp47='aii-Chrs' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Chorasmian)' />
-
-
-  <udhr f='aii_egyp' iso639-3='aii' iso15924='Egyp' bcp47='aii-Egyp' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Egyptian hieroglyphs)' />
-
-
-  <udhr f='aii_elym' iso639-3='aii' iso15924='Elym' bcp47='aii-Elym' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Elymaic)' />
-
-
-  <udhr f='aii_hatr' iso639-3='aii' iso15924='Hatr' bcp47='aii-Hatr' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Hatran)' />
-
-
-  <udhr f='aii_mani' iso639-3='aii' iso15924='Mani' bcp47='aii-Mani' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Manichaean)' />
-
-
-  <udhr f='aii_narb' iso639-3='aii' iso15924='Narb' bcp47='aii-Narb' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Old North Arabian)' />
-
-
-  <udhr f='aii_nbat' iso639-3='aii' iso15924='Nbat' bcp47='aii-Nbat' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Nabataean)' />
-
-
-  <udhr f='aii_palm' iso639-3='aii' iso15924='Palm' bcp47='aii-Palm' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Palmyrene)' />
-
-
-  <udhr f='aii_phli' iso639-3='aii' iso15924='Phli' bcp47='aii-Phli' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Inscriptional Pahlavi)' />
-
-
-  <udhr f='aii_phlp' iso639-3='aii' iso15924='Phlp' bcp47='aii-Phlp' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Psalter Pahlavi)' />
-
-
-  <udhr f='aii_phnx' iso639-3='aii' iso15924='Phnx' bcp47='aii-Phnx' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Phoenician)' />
-
-
-  <udhr f='aii_prti' iso639-3='aii' iso15924='Prti' bcp47='aii-Prti' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Inscriptional Parthian)' />
-
-
-  <udhr f='aii_samr' iso639-3='aii' iso15924='Samr' bcp47='aii-Samr' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Samaritan)' />
-
-
-  <udhr f='aii_sarb' iso639-3='aii' iso15924='Sarb' bcp47='aii-Sarb' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Old South Arabian)' />
-
-
-  <udhr f='aii_sogd' iso639-3='aii' iso15924='Sogd' bcp47='aii-Sogd' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Sogdian)' />
-
-
-  <udhr f='aii_sogo' iso639-3='aii' iso15924='Sogo' bcp47='aii-Sogo' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Old Sogdian)' />
-
-
-  <udhr f='aii_ugar' iso639-3='aii' iso15924='Ugar' bcp47='aii-Ugar' dir='ltr' ohchr='' stage='4' notes='n' loc='' demo='y' n='Assyrian Neo-Aramaic (Ugaritic)' />
-
   <udhr f='san_ahom'                iso639-3='san' iso15924='Ahom'  bcp47='sa-Ahom'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Ahom)'/>
-
+        
 
   <udhr f='san_avst'                iso639-3='san' iso15924='Avst'  bcp47='sa-Avst'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Avestan)'/>
-
+        
 
   <udhr f='san_bali'                iso639-3='san' iso15924='Bali'  bcp47='sa-Bali'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Balinese)'/>
+        
 
+  <udhr f='san_batk_btx'                iso639-3='san' iso15924='Batk'  bcp47='sa-Batk'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Batak, Batak Karo convention)'/>
+        
 
-  <udhr f='san_batk'                iso639-3='san' iso15924='Batk'  bcp47='sa-Batk'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Batak)'/>
+  <udhr f='san_batk_btm'                iso639-3='san' iso15924='Batk'  bcp47='sa-Batk'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Batak, Batak Mandailing convention)'/>
+        
 
+  <udhr f='san_batk_btd'                iso639-3='san' iso15924='Batk'  bcp47='sa-Batk'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Batak, Batak Dairi convention)'/>
+        
+
+  <udhr f='san_batk_bts'                iso639-3='san' iso15924='Batk'  bcp47='sa-Batk'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Batak, Batak Simalungun convention)'/>
+        
+
+  <udhr f='san_batk_bbc'                iso639-3='san' iso15924='Batk'  bcp47='sa-Batk'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Batak, Batak Toba convention)'/>
+        
 
   <udhr f='san_bhks'                iso639-3='san' iso15924='Bhks'  bcp47='sa-Bhks'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Bhaiksuki)'/>
-
+        
 
   <udhr f='san_brah'                iso639-3='san' iso15924='Brah'  bcp47='sa-Brah'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Brahmi)'/>
-
+        
 
   <udhr f='san_bugi'                iso639-3='san' iso15924='Bugi'  bcp47='sa-Bugi'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Buginese)'/>
-
+        
 
   <udhr f='san_buhd'                iso639-3='san' iso15924='Buhd'  bcp47='sa-Buhd'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Buhid)'/>
-
+        
 
   <udhr f='san_cham'                iso639-3='san' iso15924='Cham'  bcp47='sa-Cham'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Cham)'/>
-
+        
 
   <udhr f='san_dogr'                iso639-3='san' iso15924='Dogr'  bcp47='sa-Dogr'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Dogra)'/>
-
+        
 
   <udhr f='san_gong'                iso639-3='san' iso15924='Gong'  bcp47='sa-Gong'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Gunjala Gondi)'/>
-
+        
 
   <udhr f='san_hano'                iso639-3='san' iso15924='Hano'  bcp47='sa-Hano'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Hanunoo)'/>
-
+        
 
   <udhr f='san_kthi'                iso639-3='san' iso15924='Kthi'  bcp47='sa-Kthi'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Kaithi)'/>
-
+        
 
   <udhr f='san_khar'                iso639-3='san' iso15924='Khar'  bcp47='sa-Khar'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Kharoshthi)'/>
-
+        
 
   <udhr f='san_khoj'                iso639-3='san' iso15924='Khoj'  bcp47='sa-Khoj'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Khojki)'/>
-
+        
 
   <udhr f='san_sind'                iso639-3='san' iso15924='Sind'  bcp47='sa-Sind'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Khudawadi)'/>
-
+        
 
   <udhr f='san_lepc'                iso639-3='san' iso15924='Lepc'  bcp47='sa-Lepc'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Lepcha)'/>
-
+        
 
   <udhr f='san_limb'                iso639-3='san' iso15924='Limb'  bcp47='sa-Limb'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Limbu)'/>
-
+        
 
   <udhr f='san_mahj'                iso639-3='san' iso15924='Mahj'  bcp47='sa-Mahj'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Mahajani)'/>
-
+        
 
   <udhr f='san_marc'                iso639-3='san' iso15924='Marc'  bcp47='sa-Marc'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Marchen)'/>
-
+        
 
   <udhr f='san_gonm'                iso639-3='san' iso15924='Gonm'  bcp47='sa-Gonm'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Masaram Gondi)'/>
-
+        
 
   <udhr f='san_mtei'                iso639-3='san' iso15924='Mtei'  bcp47='sa-Mtei'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Meetei Mayek / Meitei)'/>
-
+        
 
   <udhr f='san_modi'                iso639-3='san' iso15924='Modi'  bcp47='sa-Modi'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Modi)'/>
-
+        
 
   <udhr f='san_mong'                iso639-3='san' iso15924='Mong'  bcp47='sa-Mong'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Mongolian)'/>
-
+        
 
   <udhr f='san_mroo'                iso639-3='san' iso15924='Mroo'  bcp47='sa-Mroo'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Mro)'/>
-
+        
 
   <udhr f='san_mult'                iso639-3='san' iso15924='Mult'  bcp47='sa-Mult'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Multani)'/>
-
+        
 
   <udhr f='san_newa'                iso639-3='san' iso15924='Newa'  bcp47='sa-Newa'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Newa / Newari)'/>
-
+        
 
   <udhr f='san_xpeo'                iso639-3='san' iso15924='Xpeo'  bcp47='sa-Xpeo'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Old Persian)'/>
-
+        
 
   <udhr f='san_orya'                iso639-3='san' iso15924='Orya'  bcp47='sa-Orya'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Odia / Oriya)'/>
-
+        
 
   <udhr f='san_phag'                iso639-3='san' iso15924='Phag'  bcp47='sa-Phag'            dir='rtl' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Phags-pa)'/>
-
+        
 
   <udhr f='san_ranj'                iso639-3='san' iso15924='Ranj'  bcp47='sa-Ranj'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Ranjana)'/>
-
+        
 
   <udhr f='san_rjng'                iso639-3='san' iso15924='Rjng'  bcp47='sa-Rjng'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Rejang)'/>
-
+        
 
   <udhr f='san_olck'                iso639-3='san' iso15924='Olck'  bcp47='sa-Olck'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Ol Chiki)'/>
-
+        
 
   <udhr f='san_saur'                iso639-3='san' iso15924='Saur'  bcp47='sa-Saur'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Saurashtra)'/>
-
+        
 
   <udhr f='san_shrd'                iso639-3='san' iso15924='Shrd'  bcp47='sa-Shrd'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Sharada)'/>
-
+        
 
   <udhr f='san_sidd'                iso639-3='san' iso15924='Sidd'  bcp47='sa-Sidd'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Siddham)'/>
-
+        
 
   <udhr f='san_sinh'                iso639-3='san' iso15924='Sinh'  bcp47='sa-Sinh'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Sinhala)'/>
-
+        
 
   <udhr f='san_sora'                iso639-3='san' iso15924='Sora'  bcp47='sa-Sora'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Sora Sompeng)'/>
-
+        
 
   <udhr f='san_soyo'                iso639-3='san' iso15924='Soyo'  bcp47='sa-Soyo'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Soyombo)'/>
-
+        
 
   <udhr f='san_sund'                iso639-3='san' iso15924='Sund'  bcp47='sa-Sund'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Sundanese)'/>
-
+        
 
   <udhr f='san_tagb'                iso639-3='san' iso15924='Tagb'  bcp47='sa-Tagb'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Tagbanwa)'/>
-
+        
 
   <udhr f='san_takr'                iso639-3='san' iso15924='Takr'  bcp47='sa-Takr'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Takri)'/>
+        
 
-
-  <udhr f='san_brah'                iso639-3='san' iso15924='Brah'  bcp47='sa-Brah'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Brahmi)'/>
-
+  <udhr f='san_brah_oty'                iso639-3='san' iso15924='Brah'  bcp47='sa-Brah'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Brahmi, Old Tamil convention)'/>
+        
 
   <udhr f='san_tirh'                iso639-3='san' iso15924='Tirh'  bcp47='sa-Tirh'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Tirhuta)'/>
-
+        
 
   <udhr f='san_wcho'                iso639-3='san' iso15924='Wcho'  bcp47='sa-Wcho'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Wancho)'/>
-
+        
 
   <udhr f='san_wara'                iso639-3='san' iso15924='Wara'  bcp47='sa-Wara'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Varang Kshiti / Warang Citi)'/>
-
+        
 
   <udhr f='san_zanb'                iso639-3='san' iso15924='Zanb'  bcp47='sa-Zanb'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Sanskrit (Zanabazar Square)'/>
-
+        
 
   <udhr f='mar_modi'                iso639-3='mar' iso15924='Modi'  bcp47='mr-Modi'            dir='ltr' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='Marathi (Modi)'/>
-
+        
 </udhrs>
