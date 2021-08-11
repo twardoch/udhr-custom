@@ -9,7 +9,7 @@ from lxml import etree
 import html
 from yaplon import reader, writer
 from pathlib import Path
-from aksharamukha import transliterate
+from gimeltra import gimeltra
 from collections import OrderedDict
 
 in_folder = Path('..', 'data', 'udhr')
@@ -28,13 +28,13 @@ directions = {
     "vertical (RTL)": "rtl",
 }
 
+langs = ['aii']
+
 in_docs = {
-    'udhr_san.xml': {'parent': 'Deva', 'aks': 'Devanagari'},
-    'udhr_mar.xml': {'parent': 'Deva', 'aks': 'Devanagari', 'to': ['Modi']},
+    'udhr_aii.xml': {'script': 'Syrc'},
 }
 
-skip_scripts = ['Adlm', 'Arab', 'Armn', 'Beng', 'Cakm', 'Cans', 'Cher', 'Cyrl', 'Deva', 'Ethi', 'Gran', 'Grek', 'Gujr', 'Guru', 'Hang', 'Hani', 'Hans', 'Hant', 'Hebr',
-                'Java', 'Jpan', 'Khmr', 'Knda', 'Kore', 'Lana', 'Laoo', 'Latn', 'Mlym', 'Mymr', 'Sylo', 'Syrc', 'Taml', 'Tavt', 'Telu', 'Tfng', 'Thaa', 'Thai', 'Tibt', 'Vaii', 'Yiii', 'Zzzz', 'Hira', 'Kana']
+do_scripts = ["Armi", "Brah", "Chrs", "Egyp", "Elym", "Hatr", "Mani", "Narb", "Nbat", "Palm", "Phli", "Phlp", "Phnx", "Prti", "Samr", "Sarb", "Sogd", "Sogo", "Ugar"]
 
 class UDHRTransliterator(object):
 
@@ -48,30 +48,24 @@ class UDHRTransliterator(object):
         self.script = None
         self.ak_scripts = OrderedDict()
         self.index = []
+        self.tr = gimeltra.Transliterator()
         self.init_ak()
 
     def init_ak(self):
-        with open('aksharamukha-scripts.yml') as f:
-            self.ak_scripts_all = reader.yaml(f)
-        for k, v in self.ak_scripts_all.items():
-            if v['script'] not in skip_scripts:
-                self.ak_scripts[k] = v
-        for k, v in self.ak_scripts.items():
-            script_name = db.norm_scripts[v['script']]['name']
+        #print(db.norm_scripts)
+        for k in do_scripts:
+            v = db.norm_scripts[k]
+            script_name = v['name']
+            self.ak_scripts[k] = OrderedDict()
+            self.ak_scripts[k]['script'] = k
             self.ak_scripts[k]['script_name'] = script_name
             self.ak_scripts[k]['language_system'] = script_name.\
                 replace('(', '/ ').replace(')', '')
             self.ak_scripts[k]['direction'] = directions[
-                db.norm_scripts[v['script']]['direction']
+                v['direction']
                 ]
-            if 'post_options' not in self.ak_scripts[k].keys():
-                self.ak_scripts[k]['post_options'] = []
-            #if 'parent' not in self.ak_scripts[k].keys():
-            if True: # For now, always use Devanagari because there is a problem in the san_gran UDHR
-                self.ak_scripts[k]['parent'] = 'Deva'
-            if 'lang' in self.ak_scripts[k].keys():
-                lang_i = db.lang_lookup.get(
-                    self.ak_scripts[k]['lang'], -1)
+            for lang in langs:
+                lang_i = db.lang_lookup.get(lang, -1)
                 if lang_i > -1:
                     lang_name = db.langs_list[lang_i]['name']
                     self.ak_scripts[k]['lang_name'] = lang_name
@@ -79,50 +73,34 @@ class UDHRTransliterator(object):
 
     def convert_docs(self):
         for k, v in in_docs.items():
-            self.convert_doc(k, v['parent'], v['aks'], v.get('to', None))
+            self.convert_doc(k, v['script'])
         indexes_txt = "\n".join(self.index)
         index_txt = f"""<?xml version="1.0" encoding="UTF-8"?>
 
 <udhrs>
 {indexes_txt}
 </udhrs>"""
-        with open(Path(out_folder, 'index_aksharamukha.xml'), 'w', encoding='utf-8') as index_file:
+        with open(Path(out_folder, 'index_gimeltra.xml'), 'w', encoding='utf-8') as index_file:
             index_file.write(index_txt)
 
 
-    def convert_doc(self, in_file_name, parent, from_aks, to_akss=None):
+    def convert_doc(self, in_file_name, in_script):
         self.open(in_file_name)
-        do_convert = False
-        for to_aks, ak in self.ak_scripts.items():
-            if ak.get('parent', None) == parent:
-                do_convert = True
-            if to_akss and to_aks not in to_akss:
-                do_convert = False
-            if ak.get('skip'):
-                do_convert = False
-            if do_convert:
-                self.convert_xml(from_aks, to_aks, ak)
-                self.save()
+        for out_script, ak in self.ak_scripts.items():
+            self.convert_xml(in_script, out_script, ak)
+            self.save()
 
-    def convert_el(self, text, from_aks, to_aks, ak):
-        return transliterate.process(
-            from_aks,
-            to_aks,
+    def convert_el(self, text, in_script, out_script):
+        return self.tr.tr(
             html.unescape(text.strip()),
-            nativize=ak.get('nativize', True),
-            pre_options=[],
-            post_options=ak['post_options']
-            )
+            sc=in_script,
+            to_sc=out_script)
 
-    def convert_xml(self, from_aks, to_aks, ak):
+    def convert_xml(self, in_script, out_script, ak):
         self.tree = copy.deepcopy(self.oldtree)
         self.root = self.tree.getroot()
-        ws = ak.get('lang', None)
-        ws_suf = ''
-        if ws:
-            ws_suf = f"_{ws}"
-        to_script = ak['script']
-        self.udhr_key = f"{self.lang}_{to_script.lower()}{ws_suf}"
+        to_script = out_script
+        self.udhr_key = f"{self.lang}_{to_script.lower()}"
         self.out_file_name = f"udhr_{self.udhr_key}.xml"
         self.udhr_bcp47 = f"{self.xml_lang_base}-{to_script}"
         self.root.attrib['{http://www.w3.org/XML/1998/namespace}lang'] = self.udhr_bcp47
@@ -132,7 +110,7 @@ class UDHRTransliterator(object):
         self.root.attrib['dir'] = ak['direction']
         self.root.attrib['iso15924'] = ak['script']
         for el in self.root.iter():
-            el.text = self.convert_el(el.text, from_aks, to_aks, ak)
+            el.text = self.convert_el(el.text, in_script, out_script)
         index_rec = f"""
   <udhr f='{self.udhr_key}'                iso639-3='{self.lang}' iso15924='{ak['script']}'  bcp47='{self.udhr_bcp47}'            dir='{ak['direction']}' ohchr=''        stage='4' notes='n' loc=''       demo='y' n='{self.udhr_name}'/>
         """
